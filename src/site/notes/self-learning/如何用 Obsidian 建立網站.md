@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/self-learning/obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-04T15:16:05.308+08:00","updated":"2025-05-04T19:01:25.949+08:00"}
+{"dg-publish":true,"permalink":"/self-learning/obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-04T15:16:05.308+08:00","updated":"2025-05-05T17:41:11.226+08:00"}
 ---
 
 
@@ -33,4 +33,4 @@
 > 連結六：測試B連結： https://github.com/LiTree318/happytree318
 > 連結七：基於測試B（連結六）資料庫生成的網頁： https://happytree318.netlify.app/
 
-[[index.html\|index.html]]
+[[index\|index]]
