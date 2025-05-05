@@ -9,8 +9,8 @@
 
 - [[💪 Self Learning/🔖 how to publish website by Obsidian\|🔖 how to publish website by Obsidian]]
 - [[💪 Self Learning/test-on content\|test-on content]]
-- [[💪 Self Learning/中文字可以嗎？\|中文字可以嗎？]]
 - [[index\|index]]
+- [[💪 Self Learning/中文字可以嗎？\|中文字可以嗎？]]
 
 { .block-language-dataview}
 
@@ -20,8 +20,8 @@
 | ---------------------------------------------------------------------------------------------------- | ---------------------- |
 | [[💪 Self Learning/🔖 how to publish website by Obsidian\|🔖 how to publish website by Obsidian]] | 8:33 PM - May 05, 2025 |
 | [[💪 Self Learning/test-on content\|test-on content]]                                             | 8:33 PM - May 05, 2025 |
-| [[💪 Self Learning/中文字可以嗎？\|中文字可以嗎？]]                                                             | 8:33 PM - May 05, 2025 |
 | [[index\|index]]                                                                                  | 8:39 PM - May 05, 2025 |
+| [[💪 Self Learning/中文字可以嗎？\|中文字可以嗎？]]                                                             | 8:41 PM - May 05, 2025 |
 
 { .block-language-dataview}
 
