@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/self-learning/test-on-content/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T20:10:05.448+08:00","updated":"2025-05-05T20:17:33.420+08:00"}
+{"dg-publish":true,"tags":["🎯學習歷程檔案"],"permalink":"/self-learning/test-on-content/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T20:10:05.448+08:00","updated":"2025-05-05T20:33:17.946+08:00"}
 ---
 
 # content title
