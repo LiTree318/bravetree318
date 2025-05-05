@@ -1,8 +1,6 @@
 ---
-{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design"],"type":["🎯學習歷程檔案"],"permalink":"/website-building/test123/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T19:12:39.613+08:00","updated":"2025-05-05T19:26:33.655+08:00"}
+{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design"],"type":["🎯學習歷程檔案"],"permalink":"/website-building/test123/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T19:12:39.613+08:00","updated":"2025-05-05T19:55:51.880+08:00"}
 ---
-
-# 🔖 如何用 Obsidian 架設網站
 
 > ### README 👈 請先讀我
 > 1. 這份文件完全基於 [Wanderloots's Words](https://wanderloots.xyz/) 分享的 [Digital Garden 說明](https://wanderloots.xyz/digital-garden/tutorials/how-to-publish-obsidian-notes-website-for-free-digital-garden-or-blog/)，部分參考[oleeskild](https://github.com/oleeskild/obsidian-digital-garden)架設的[另一個 Digital Garden 說明](https://dg-docs.ole.dev/)[^1]。   
