@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"tags":["website_design","self_learing","DigitalGarden"],"permalink":"/bravetree318//obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-04T15:16:05.308+08:00","updated":"2025-05-05T18:06:55.758+08:00"}
+{"dg-publish":true,"tags":["website_design","self_learing","DigitalGarden"],"permalink":"/bravetree318//obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-04T15:16:05.308+08:00","updated":"2025-05-05T18:18:34.637+08:00"}
 ---
 
 ### 學習歷程檔案
 > [!warning] README 👈 請先讀我
-> 這份文件完全基於 [Wanderloots's Words](https://wanderloots.xyz/) 分享的 [Digital Garden 說明](https://wanderloots.xyz/digital-garden/tutorials/how-to-publish-obsidian-notes-website-for-free-digital-garden-or-blog/)，部分參考[oleeskild](https://github.com/oleeskild/obsidian-digital-garden)架設的[另一個 Digital Garden 說明](https://dg-docs.ole.dev/)[^1]
+> 1. 這份文件完全基於 [Wanderloots's Words](https://wanderloots.xyz/) 分享的 [Digital Garden 說明](https://wanderloots.xyz/digital-garden/tutorials/how-to-publish-obsidian-notes-website-for-free-digital-garden-or-blog/)，部分參考[oleesㄊkild](https://github.com/oleeskild/obsidian-digital-garden)架設的[另一個 Digital Garden 說明](https://dg-docs.ole.dev/)[^1]。
+> 2. 此外，這份文件（以及本網站）的所有github檔案皆使用自 
+> 
 > >
 
 https://wanderloots.xyz/
