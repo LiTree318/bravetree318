@@ -7,8 +7,12 @@
 - [[🔖 如何用 Obsidian 架設網站\|🔖 如何用 Obsidian 架設網站]]: 7:51 PM - May 05, 2025
 - [[Website Building/test123\|test123]]: 7:55 PM - May 05, 2025
 - [[index\|index]]: 8:01 PM - May 05, 2025
-- [[SelfLearning/hello-nico\|hello-nico]]: 8:02 PM - May 05, 2025
-- [[SelfLearning/bugs-test\|bugs-test]]: 8:03 PM - May 05, 2025
+- [[Self Learning/hello-nico\|hello-nico]]: 8:02 PM - May 05, 2025
+- [[Self Learning/bugs-test\|bugs-test]]: 8:03 PM - May 05, 2025
+- [[Self Learning/test-callout\|test-callout]]: 8:10 PM - May 05, 2025
+- [[Self Learning/test-video\|test-video]]: 8:10 PM - May 05, 2025
+- [[中文/chinese\|chinese]]: 8:11 PM - May 05, 2025
+- [[emoji💪/emoji💪\|emoji💪]]: 8:12 PM - May 05, 2025
 
 { .block-language-dataview}
 
@@ -20,8 +24,12 @@
 | [[🔖 如何用 Obsidian 架設網站\|🔖 如何用 Obsidian 架設網站]] | 7:51 PM - May 05, 2025 |
 | [[Website Building/test123\|test123]]          | 7:55 PM - May 05, 2025 |
 | [[index\|index]]                               | 8:01 PM - May 05, 2025 |
-| [[SelfLearning/hello-nico\|hello-nico]]        | 8:02 PM - May 05, 2025 |
-| [[SelfLearning/bugs-test\|bugs-test]]          | 8:03 PM - May 05, 2025 |
+| [[Self Learning/hello-nico\|hello-nico]]       | 8:02 PM - May 05, 2025 |
+| [[Self Learning/bugs-test\|bugs-test]]         | 8:03 PM - May 05, 2025 |
+| [[Self Learning/test-callout\|test-callout]]   | 8:10 PM - May 05, 2025 |
+| [[Self Learning/test-video\|test-video]]       | 8:10 PM - May 05, 2025 |
+| [[中文/chinese\|chinese]]                        | 8:11 PM - May 05, 2025 |
+| [[emoji💪/emoji💪\|emoji💪]]                   | 8:12 PM - May 05, 2025 |
 
 { .block-language-dataview}
 
