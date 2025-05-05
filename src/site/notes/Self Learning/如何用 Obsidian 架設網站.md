@@ -1,5 +1,5 @@
 ---
-{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案"],"permalink":"/self-learning/obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T18:30:31.468+08:00","updated":"2025-05-05T23:18:49.602+08:00"}
+{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案"],"permalink":"/self-learning/obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T18:30:31.468+08:00","updated":"2025-05-05T23:23:17.020+08:00"}
 ---
 
 
@@ -57,7 +57,7 @@
 - 從外掛「Digital Garden」分享[網頁模版](https://github.com/oleeskild/digitalgarden)
 - 並將該模版複製到您的Github帳號中
 - 成功之後，在您的專案會有您方才複製並新增的Repo（以下簡稱專案）
-#### （五）將儲存庫和專案綁訂（Obsidian <-> Github）
+#### （五）將儲存庫和專案綁訂（Obsidian – Github）
 
 - 點開第三方外掛程式，設定「Digital Garden」，將畫面中紅、綠、藍的格子填入內容（直到上方 ❌ 變成 ✅ ）
 - 密鑰在上方第（二）點。
