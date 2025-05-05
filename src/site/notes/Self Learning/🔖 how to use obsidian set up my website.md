@@ -1,5 +1,5 @@
 ---
-{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案"],"permalink":"/self-learning/how-to-use-obsidian-set-up-my-website/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T18:30:31.468+08:00","updated":"2025-05-05T21:54:37.123+08:00"}
+{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案"],"permalink":"/self-learning/how-to-use-obsidian-set-up-my-website/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T18:30:31.468+08:00","updated":"2025-05-05T22:51:34.900+08:00"}
 ---
 
 
@@ -154,13 +154,6 @@ tags:
 #### （四）打開 Netlify，檢查網頁是否匯出成功
 ![Pasted image 20250505215435.png](/img/user/img/Pasted%20image%2020250505215435.png)
 
-%%
-- https://wanderloots.xyz/
-- https://github.com/jackyzha0/quartz?tab=readme-ov-file
-- https://quartz.jzhao.xyz/
-- https://github.com/oleeskild/obsidian-digital-garden
-- https://app.netlify.com/teams/litree318/sites `my_metlify`
-- https://github.com/LiTree318?tab=repositories `my_github`
 
 
 ### 我的求救訊息
@@ -186,8 +179,9 @@ tags:
 > [!danger]+ DG `BUGS`
 > - [x] ~~不能放 `callout`~~  可以放 `callout`
 > - [ ] 不能放 `MOV` 檔案（mac的影片檔），傳不上去
-> - [ ] 路徑標題不能有「中文」 `emoji可以`
+> - [ ] 路徑標題不能有「中文」 emoji `都不行`
 > - [ ] 文件不能有螢光符號 \`\== 螢光符號\==\`。
+> - [ ] 文件內文不能有 `%%` 符號，會出bugs
 
 
 [[index\|index]]
