@@ -6,7 +6,7 @@
 - [[index\|index]]: 8:01 PM - May 05, 2025
 - [[💪 Self Learning/test-on title\|test-on title]]: 8:17 PM - May 05, 2025
 - [[💪 Self Learning/test-on content\|test-on content]]: 8:17 PM - May 05, 2025
-- [[💪 Self Learning/🔖 how to publish website by Obsidian\|🔖 how to publish website by Obsidian]]: 8:23 PM - May 05, 2025
+- [[💪 Self Learning/🔖 how to publish website by Obsidian\|🔖 how to publish website by Obsidian]]: 8:32 PM - May 05, 2025
 
 { .block-language-dataview}
 
@@ -17,7 +17,7 @@
 | [[index\|index]]                                                                                  | 8:01 PM - May 05, 2025 |
 | [[💪 Self Learning/test-on title\|test-on title]]                                                 | 8:17 PM - May 05, 2025 |
 | [[💪 Self Learning/test-on content\|test-on content]]                                             | 8:17 PM - May 05, 2025 |
-| [[💪 Self Learning/🔖 how to publish website by Obsidian\|🔖 how to publish website by Obsidian]] | 8:23 PM - May 05, 2025 |
+| [[💪 Self Learning/🔖 how to publish website by Obsidian\|🔖 how to publish website by Obsidian]] | 8:32 PM - May 05, 2025 |
 
 { .block-language-dataview}
 
