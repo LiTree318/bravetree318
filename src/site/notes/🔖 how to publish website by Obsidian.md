@@ -1,5 +1,5 @@
 ---
-{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案"],"type":["🎯學習歷程檔案"],"permalink":"/how-to-publish-website-by-obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T18:30:31.468+08:00","updated":"2025-05-05T20:16:41.324+08:00"}
+{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案"],"permalink":"/how-to-publish-website-by-obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T18:30:31.468+08:00","updated":"2025-05-05T20:21:29.389+08:00"}
 ---
 
 # 🔖 如何用 Obsidian 架設網站
