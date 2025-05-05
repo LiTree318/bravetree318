@@ -7,21 +7,21 @@
 
 ## all my notes
 
-- [[💪 Self Learning/test-on content\|test-on content]]
-- [[💪 Self Learning/中文字可以嗎？\|中文字可以嗎？]]
+- [[Self Learning/test-on content\|test-on content]]
+- [[Self Learning/中文字可以嗎？\|中文字可以嗎？]]
 - [[index\|index]]
-- [[💪 Self Learning/🔖 如何用 Obsidian 架設網站\|🔖 如何用 Obsidian 架設網站]]
+- [[Self Learning/🔖 如何用 Obsidian 架設網站\|🔖 如何用 Obsidian 架設網站]]
 
 { .block-language-dataview}
 
 
 ## Dataview
-| 文章標題                                                               | 建立時間                   | 最後修改時間                 |
-| ------------------------------------------------------------------ | ---------------------- | ---------------------- |
-| [[💪 Self Learning/test-on content\|test-on content]]           | 8:10 PM - May 05, 2025 | 8:33 PM - May 05, 2025 |
-| [[💪 Self Learning/中文字可以嗎？\|中文字可以嗎？]]                           | 8:10 PM - May 05, 2025 | 8:41 PM - May 05, 2025 |
-| [[index\|index]]                                                | 4:52 PM - May 04, 2025 | 8:48 PM - May 05, 2025 |
-| [[💪 Self Learning/🔖 如何用 Obsidian 架設網站\|🔖 如何用 Obsidian 架設網站]] | 6:30 PM - May 05, 2025 | 9:54 PM - May 05, 2025 |
+| 文章標題                                                            | 建立時間                   | 最後修改時間                 |
+| --------------------------------------------------------------- | ---------------------- | ---------------------- |
+| [[Self Learning/test-on content\|test-on content]]           | 8:10 PM - May 05, 2025 | 8:33 PM - May 05, 2025 |
+| [[Self Learning/中文字可以嗎？\|中文字可以嗎？]]                           | 8:10 PM - May 05, 2025 | 8:41 PM - May 05, 2025 |
+| [[index\|index]]                                             | 4:52 PM - May 04, 2025 | 8:48 PM - May 05, 2025 |
+| [[Self Learning/🔖 如何用 Obsidian 架設網站\|🔖 如何用 Obsidian 架設網站]] | 6:30 PM - May 05, 2025 | 9:54 PM - May 05, 2025 |
 
 { .block-language-dataview}
 
