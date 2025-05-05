@@ -5,7 +5,8 @@
 # 🌲 HERE IS THE TREE'S HOLE
 ### all my notes
 - [[publish/index\|index]]: 6:29 PM - May 05, 2025
-- [[publish/Website Building/如何用 Obsidian 架設網站\|如何用 Obsidian 架設網站]]: 6:37 PM - May 05, 2025
+- [[2025-05-05\|2025-05-05]]: 6:48 PM - May 05, 2025
+- [[publish/Website Building/如何用 Obsidian 架設網站\|如何用 Obsidian 架設網站]]: 6:50 PM - May 05, 2025
 
 { .block-language-dataview}
 
@@ -18,7 +19,8 @@
 | File                                                                 | file.mtime             |
 | -------------------------------------------------------------------- | ---------------------- |
 | [[publish/index\|index]]                                          | 6:29 PM - May 05, 2025 |
-| [[publish/Website Building/如何用 Obsidian 架設網站\|如何用 Obsidian 架設網站]] | 6:37 PM - May 05, 2025 |
+| [[2025-05-05\|2025-05-05]]                                        | 6:48 PM - May 05, 2025 |
+| [[publish/Website Building/如何用 Obsidian 架設網站\|如何用 Obsidian 架設網站]] | 6:50 PM - May 05, 2025 |
 
 { .block-language-dataview}
 ### share documents

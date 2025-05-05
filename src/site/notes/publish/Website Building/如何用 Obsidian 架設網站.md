@@ -1,5 +1,5 @@
 ---
-{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design"],"type":["🎯學習歷程檔案"],"permalink":"/publish/website-building/obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T18:30:31.468+08:00","updated":"2025-05-05T18:37:54.888+08:00"}
+{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design"],"type":["🎯學習歷程檔案"],"permalink":"/publish/website-building/obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-05T18:30:31.468+08:00","updated":"2025-05-05T18:50:35.379+08:00"}
 ---
 
 
@@ -12,6 +12,15 @@
 >     <br>
 > 3. 最後，本人完全沒有任何網頁架設和程式設計的底子，若有任何錯誤（或者bug）歡迎來信指正，我們一起研究、一起學習！以下是我的聯絡信箱：   <br>
 >    📪 `tree10zi23@gmail.com`
+
+
+## ⚒️ 事前準備
+
+
+
+
+> [!tip] 架站之前請先準備以下幾項工具：
+>  - [ ] 一個 Obsidian 儲存庫（Vault）[^2]
 
 
 
@@ -50,3 +59,4 @@ https://wanderloots.xyz/
 [[publish/index\|index]]
 
 [^1]: 這部份特別感謝[邱佳昇支援](https://www.facebook.com/share/p/16YThn4q9h/)，讓我可以按圖索驥找出自己的bugs（2025年5月5日）。
+[^2]: 由於我是使用全英文介面的 Obisidn（為了用快捷搜尋），因此之後本分文件所有用到的vault會統一用「儲存庫」來翻譯（這也是官方中文給定的譯名）。
