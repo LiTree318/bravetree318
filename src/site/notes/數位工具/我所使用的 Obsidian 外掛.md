@@ -1,13 +1,17 @@
 ---
-{"title":"我使用的 Obsidian 外掛","tags":["🎯學習歷程檔案","HackMD","Notion","📝數位工具交流beta","DigitalGarden","obsidian","self_learing","website_design"],"status":"✅ Done","dg-publish":true,"hackmd":{"url":"https://hackmd.io/eWDPL7m1SfWTrGKmwgC38w","title":"我使用的 Obsidian 外掛","lastSync":"2025-05-06T04:44:07.130Z"},"permalink":"/數位工具/我所使用的 Obsidian 外掛/","dgPassFrontmatter":true,"created":"2025-05-06T12:22:43.085+08:00","updated":"2025-05-06T12:44:09.249+08:00"}
+{"title":"我使用的 Obsidian 外掛","tags":["🎯學習歷程檔案","HackMD","Notion","📝數位工具交流beta","DigitalGarden","obsidian","self_learing","website_design"],"status":"✅ Done","dg-publish":true,"hackmd":{"url":"https://hackmd.io/eWDPL7m1SfWTrGKmwgC38w","title":"我使用的 Obsidian 外掛","lastSync":"2025-05-06T05:23:04.909Z"},"permalink":"/數位工具/我所使用的 Obsidian 外掛/","dgPassFrontmatter":true,"created":"2025-05-06T12:22:43.085+08:00","updated":"2025-05-06T13:23:06.945+08:00"}
 ---
 
 # 我使用的 Obsidian 外掛
 ## 輔助筆記工具
 
 
+
+> [!NOTE]- [ePub Reader](obsidian://show-plugin?id=obsidian-epub-plugin)
+> 可以在 Obsidian 上閱讀epub檔案。
+
 > [!NOTE]- [Annotator](obsidian://show-plugin?id=obsidian-annotator)
-> 用來在 Obsidian 開啟 PDF 和 Epub 檔，並且可以加註筆記，以便整理和搜尋。
+> 可以在 Obsidian 的筆記上對PDF、epub檔加註筆記，以便整理和搜尋。
 
 > [!NOTE]- [Clipper](obsidian://show-plugin?id=obsidian-clipper)
 > 可以擷取網頁，存到Vault裡面；方便隨手看到網路上有好文章、網誌可以存下來做筆記。
