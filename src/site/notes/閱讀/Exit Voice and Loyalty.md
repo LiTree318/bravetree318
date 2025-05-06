@@ -1,32 +1,16 @@
 ---
-{"title":"Exit Voice and Loyalty","tags":["Reading_Notes","論文"],"status":"❌ Private","dg-publish":true,"permalink":"/閱讀/Exit Voice and Loyalty/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:06.000+08:00","updated":"2025-05-06T11:55:59.604+08:00"}
+{"title":"Exit Voice and Loyalty","tags":["Reading_Notes","論文"],"status":"❌ Private","dg-publish":true,"permalink":"/閱讀/Exit Voice and Loyalty/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:06.000+08:00","updated":"2025-05-06T12:00:36.195+08:00"}
 ---
 
 - 經濟行為背後的邊際效益和預期心理，同樣可以用於分析政治行為（以我關注的組織應行為來說，同樣適用。
-  > 貿易收益（the gain from trade）這個經過時間考驗的經濟學概念，也可以類似的方式轉化為政治概念，即貿易夥伴能影響獲利的一方。請參閱我的著作：National Power and the Structure of Foreign Trade (Berkeley: University of California Press, 1945, rev. ed. 1969), ch. 2。 [^1]
+> 貿易收益（the gain from trade）這個經過時間考驗的經濟學概念，也可以類似的方式轉化為政治概念，即貿易夥伴能影響獲利的一方。請參閱我的著作：National Power and the Structure of Foreign Trade (Berkeley: University of California Press, 1945, rev. ed. 1969), ch. 2。[^1]
   
  
-	
-	
-	[^1]：*叛離、抗議與忠誠* ，第四章。
-
 
 >[!quote] 第七章
 > 如果我不同意一個組織（如政黨），我可以退黨；但在一般情形下，我依然必須活在那個政黨所運行的社會之中。如果我參與了一項外交政策的制定過程，而我反對該項政策，那我可以辭官，但還是得不甘願地當這個國家的公民，眼睜睜看著它落實為逐漸釀成災難的外交政策
 
 
-
-
-
-```
-
-> [!quote] Title
-> Contents
-
-
-
-
-```
 
 
 > [!quote]
@@ -357,4 +341,4 @@
 
 加入某一團體的條件越嚴苛或費用越高，人們就會越喜愛這個團體；也就是說，一個人為了加入團體而吃足苦頭，該團體在他眼中，會比在一帆風順的人眼中更有吸引力（或是比較不會沒吸引力）
 
-
+[^1]: *叛離、抗議與忠誠* ，第四章。
