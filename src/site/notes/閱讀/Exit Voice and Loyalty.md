@@ -1,5 +1,5 @@
 ---
-{"title":"Exit Voice and Loyalty","tags":["Reading_Notes","論文"],"status":"❌ Private","dg-publish":true,"permalink":"/閱讀/Exit Voice and Loyalty/","dgPassFrontmatter":true,"created":"2024-07-28T13:06:55.000+08:00","updated":"2025-05-06T01:15:22.831+08:00"}
+{"title":"Exit Voice and Loyalty","tags":["Reading_Notes","論文"],"status":"❌ Private","dg-publish":true,"permalink":"/閱讀/Exit Voice and Loyalty/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:06.000+08:00","updated":"2025-05-06T01:15:22.000+08:00"}
 ---
 
 #Reading_Notes 

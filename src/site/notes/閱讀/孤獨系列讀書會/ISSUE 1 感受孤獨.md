@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 1 感受孤獨","date":"2024-03-23","tags":["孤獨的哲學","獨，書會","Reading_Notes"],"status":"✅ Done","dg-publish":true,"permalink":"/閱讀/孤獨系列讀書會/ISSUE 1 感受孤獨/","dgPassFrontmatter":true,"created":"2024-03-22T21:00:20.000+08:00","updated":"2025-05-06T00:59:41.371+08:00"}
+{"title":"ISSUE 1 感受孤獨","date":"2024-03-23","tags":["孤獨的哲學","獨，書會","Reading_Notes"],"status":"✅ Done","dg-publish":true,"permalink":"/閱讀/孤獨系列讀書會/ISSUE 1 感受孤獨/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:06.000+08:00","updated":"2025-05-06T00:59:41.000+08:00"}
 ---
 
 
@@ -7,8 +7,8 @@
 > [!NOTE]- 資料表格
 >  | File                                         | description        | chapter |
 > | -------------------------------------------- | ------------------ | ------- |
-> | [[閱讀/孤獨系列讀書會/ISSUE 1 感受孤獨\|ISSUE 1 感受孤獨]] | \-                 | \-      |
 > | [[閱讀/因為愛著，所以孤單\|因為愛著，所以孤單]]               | 還有很多地方要調整，文章好難寫O_Q | \-      |
+> | [[閱讀/孤獨系列讀書會/ISSUE 1 感受孤獨\|ISSUE 1 感受孤獨]] | \-                 | \-      |
 > 
 { .block-language-dataview}
 
