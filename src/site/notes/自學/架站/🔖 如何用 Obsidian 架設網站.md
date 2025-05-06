@@ -1,5 +1,5 @@
 ---
-{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案","📝數位工具交流beta"],"status":"✅ Done","description":"後續要再增補 gif 或 png 檔，讓文件可以便於閱讀。","permalink":"/自學/架站/🔖 如何用 Obsidian 架設網站/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:07.000+08:00","updated":"2025-05-06T02:13:14.000+08:00"}
+{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案","📝數位工具交流beta"],"status":"✅ Done","description":"後續要再增補 gif 或 png 檔，讓文件可以便於閱讀。","permalink":"/自學/架站/🔖 如何用 Obsidian 架設網站/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:07.000+08:00","updated":"2025-05-06T12:13:10.220+08:00"}
 ---
 
 
@@ -16,25 +16,25 @@
 > [!tip] 架站之前請先準備以下幾項工具：
 >  - [ ] 下載 [Obsidian](https://obsidian.md/)，並建立一個屬於自己的 Obsidian 儲存庫（Vault）[^2]
 >  - [ ] 在自己的儲存庫裡面新增一些筆記
->  - [ ] 擁有一個自己的 [Github](https://github.com/) 帳號，如果沒有的話，請先[註冊](https://github.com/signup?source=header-repo&source_repo=LiTree318/bravetree318)
+>  - [ ] 擁有一個自己的 [Github](https://github.com/) 帳號，如果沒有的話，請先[註冊](https://github.com/signup)
 >  - [ ] 此外，我將會使用 Netlify 作為托管資料和生成網域的平台[^3] （更多詳細介紹，請參考註腳[^3] ）
 
 
 ## 🎯 步驟一：建立儲存庫，並開啟一些筆記。
 
-1. Obsidian 官網下載軟體
+1. [Obsidian 官網下載軟體](https://obsidian.md/)
 2. 安裝軟體後建立自己的儲存庫
 3. 隨意寫幾個筆記（請先至少寫兩個作為測試）
 
 
-## 🎯 步驟二：建立 Github，並且與儲存庫串連
+## 🎯 步驟二：建立 [Github](https://github.com/)，並且與儲存庫串連
 
 > [!tip] Github 的用途
 > 我們使用Github的原因，是為了將我們在電腦上的文件可以同步到網路，同時方便我們移轉到 Netlify 呈現成網頁。
 
-#### （一） 登入（註冊）一個 Github 帳號
+#### （一） 登入（註冊）一個 [Github](https://github.com/) 帳號
 
-- 註冊／登入 Github
+- [註冊／登入 Github](https://github.com/)
 - 接下來，到Setting設定自己的 **密鑰** （token key）→ ==這部份是個人隱私，請注意！==
 #### （二）取得 **密鑰**
 
@@ -69,7 +69,7 @@
 
 ## 🎯 步驟三：登入 Netlify 並呈現網頁
 
-#### （一）打開 Netlify，註冊／登入帳號
+#### （一）打開 [Netlify](https://www.netlify.com/)，註冊／登入帳號
 - 選擇用 Github登入
 ![Pasted image 20250505213722.png](/img/user/img/Pasted%20image%2020250505213722.png)
 #### （二）新增網站，將資料從 Github 匯入
