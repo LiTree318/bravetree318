@@ -1,8 +1,7 @@
 ---
-{"title":"Exit Voice and Loyalty","tags":["Reading_Notes","論文"],"status":"❌ Private","dg-publish":true,"permalink":"/閱讀/Exit Voice and Loyalty/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:06.000+08:00","updated":"2025-05-06T01:15:22.000+08:00"}
+{"title":"Exit Voice and Loyalty","tags":["Reading_Notes","論文"],"status":"❌ Private","dg-publish":true,"permalink":"/閱讀/Exit Voice and Loyalty/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:06.000+08:00","updated":"2025-05-06T11:55:59.604+08:00"}
 ---
 
-#Reading_Notes 
 - 經濟行為背後的邊際效益和預期心理，同樣可以用於分析政治行為（以我關注的組織應行為來說，同樣適用。
   > 貿易收益（the gain from trade）這個經過時間考驗的經濟學概念，也可以類似的方式轉化為政治概念，即貿易夥伴能影響獲利的一方。請參閱我的著作：National Power and the Structure of Foreign Trade (Berkeley: University of California Press, 1945, rev. ed. 1969), ch. 2。 [^1]
   
