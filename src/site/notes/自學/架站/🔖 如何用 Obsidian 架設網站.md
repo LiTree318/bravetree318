@@ -1,5 +1,5 @@
 ---
-{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案","📝數位工具交流beta"],"status":"✅ Done","description":"後續要再增補 gif 或 png 檔，讓文件可以便於閱讀。","permalink":"/自學/架站/🔖 如何用 Obsidian 架設網站/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:07.000+08:00","updated":"2025-05-06T12:13:34.173+08:00"}
+{"title":"🔖 如何用 Obsidian 架設網站","dg-publish":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案","📝數位工具交流beta"],"status":"✅ Done","description":"後續要再增補 gif 或 png 檔，讓文件可以便於閱讀。","permalink":"/自學/架站/🔖 如何用 Obsidian 架設網站/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:07.000+08:00","updated":"2025-05-06T12:18:46.988+08:00"}
 ---
 
 
@@ -120,7 +120,14 @@ tags:
 ![Pasted image 20250505215435.png](/img/user/img/Pasted%20image%2020250505215435.png)
 
 
-其他參考 [[私人筆記/整理中/我的求救訊息\|我的求救訊息]]
+## 🗄️ 更多資料
+
+- [Peter's 2nd 🧠](https://peteryuen.netlify.app/)
+- [RW Tech Wiki](https://rwtechwiki.github.io/)
+- [Wanderloots' Words](https://wanderloots.xyz/)
+
+> [!TIP]- 其他我設計網站時的狀況在 👇
+> - 其他參考 [[私人筆記/整理中/我的求救訊息\|我的求救訊息]]
 
 
 [^1]: 這部份特別感謝[邱佳昇支援](https://www.facebook.com/share/p/16YThn4q9h/)，讓我可以按圖索驥找出自己的bugs（2025年5月5日）。
