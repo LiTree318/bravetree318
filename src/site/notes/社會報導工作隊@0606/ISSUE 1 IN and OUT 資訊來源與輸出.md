@@ -145,7 +145,7 @@
 - [[閱讀/孤獨系列讀書會/ISSUE 4️⃣ 排除在人群之外\|ISSUE 4️⃣ 排除在人群之外]]
 
 
-![活動架構.png](/img/user/%E6%B4%BB%E5%8B%95%E6%9E%B6%E6%A7%8B.png)
+![活動架構.png](/img/user/img/%E6%B4%BB%E5%8B%95%E6%9E%B6%E6%A7%8B.png)
 
 
 

@@ -24,9 +24,9 @@
 
 
 
-![Pasted image 20250507165019.png](/img/user/Pasted%20image%2020250507165019.png)
+![Pasted image 20250507165019.png](/img/user/img/Pasted%20image%2020250507165019.png)
 
 
 點選畫面左上角切換不同人的 notion。
 
-![Pasted image 20250507165251.png](/img/user/Pasted%20image%2020250507165251.png)
+![Pasted image 20250507165251.png](/img/user/img/Pasted%20image%2020250507165251.png)
