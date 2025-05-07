@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 1 IN and OUT 資訊來源與輸出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN and OUT 資訊來源與輸出/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T16:59:56.345+08:00"}
+{"title":"ISSUE 1 IN and OUT 資訊來源與輸出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN and OUT 資訊來源與輸出/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T17:13:37.328+08:00"}
 ---
 
 # ISSUE 1 IN and OUT 資訊來源與輸出
@@ -71,6 +71,7 @@
 
 <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料內容</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a href="#✒️Review" class="tag" target="_blank" rel="noopener nofollow">#✒️Review</a></span></td><td>13</td></tr><tr><td><span><a href="#🤪MEME" class="tag" target="_blank" rel="noopener nofollow">#🤪MEME</a></span></td><td>4</td></tr><tr><td><span><a href="#📑Translation" class="tag" target="_blank" rel="noopener nofollow">#📑Translation</a></span></td><td>3</td></tr><tr><td><span><a href="#🎞️Video" class="tag" target="_blank" rel="noopener nofollow">#🎞️Video</a></span></td><td>11</td></tr><tr><td><span><a href="#Website" class="tag" target="_blank" rel="noopener nofollow">#Website</a></span></td><td>3</td></tr><tr><td><span><a href="#Steam" class="tag" target="_blank" rel="noopener nofollow">#Steam</a></span></td><td>1</td></tr></tbody></table></div>
 
+
 ---
 
 
@@ -124,33 +125,22 @@
 
 
 
-
-
-
-
-
-
-
 > [!NOTE] 以我自己輸出的內容為參考
 > - [ ]   [[閱讀/孤獨系列讀書會/孤獨與它們的產地\|孤獨與它們的產地]]
 > - [ ]   [[花蓮縣志\|花蓮縣志]] ==maybe==
 > - [ ]  寫的廢文 [[私人筆記/愛，在滂沱大雨下\|愛，在滂沱大雨下]]
 
 
-## 孤獨與他們的產地
-
 - [[閱讀/孤獨系列讀書會/ISSUE 1 感受孤獨\|ISSUE 1 感受孤獨]]
 - [[閱讀/孤獨系列讀書會/ISSUE 2️⃣ 失去重心的日子\|ISSUE 2️⃣ 失去重心的日子]]
 - [[閱讀/孤獨系列讀書會/ISSUE 3️⃣ 製造孤獨──那些不經意崩解的自我\|ISSUE 3️⃣ 製造孤獨──那些不經意崩解的自我]]
 - [[閱讀/孤獨系列讀書會/ISSUE 4️⃣ 排除在人群之外\|ISSUE 4️⃣ 排除在人群之外]]
 
-
 ![活動架構.png](/img/user/img/%E6%B4%BB%E5%8B%95%E6%9E%B6%E6%A7%8B.png)
 
 
 
----
 
-## [[私人筆記/愛，在滂沱大雨下\|愛，在滂沱大雨下]]
+
 
 
