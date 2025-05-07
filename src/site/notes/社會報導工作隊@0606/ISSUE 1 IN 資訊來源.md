@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 1 IN 資訊來源","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"permalink":"/社會報導工作隊@0606/ISSUE 1 IN 資訊來源/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T15:53:53.198+08:00"}
+{"title":"ISSUE 1 IN 資訊來源","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN 資訊來源/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T16:08:58.080+08:00"}
 ---
 
 # ISSUE 1：IN／資訊來源 
@@ -27,33 +27,44 @@
 
 
 
-👉 資料請點我：[[社會報導工作隊@0606/交流用資料整理-以 Rain World 為例\|交流用資料整理-以 Rain World 為例]] 
+👉 資料請點我：[交流用資料整理-以 Rain World 為例](https://bravetree318.netlify.app/%E7%A4%BE%E6%9C%83%E5%A0%B1%E5%B0%8E%E5%B7%A5%E4%BD%9C%E9%9A%8A@0606/%E4%BA%A4%E6%B5%81%E7%94%A8%E8%B3%87%E6%96%99%E6%95%B4%E7%90%86-%E4%BB%A5%20rain%20world%20%E7%82%BA%E4%BE%8B/)
 
-![Pasted image 20250507142505.png](/img/user/Pasted%20image%2020250507142505.png)
-
-
----
-![截圖 2025-05-07 下午3.30.31.png](/img/user/%E6%88%AA%E5%9C%96%202025-05-07%20%E4%B8%8B%E5%8D%883.30.31.png)
-
+![Pasted image 20250507142505.png](/img/user/img/Pasted%20image%2020250507142505.png)
 
 
 ---
 
-![截圖 2025-05-07 下午3.28.29.png](/img/user/%E6%88%AA%E5%9C%96%202025-05-07%20%E4%B8%8B%E5%8D%883.28.29.png)
 
+#### 資料類型原始圖表
 
----
-
-![截圖 2025-05-07 下午3.28.32.png](/img/user/%E6%88%AA%E5%9C%96%202025-05-07%20%E4%B8%8B%E5%8D%883.28.32.png)
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料類型</span><span class="dataview small-text">4</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>🎞️Video</span></td><td>0</td></tr><tr><td><span>✒️Article</span></td><td>0</td></tr><tr><td><span>📚Wiki</span></td><td>0</td></tr><tr><td><span>Steam</span></td><td>0</td></tr></tbody></table></div>
 
 
 
 ---
 
 
-# 🗄️ 資訊類型（PPAV）
+#### 資料平台原始圖表
 
-![Pasted image 20250507152036.png](/img/user/Pasted%20image%2020250507152036.png)
+
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料平台</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>BiliBili</span></td><td>0</td></tr><tr><td><span>Youtube</span></td><td>0</td></tr><tr><td><span>Wiki</span></td><td>0</td></tr><tr><td><span>Github</span></td><td>0</td></tr><tr><td><span>Website</span></td><td>0</td></tr><tr><td><span>Steam</span></td><td>0</td></tr></tbody></table></div>
+
+
+
+---
+
+
+
+#### 資料內容原始圖表
+
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料內容</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>✒️Review</span></td><td>0</td></tr><tr><td><span>🤪MEME</span></td><td>0</td></tr><tr><td><span>📑Translation</span></td><td>0</td></tr><tr><td><span>🎞️Video</span></td><td>0</td></tr><tr><td><span>Website</span></td><td>0</td></tr><tr><td><span>Steam</span></td><td>0</td></tr></tbody></table></div>
+
+---
+
+
+### 🗄️ 資訊類型（PPAV）
+
+![Pasted image 20250507152036.png](/img/user/img/Pasted%20image%2020250507152036.png)
 
 <font color="red"><b>P</b></font>ost – <font color="red"><b>P</b></font>hoto – <font color="red"><b>A</b></font>rticle –  <font color="red"><b>V</b></font>ideo
 
@@ -62,7 +73,7 @@
 
 ---
 
-#### 套用 PPAV 來分析我找到的資料種類
+### 套用 PPAV 分析找到的資料
 
 |                      類別                       | 數量  | 備註                               |
 | :-------------------------------------------: | :-: | -------------------------------- |
@@ -73,7 +84,12 @@
 
 ---
 
-## 整理 PPAV 資料
+## 整理 PPAV 資料 ==⚠️ 還在整理==
+
+
+> [!warning] 🛠️ 整理中 
+> 這邊要問大家平時會怎麼整理網路上找到的資料
+
 
 |                      類別                       | 數量  | 整理方式              |
 | :-------------------------------------------: | :-: | ----------------- |
