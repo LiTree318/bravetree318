@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-07T20:06:35.482+08:00","tags":["#dailt_notes"],"dg-publish":true,"permalink":"/Daily Notes/2025/05-May/2025-05-07-Wednesday/","dgPassFrontmatter":true,"updated":"2025-05-07T20:27:32.170+08:00"}
+{"title":"May 07(Wednesday)-2025","created":"2025-05-07T20:06:35.482+08:00","tags":["#dailt_notes"],"dg-publish":true,"permalink":"/Daily Notes/2025/05-May/2025-05-07-Wednesday/","dgPassFrontmatter":true,"updated":"2025-05-07T20:31:29.476+08:00"}
 ---
 
 
@@ -114,9 +114,9 @@
 - [[ignore/00. template/📖 reading_notes_temp\|📖 reading_notes_temp]]
 - [[數位工具/我所使用的 Obsidian 外掛\|我所使用的 Obsidian 外掛]]
 - [[ignore/00. template/🖥️ slide_for_sharing-temp\|🖥️ slide_for_sharing-temp]]
-- [[Daily Notes/2025/05-May/2025-05-07-Wednesday\|2025-05-07-Wednesday]]
 - [[ignore/00. template/📆 daily_note-temp\|📆 daily_note-temp]]
 - [[Daily Notes/2025/05-May/2025-05-08-Thursday\|2025-05-08-Thursday]]
+- [[Daily Notes/2025/05-May/2025-05-07-Wednesday\|2025-05-07-Wednesday]]
 
 { .block-language-dataview}
 
