@@ -1,12 +1,12 @@
 ---
-{"created":"2025-05-07T20:06:35.482+08:00","tags":["#dailt_notes"],"dg-publish":true,"permalink":"/Daily Notes/2025/05-May/2025-05-07-Wednesday/","dgPassFrontmatter":true,"updated":"2025-05-07T20:22:50.663+08:00"}
+{"created":"2025-05-07T20:06:35.482+08:00","tags":["#dailt_notes"],"dg-publish":true,"permalink":"/Daily Notes/2025/05-May/2025-05-07-Wednesday/","dgPassFrontmatter":true,"updated":"2025-05-07T20:26:04.587+08:00"}
 ---
 
 
-# Wednesday, May 07, 2025
+# Wednesday May-07-2025
 
 
-<< [[2025-05-06-Tuesday\|Yesterday]] | [[2025-05-08-Thursday\|Tomorrow]] >>
+<< [[2025-05-06-Tuesday\|Yesterday]] | [[Daily Notes/2025/05-May/2025-05-08-Thursday\|Tomorrow]] >>
 
 
 ---
@@ -24,7 +24,7 @@
    > Uses Dataview & Templater plugins. Should be saved as a Markdown file in Obsidian. Read the full tour: https://dannb.org/blog/2022/obsidian-daily-note-template/ · GitHub
 
 ##### 🚀 One+ thing I plan to accomplish today is...
-- [ ] 
+
 
 ##### 👎 One thing I'm struggling with today is...
 - 今天狀況很糟糕，下午在忙筆記的事情，拖延了很多事情……不喜歡。
@@ -74,6 +74,7 @@
 - [[私人筆記/愛，在滂沱大雨下\|愛，在滂沱大雨下]]
 - [[ignore/00. template/📆 daily_note-temp\|📆 daily_note-temp]]
 - [[Daily Notes/2025/05-May/2025-05-07-Wednesday\|2025-05-07-Wednesday]]
+- [[Daily Notes/2025/05-May/2025-05-08-Thursday\|2025-05-08-Thursday]]
 
 { .block-language-dataview}
 
@@ -111,10 +112,11 @@
 - [[ignore/00. template/📝 personal_notes-temp\|📝 personal_notes-temp]]
 - [[ignore/00. template/🔖 book's_review-temp\|🔖 book's_review-temp]]
 - [[ignore/00. template/📖 reading_notes_temp\|📖 reading_notes_temp]]
-- [[ignore/00. template/📆 daily_note-temp\|📆 daily_note-temp]]
 - [[數位工具/我所使用的 Obsidian 外掛\|我所使用的 Obsidian 外掛]]
-- [[Daily Notes/2025/05-May/2025-05-07-Wednesday\|2025-05-07-Wednesday]]
 - [[ignore/00. template/🖥️ slide_for_sharing-temp\|🖥️ slide_for_sharing-temp]]
+- [[ignore/00. template/📆 daily_note-temp\|📆 daily_note-temp]]
+- [[Daily Notes/2025/05-May/2025-05-08-Thursday\|2025-05-08-Thursday]]
+- [[Daily Notes/2025/05-May/2025-05-07-Wednesday\|2025-05-07-Wednesday]]
 
 { .block-language-dataview}
 
