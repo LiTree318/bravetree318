@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 1 IN 資訊來源","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN 資訊來源/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T16:08:58.080+08:00"}
+{"title":"ISSUE 1 IN 資訊來源","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN 資訊來源/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T16:11:02.171+08:00"}
 ---
 
 # ISSUE 1：IN／資訊來源 
@@ -10,6 +10,8 @@
 > - [ ] 資訊類型（PPAV）： **P**ost, **P**hoto, **A**rticle, **V**ideo）
 > - [ ] 整理資訊的方式
 > - [ ] **To be continue**：吸收新知，then？
+> 
+> 👉 [**HackMD Slide**](https://hackmd.io/@tree10zi23/BJcoW5dxxg#/)   ==備用==
 
 ---
 
