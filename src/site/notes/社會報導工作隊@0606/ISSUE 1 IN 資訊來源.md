@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 1 IN 資訊來源","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN 資訊來源/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T16:11:02.171+08:00"}
+{"title":"ISSUE 1 IN 資訊來源","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN 資訊來源/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T16:12:19.527+08:00"}
 ---
 
 # ISSUE 1：IN／資訊來源 
@@ -39,7 +39,7 @@
 
 #### 資料類型原始圖表
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料類型</span><span class="dataview small-text">4</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>🎞️Video</span></td><td>0</td></tr><tr><td><span>✒️Article</span></td><td>0</td></tr><tr><td><span>📚Wiki</span></td><td>0</td></tr><tr><td><span>Steam</span></td><td>0</td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料類型</span><span class="dataview small-text">4</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a href="#🎞️Video" class="tag" target="_blank" rel="noopener nofollow">#🎞️Video</a></span></td><td>11</td></tr><tr><td><span><a href="#✒️Article" class="tag" target="_blank" rel="noopener nofollow">#✒️Article</a></span></td><td>9</td></tr><tr><td><span><a href="#📚Wiki" class="tag" target="_blank" rel="noopener nofollow">#📚Wiki</a></span></td><td>3</td></tr><tr><td><span><a href="#Steam" class="tag" target="_blank" rel="noopener nofollow">#Steam</a></span></td><td>1</td></tr></tbody></table></div>
 
 
 
@@ -49,7 +49,7 @@
 #### 資料平台原始圖表
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料平台</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>BiliBili</span></td><td>0</td></tr><tr><td><span>Youtube</span></td><td>0</td></tr><tr><td><span>Wiki</span></td><td>0</td></tr><tr><td><span>Github</span></td><td>0</td></tr><tr><td><span>Website</span></td><td>0</td></tr><tr><td><span>Steam</span></td><td>0</td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料平台</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a href="#BiliBili" class="tag" target="_blank" rel="noopener nofollow">#BiliBili</a></span></td><td>11</td></tr><tr><td><span><a href="#Youtube" class="tag" target="_blank" rel="noopener nofollow">#Youtube</a></span></td><td>7</td></tr><tr><td><span><a href="#Wiki" class="tag" target="_blank" rel="noopener nofollow">#Wiki</a></span></td><td>1</td></tr><tr><td><span><a href="#Github" class="tag" target="_blank" rel="noopener nofollow">#Github</a></span></td><td>1</td></tr><tr><td><span><a href="#Website" class="tag" target="_blank" rel="noopener nofollow">#Website</a></span></td><td>3</td></tr><tr><td><span><a href="#Steam" class="tag" target="_blank" rel="noopener nofollow">#Steam</a></span></td><td>1</td></tr></tbody></table></div>
 
 
 
@@ -59,7 +59,7 @@
 
 #### 資料內容原始圖表
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料內容</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>✒️Review</span></td><td>0</td></tr><tr><td><span>🤪MEME</span></td><td>0</td></tr><tr><td><span>📑Translation</span></td><td>0</td></tr><tr><td><span>🎞️Video</span></td><td>0</td></tr><tr><td><span>Website</span></td><td>0</td></tr><tr><td><span>Steam</span></td><td>0</td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>資料內容</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>數量</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a href="#✒️Review" class="tag" target="_blank" rel="noopener nofollow">#✒️Review</a></span></td><td>13</td></tr><tr><td><span><a href="#🤪MEME" class="tag" target="_blank" rel="noopener nofollow">#🤪MEME</a></span></td><td>4</td></tr><tr><td><span><a href="#📑Translation" class="tag" target="_blank" rel="noopener nofollow">#📑Translation</a></span></td><td>3</td></tr><tr><td><span><a href="#🎞️Video" class="tag" target="_blank" rel="noopener nofollow">#🎞️Video</a></span></td><td>11</td></tr><tr><td><span><a href="#Website" class="tag" target="_blank" rel="noopener nofollow">#Website</a></span></td><td>3</td></tr><tr><td><span><a href="#Steam" class="tag" target="_blank" rel="noopener nofollow">#Steam</a></span></td><td>1</td></tr></tbody></table></div>
 
 ---
 
