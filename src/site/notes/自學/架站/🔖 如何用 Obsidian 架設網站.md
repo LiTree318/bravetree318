@@ -128,7 +128,7 @@ tags:
 - [Peter's 2nd 🧠](https://peteryuen.netlify.app/)
 - [RW Tech Wiki](https://rwtechwiki.github.io/)
 - [Wanderloots' Words](https://wanderloots.xyz/)
-- 簡易模版可以參考 [[交流/⬇️ 簡易模版下載\|⬇️ 簡易模版下載]]
+- 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇️ 簡易模版下載]]
 
 > [!TIP]- 其他我設計網站時的狀況在 👇
 > - 其他參考 [[私人筆記/整理中/我的求救訊息\|我的求救訊息]]
