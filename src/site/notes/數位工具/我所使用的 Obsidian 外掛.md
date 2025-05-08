@@ -1,5 +1,5 @@
 ---
-{"title":"我使用的 Obsidian 外掛","tags":["🎯學習歷程檔案","HackMD","Notion","📝數位工具交流beta","DigitalGarden","obsidian","self_learing","website_design"],"status":"✅ Done","dg-publish":true,"hackmd":{"url":"https://hackmd.io/_jamnsXQT1yJ1eLZq2ATFQ","title":"我使用的 Obsidian 外掛","lastSync":"2025-05-06T05:57:44.840Z"},"permalink":"/數位工具/我所使用的 Obsidian 外掛/","dgPassFrontmatter":true,"created":"2025-05-06T17:39:58.000+08:00","updated":"2025-05-07T20:20:01.079+08:00"}
+{"title":"我使用的 Obsidian 外掛","tags":["🎯學習歷程檔案","HackMD","Notion","📝數位工具交流beta","DigitalGarden","obsidian","self_learing","website_design"],"status":"✅ Done","dg-publish":true,"hackmd":{"url":"https://hackmd.io/_jamnsXQT1yJ1eLZq2ATFQ","title":"我使用的 Obsidian 外掛","lastSync":"2025-05-06T05:57:44.840Z"},"permalink":"/數位工具/我所使用的 Obsidian 外掛/","dgPassFrontmatter":true,"created":"2025-05-06T12:22:43.085+08:00","updated":"2025-05-07T20:20:01.000+08:00"}
 ---
 
 # 我使用的 Obsidian 外掛
