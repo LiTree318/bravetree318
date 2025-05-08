@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 3️⃣ 製造孤獨──那些不經意崩解的自我","tags":["橋本書屋","獨，書會","Reading_Notes"],"status":"✅ Done","dg-publish":true,"permalink":"/閱讀/孤獨系列讀書會/ISSUE 3️⃣ 製造孤獨──那些不經意崩解的自我/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:06.000+08:00","updated":"2025-05-06T01:00:18.000+08:00"}
+{"title":"ISSUE 3️⃣ 製造孤獨──那些不經意崩解的自我","tags":["橋本書屋","獨，書會","Reading_Notes"],"status":"✅ Done","dg-publish":true,"permalink":"/閱讀/孤獨系列讀書會/ISSUE 3️⃣ 製造孤獨──那些不經意崩解的自我/","dgPassFrontmatter":true,"created":"2024-02-05T02:26:20.000+08:00","updated":"2025-05-06T01:00:18.761+08:00"}
 ---
 
 

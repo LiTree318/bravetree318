@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 1 IN and OUT 資訊來源與輸出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN and OUT 資訊來源與輸出/","dgPassFrontmatter":true,"created":"2025-05-07T13:52:06.000+08:00","updated":"2025-05-07T17:13:39.000+08:00"}
+{"title":"ISSUE 1 IN and OUT 資訊來源與輸出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN and OUT 資訊來源與輸出/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T17:13:39.583+08:00"}
 ---
 
 # ISSUE 1 IN and OUT 資訊來源與輸出
