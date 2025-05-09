@@ -1,5 +1,5 @@
 ---
-{"title":"🌲 HERE IS THE TREE'S HOLE","dg-publish":true,"dg-home":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"status":"⚒️ Doing","permalink":"/🌲 HERE IS THE TREE'S HOLE/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:02.000+08:00","updated":"2025-05-06T17:17:39.860+08:00"}
+{"title":"🌲 HERE IS THE TREE'S HOLE","dg-publish":true,"dg-home":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"status":"⚒️ Doing","permalink":"/🌲 HERE IS THE TREE'S HOLE/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:02.000+08:00","updated":"2025-05-09T18:32:43.199+08:00"}
 ---
 
 
@@ -19,6 +19,13 @@
 歡迎大家來交流和分享
 
 Obsidian 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇️ 簡易模版下載]]
+
+我用 Obsidian 的想法和概念可以參考這個網站 [🕸️ 用來做demo的網站](https://dataframe-example.netlify.app)
+
+> [!NOTE]- 我對於資料庫的想法可以參考 [🧪用途解說](https://dataframe-example.netlify.app/🧪%20用途解說/)
+> 理想上，資料庫建置會包含 input 到 output，同時透過networks 的方式來解析哪些inputs沒有被使用到，而透過outputs又產生哪些新的議題或者備註（如圖）
+> ![Data Frame.png](/img/user/img/Data%20Frame.png)
+
 
 > [!important] 關於本站
 > 1. 這個網站完全基於 [Wanderloots's Words](https://wanderloots.xyz/) 分享的 [Digital Garden 說明](https://wanderloots.xyz/digital-garden/tutorials/how-to-publish-obsidian-notes-website-for-free-digital-garden-or-blog/)，部分參考[oleeskild](https://github.com/oleeskild/obsidian-digital-garden)架設的[另一個 Digital Garden 說明](https://dg-docs.ole.dev/)。 
