@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"📑 【模版】參考資料引用-temp","tags":["📝數位工具交流beta","self_learing"],"permalink":"/數位工具/📑 【模版】參考資料引用-temp/","dgPassFrontmatter":true,"created":"2025-05-08T13:23:53.000+08:00","updated":"2025-05-10T21:59:48.597+08:00"}
+{"dg-publish":true,"title":"📑 【模版】參考資料引用-temp","tags":["📝數位工具交流beta","self_learing"],"permalink":"/數位工具/📑 【模版】參考資料引用-temp/","dgPassFrontmatter":true,"created":"2025-05-08T12:23:21.556+08:00","updated":"2025-05-10T21:59:48.000+08:00"}
 ---
 
 
