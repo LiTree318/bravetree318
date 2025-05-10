@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 1 IN and OUT 資訊來源與輸出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN and OUT 資訊來源與輸出/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-07T17:13:39.583+08:00"}
+{"title":"ISSUE 1 IN and OUT 資訊來源與輸出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN and OUT 資訊來源與輸出/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-10T22:01:51.968+08:00"}
 ---
 
 # ISSUE 1 IN and OUT 資訊來源與輸出
@@ -131,7 +131,7 @@
 > - [ ]  寫的廢文 [[愛，在滂沱大雨下\|愛，在滂沱大雨下]]
 
 
-- [[閱讀/孤獨系列讀書會/ISSUE 1 感受孤獨\|ISSUE 1 感受孤獨]]
+- [[閱讀/孤獨系列讀書會/ISSUE 1️⃣ 感受孤獨\|ISSUE 1️⃣ 感受孤獨]]
 - [[閱讀/孤獨系列讀書會/ISSUE 2️⃣ 失去重心的日子\|ISSUE 2️⃣ 失去重心的日子]]
 - [[閱讀/孤獨系列讀書會/ISSUE 3️⃣ 製造孤獨──那些不經意崩解的自我\|ISSUE 3️⃣ 製造孤獨──那些不經意崩解的自我]]
 - [[閱讀/孤獨系列讀書會/ISSUE 4️⃣ 排除在人群之外\|ISSUE 4️⃣ 排除在人群之外]]
