@@ -1,5 +1,5 @@
 ---
-{"title":"🌲 HERE IS THE TREE'S HOLE","dg-publish":true,"dg-home":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"status":"⚒️ Doing","permalink":"/🌲 HERE IS THE TREE'S HOLE/","dgPassFrontmatter":true,"created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-10T19:47:04.197+08:00"}
+{"title":"🌲 HERE IS THE TREE'S HOLE","dg-publish":true,"dg-home":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"status":"⚒️ Doing","permalink":"/🌲 HERE IS THE TREE'S HOLE/","dgPassFrontmatter":true,"created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-13T16:32:57.590+08:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 目前正在執行
 
-👉 [[交流/協作時代下的筆記軟體\|協作時代下的筆記軟體]]。
+👉 [[交流/0606報告架構\|0606報告架構]]。
 
 歡迎大家來交流和分享
 

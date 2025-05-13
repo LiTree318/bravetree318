@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 1 IN and OUT 資訊來源與輸出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"permalink":"/社會報導工作隊@0606/ISSUE 1 IN and OUT 資訊來源與輸出/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-10T22:01:51.968+08:00"}
+{"title":"ISSUE 1 IN and OUT 資訊來源與輸出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"🗑️ Unuse","dg-publish":true,"type":["📰Slide"],"hackmd":{"url":"https://hackmd.io/U7hMvfodRbqYJZImWkKT3A","title":"ISSUE 1 IN 資訊來源","lastSync":"2025-05-07T07:54:10.031Z"},"note":"調整架構之後，這份筆記就用不到了。","permalink":"/社會報導工作隊@0606/ISSUE 1 IN and OUT 資訊來源與輸出/","dgPassFrontmatter":true,"created":"2025-05-07T13:09:00.476+08:00","updated":"2025-05-13T16:31:30.200+08:00"}
 ---
 
 # ISSUE 1 IN and OUT 資訊來源與輸出
@@ -77,7 +77,15 @@
 
 ### 🗄️ 資訊類型（PPAV）
 
-![Pasted image 20250507152036.png](/img/user/img/Pasted%20image%2020250507152036.png)
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+
 
 <font color="red"><b>P</b></font>ost – <font color="red"><b>P</b></font>hoto – <font color="red"><b>A</b></font>rticle –  <font color="red"><b>V</b></font>ideo
 
