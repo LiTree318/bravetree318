@@ -1,5 +1,5 @@
 ---
-{"title":"🌲 HERE IS THE TREE'S HOLE","dg-publish":true,"dg-home":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"status":"⚒️ Doing","permalink":"/🌲 HERE IS THE TREE'S HOLE/","dgPassFrontmatter":true,"created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-13T16:32:57.590+08:00"}
+{"title":"🌲 HERE IS THE TREE'S HOLE","dg-publish":true,"dg-home":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"status":"⚒️ Doing","permalink":"/🌲 HERE IS THE TREE'S HOLE/","dgPassFrontmatter":true,"created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-13T16:44:16.575+08:00"}
 ---
 
 
@@ -11,10 +11,6 @@
 這裡是李樹的樹窩 🕳️ 。
 
 存放接下來閱讀、自學、交流的筆記和心得。
-
-目前正在執行
-
-👉 [[unuse/0606報告架構\|0606報告架構]]。
 
 歡迎大家來交流和分享
 
