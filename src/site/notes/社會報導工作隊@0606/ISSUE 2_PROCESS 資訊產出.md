@@ -1,5 +1,5 @@
 ---
-{"title":"ISSUE 2_PROCESS 資訊產出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"permalink":"/社會報導工作隊@0606/ISSUE 2_PROCESS 資訊產出/","dgPassFrontmatter":true,"created":"2025-05-07T16:41:31.000+08:00","updated":"2025-05-09T18:41:11.272+08:00"}
+{"title":"ISSUE 2_PROCESS 資訊產出","tags":["📝數位工具交流beta","🎯學習歷程檔案","self_learing"],"status":"⚒️ Doing","dg-publish":true,"type":["📰Slide"],"permalink":"/社會報導工作隊@0606/ISSUE 2_PROCESS 資訊產出/","dgPassFrontmatter":true,"created":"2025-05-07T16:18:10.356+08:00","updated":"2025-05-09T18:41:11.000+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"🌲 HERE IS THE TREE'S HOLE","dg-publish":true,"dg-home":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"status":"⚒️ Doing","permalink":"/🌲 HERE IS THE TREE'S HOLE/","dgPassFrontmatter":true,"created":"2025-05-06T02:37:02.000+08:00","updated":"2025-05-10T19:47:04.000+08:00"}
+{"title":"🌲 HERE IS THE TREE'S HOLE","dg-publish":true,"dg-home":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"status":"⚒️ Doing","permalink":"/🌲 HERE IS THE TREE'S HOLE/","dgPassFrontmatter":true,"created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-10T19:47:04.197+08:00"}
 ---
 
 
