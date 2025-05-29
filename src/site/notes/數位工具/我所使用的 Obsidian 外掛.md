@@ -60,7 +60,7 @@
 
 > [!tip]- [Kanban](obsidian://show-plugin?id=obsidian-kanban)
 > 可以在 Obsidian 建置類似 Trello 的專案管理介面，輸入待辦清單進行管理。
-> 可以參考 [[unuse/進度表\|我設定要安排進度的工作進度表]]，不過這個外掛在[網站上不會呈現](https://bravetree318.netlify.app/%E7%A4%BE%E6%9C%83%E5%A0%B1%E5%B0%8E%E5%B7%A5%E4%BD%9C%E9%9A%8A@0606/%E9%80%B2%E5%BA%A6%E8%A1%A8/)
+> 可以參考 [[進度表\|我設定要安排進度的工作進度表]]，不過這個外掛在[網站上不會呈現](https://bravetree318.netlify.app/%E7%A4%BE%E6%9C%83%E5%A0%B1%E5%B0%8E%E5%B7%A5%E4%BD%9C%E9%9A%8A@0606/%E9%80%B2%E5%BA%A6%E8%A1%A8/)
 
 
 > [!TIP]- [Reminder](obsidian://show-plugin?id=obsidian-reminder-plugin)
