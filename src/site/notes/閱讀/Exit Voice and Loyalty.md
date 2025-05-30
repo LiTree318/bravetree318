@@ -1,5 +1,5 @@
 ---
-{"title":"Exit Voice and Loyalty","tags":["Reading_Notes","論文"],"status":"❌ Private","dg-publish":true,"permalink":"/閱讀/Exit Voice and Loyalty/","dgPassFrontmatter":true,"created":"2024-07-28T13:06:55.000+08:00","updated":"2025-05-06T12:00:36.000+08:00"}
+{"dg-publish":true,"permalink":"/閱讀/Exit Voice and Loyalty/","title":"Exit Voice and Loyalty","tags":["Reading_Notes","論文"],"noteIcon":"3","created":"2024-07-28T13:06:55.000+08:00","updated":"2025-05-06T12:00:36.000+08:00"}
 ---
 
 - 經濟行為背後的邊際效益和預期心理，同樣可以用於分析政治行為（以我關注的組織應行為來說，同樣適用。

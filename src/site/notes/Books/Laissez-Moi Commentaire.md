@@ -1,5 +1,5 @@
 ---
-{"title":"留下我一個人：愛的剖析","tags":["#Books"],"topics":["#女性書寫","#親密關係"],"create-date":"2025-05-09 22:35","dg-publish":true,"aliases":["留下我一個人：愛的剖析"],"permalink":"/Books/Laissez-Moi Commentaire/","dgPassFrontmatter":true,"created":"2025-05-11T00:50:55.000+08:00","updated":"2025-05-30T05:35:06.001+08:00"}
+{"dg-publish":true,"permalink":"/Books/Laissez-Moi Commentaire/","title":"留下我一個人：愛的剖析","tags":["#Books"],"noteIcon":"3","created":"2025-05-11T00:50:55.000+08:00","updated":"2025-05-30T05:35:06.001+08:00"}
 ---
 
 
