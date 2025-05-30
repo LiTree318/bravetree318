@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-30T05:34:17.070+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-30T18:38:44.988+08:00"}
 ---
 
 
@@ -41,3 +41,21 @@ Obsidian 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇�
 > My Medium: https://medium.com/@tree10zi23
 > 
 > My HackMD: https://hackmd.io/@tree10zi23
+
+
+---
+
+## 📚 我的閱讀
+
+
+
+|          ![[留下我一個人.webp\|220]]           |          ![[人魚紀.jpg\|200]]           |                                  ![[孤獨的哲學.jpg\|200]]                                   |
+| :--------------------------------------: | :----------------------------------: | :------------------------------------------------------------------------------------: |
+| [[Books/Laissez-Moi Commentaire\|留下我一個人：愛的剖析]] |               [[Books/人魚紀\|人魚紀]]                |                                  [[短文/因為愛著，所以孤單\|孤獨的哲學]]                                  |
+|            ![[變成的人.jpg\|200]]            |         ![[白痴的歷史.jpg\|200]]          |                                 ![[賢妻良母失敗記.jpg\|200]]                                  |
+|         [[短文/「親愛的我，請你不要忘記」\|變成的人]]          |              [[讀書筆記/白癡的歷史\|白癡的歷史]]               |                               [[短文/愛與礙，游離的情感與關係\|賢妻良母失敗記]]                                |
+|            ![[寂寞不會.jpg\|200]]            | ![[exit voice and loyalty.jpg\|200]] |                      ![[the subversive of simone weil.webp\|200]]                      |
+|          [[短文/愛與礙，游離的情感與關係\|寂寞不會]]          |      [[讀書筆記/Exit Voice and Loyalty\|Exit Voice and Loyalty]]      | [[讀書筆記/On Simone Weil - The LRB Podcast\|The Subversive Simone Weil: A Life in Five Ideas]] |
+
+
+
