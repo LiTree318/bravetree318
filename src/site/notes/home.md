@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-30T18:48:55.773+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-31T10:08:42.370+08:00"}
 ---
 
 
@@ -49,7 +49,7 @@ Obsidian 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇�
 
 
 
-|            ![[留下我一個人.webp\|]]            |          ![[人魚紀.jpg]]           |                                  ![孤獨的哲學.jpg](/img/user/img/%E5%AD%A4%E7%8D%A8%E7%9A%84%E5%93%B2%E5%AD%B8.jpg)                                   |
+|            ![留下我一個人.webp](/img/user/img/%E7%95%99%E4%B8%8B%E6%88%91%E4%B8%80%E5%80%8B%E4%BA%BA.webp)            |          ![人魚紀.jpg](/img/user/img/%E4%BA%BA%E9%AD%9A%E7%B4%80.jpg)           |                                  ![孤獨的哲學.jpg](/img/user/img/%E5%AD%A4%E7%8D%A8%E7%9A%84%E5%93%B2%E5%AD%B8.jpg)                                   |
 | :--------------------------------------: | :----------------------------------: | :------------------------------------------------------------------------------------: |
 | [[Books/Laissez-Moi Commentaire\|留下我一個人：愛的剖析]] |               [[Books/人魚紀\|人魚紀]]                |                                  [[短文/因為愛著，所以孤單\|孤獨的哲學]]                                  |
 |            ![變成的人.jpg](/img/user/img/%E8%AE%8A%E6%88%90%E7%9A%84%E4%BA%BA.jpg)            |         ![白痴的歷史.jpg](/img/user/img/%E7%99%BD%E7%97%B4%E7%9A%84%E6%AD%B7%E5%8F%B2.jpg)          |                                 ![賢妻良母失敗記.jpg](/img/user/img/%E8%B3%A2%E5%A6%BB%E8%89%AF%E6%AF%8D%E5%A4%B1%E6%95%97%E8%A8%98.jpg)                                  |
