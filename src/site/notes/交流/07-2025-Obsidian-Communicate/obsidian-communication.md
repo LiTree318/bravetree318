@@ -1,8 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/obsidian-communication/","title":"Jul-2025-Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-01T10:11:54.703+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/obsidian-communication/","title":"Jul-2025-Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-01T10:15:47.297+08:00"}
 ---
 
+
+
+
 # 《Obsidian–筆記軟體交流》  
+
+> [!tip] Discord 空降區
+> 仰望皓月／LttM 🌕 往這邊走 👉 https://discord.gg/ZTRMyr6r
+
+---
+
 ![活動banner.png](/img/user/%E4%BA%A4%E6%B5%81/07-2025-Obsidian-Communicate/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%B4%BB%E5%8B%95banner.png)
   
 最近一邊用 Obsidian 整理論文和工作上的資料，同時也用 Obsidian 來寫稿、寫論文（以下稱為「黑耀石」）；我發現 #黑耀石 很適合用來寫作，特別是很多時候只有零星和破碎的想法，可以用黑耀石一點點把想法整理好，讓我能更快找到寫作的方向。
