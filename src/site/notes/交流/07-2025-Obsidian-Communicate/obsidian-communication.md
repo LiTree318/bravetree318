@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/obsidian-communication/","title":"Jul-2025-Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-02T02:34:52.171+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/obsidian-communication/","title":"筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-02T07:12:20.237+08:00"}
 ---
 
 
@@ -9,6 +9,16 @@
 
 > [!tip] Discord 空降區
 > 仰望皓月／LttM 🌕 往這邊走 👉 https://discord.gg/ZTRMyr6r
+
+
+> [!example]+ 筆記清單
+> 
+>  - [[交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management\|Kanban管理文獻整理進度]]／3:34 AM - June 02, 2025
+> - [[交流/07-2025-Obsidian-Communicate/obsidian-communication\|筆記軟體交流]]／8:44 AM - June 01, 2025
+> 
+{ .block-language-dataview}
+
+
 
 ---
 

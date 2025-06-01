@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Clippings/Obsidian Web Clipper/","title":"Obsidian Web Clipper","tags":["#clippings"],"noteIcon":"3","created":"2025-05-07T13:03:37.013+08:00","updated":"2025-05-31T10:02:29.093+08:00"}
+{"dg-publish":true,"permalink":"/Clippings/Obsidian Web Clipper/","title":"Obsidian Web Clipper","tags":["#clippings"],"noteIcon":"3","created":"2025-05-07T13:52:06.000+08:00","updated":"2025-05-31T10:02:29.000+08:00"}
 ---
 
 
