@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-05-31T10:15:42.427+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-06T02:37:02.000+08:00","updated":"2025-06-01T10:04:48.039+08:00"}
 ---
 
 
 # 🌲 HERE IS THE TREE'S HOLE
+
+
+
 
 
 ### 關於我
@@ -21,6 +24,21 @@ Obsidian 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇�
 > [!NOTE]- 我對於資料庫的想法可以參考 [🧪用途解說](https://dataframe-example.netlify.app/🧪%20用途解說/)
 > 理想上，資料庫建置會包含 input 到 output，同時透過networks 的方式來解析哪些inputs沒有被使用到，而透過outputs又產生哪些新的議題或者備註（如圖）
 > ![Data Frame.png](/img/user/img/Data%20Frame.png)
+
+
+---
+
+
+> [!tip] 我正在進行的專案
+>  | 專案名稱                  | 進度       | link                                                              |
+> | --------------------- | -------- | ----------------------------------------------------------------- |
+> | Obsidian–筆記軟體交流       | #✍️現正進行中 | [[交流/07-2025-Obsidian-Communicate/obsidian-communication\|連結]] |
+> | 2025-06-06 協作時代下的筆記軟體 | #✍️現正進行中 | [[交流/2025-06-06-協作時代的筆記/2025-06-06 協作時代下的筆記軟體\|連結]]            |
+> | 資料庫清單                 | #🗃️_資料庫 | [[交流/06-2025-One Piece/資料庫清單\|連結]]                             |
+> | 資料搜尋平台                | #🗃️_資料庫 | [[交流/06-2025-One Piece/data-search-platform\|連結]]              |
+> 
+{ .block-language-dataview}
+
 
 
 > [!warning] 關於本站
