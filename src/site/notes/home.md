@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-06T02:37:02.000+08:00","updated":"2025-06-02T07:07:53.456+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-02T21:02:04.161+08:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 ### 關於我
 
-這裡是李樹的樹窩 🕳️ 。
+這裡是李樹的樹窩 🏡 。
 
 存放接下來閱讀、自學、交流的筆記和心得。
 

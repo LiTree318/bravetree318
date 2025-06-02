@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/讀書筆記/Kim2023-What Makes Weak Ties Strong/SWT 預設連結本身不會損失/","tags":["李樹論文"],"noteIcon":"3","created":"2025-06-02T15:31:04.824+08:00","updated":"2025-06-02T15:31:16.689+08:00"}
+{"dg-publish":true,"permalink":"/讀書筆記/Kim2023-What Makes Weak Ties Strong/SWT 預設連結本身不會損失/","tags":["李樹論文"],"noteIcon":"3","created":"2025-06-02T20:10:01.000+08:00","updated":"2025-06-02T15:31:16.000+08:00"}
 ---
 
 
