@@ -13,8 +13,8 @@
 
 > [!example]+ 筆記清單
 > 
->  - [[交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management\|Kanban管理文獻整理進度]]／3:34 AM - June 02, 2025
-> - [[交流/07-2025-Obsidian-Communicate/obsidian-communication\|筆記軟體交流]]／8:44 AM - June 01, 2025
+>  - [[交流/07-2025-Obsidian-Communicate/obsidian-communication\|筆記軟體交流]]／8:44 AM - June 01, 2025
+> - [[交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management\|Kanban管理文獻整理進度]]／3:34 AM - June 02, 2025
 > 
 { .block-language-dataview}
 
