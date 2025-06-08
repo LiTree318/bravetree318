@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-08T18:04:44.150+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-08T18:05:08.932+08:00"}
 ---
 
 
@@ -13,10 +13,10 @@
 
 > [!example]+ 筆記清單
 > 
->  - [[交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management\|Kanban管理文獻整理進度]]／ #延伸討論
-> - [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/hw-obsidian-lesson-1\|第一堂課作業]]／ #第一堂課
+>  - [[交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]]／ #課程大綱
+> - [[交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management\|Kanban管理文獻整理進度]]／ #延伸討論
 > - [[交流/07-2025-Obsidian-Communicate/intro-obsidian\|2025-06-13 Obsidian 入門]]／ #第一堂課
-> - [[交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]]／ #課程大綱
+> - [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/hw-obsidian-lesson-1\|第一堂課作業]]／ #第一堂課作業
 > 
 { .block-language-dataview}
 
