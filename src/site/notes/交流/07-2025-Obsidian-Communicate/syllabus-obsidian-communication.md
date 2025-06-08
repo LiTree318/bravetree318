@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-08T18:02:17.249+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-08T18:04:44.150+08:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 # 《Obsidian–筆記軟體交流》  
 
 > [!tip] Discord 空降區
-> 仰望皓月／LttM 🌕 往這邊走 👉 https://discord.gg/ZTRMyr6r
+> 仰望皓月／LttM 🌕 往這邊走 👉 https://discord.gg/WMEAJdRe5y
 
 
 > [!example]+ 筆記清單
