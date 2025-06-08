@@ -15,7 +15,7 @@
 
 
 > [!failure] 圖片要再做調整
-> ![kanban-and-literatures-management.png](/img/user/%E4%BA%A4%E6%B5%81/07-2025-Obsidian-Communicate/kanban-and-literatures-management.png)
+> ![kanban-and-literatures-management.png](/img/user/%E4%BA%A4%E6%B5%81/07-2025-Obsidian-Communicate/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/kanban-and-literatures-management.png)
 
 ---
 
