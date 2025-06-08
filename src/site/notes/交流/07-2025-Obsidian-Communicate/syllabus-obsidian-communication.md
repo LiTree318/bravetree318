@@ -17,6 +17,7 @@
 > - [[交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management\|Kanban管理文獻整理進度]]／ #延伸討論
 > - [[交流/07-2025-Obsidian-Communicate/intro-obsidian\|2025-06-13 Obsidian 入門]]／ #第一堂課
 > - [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/hw-obsidian-lesson-1\|第一堂課作業]]／ #第一堂課作業
+> - [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/intro-obsidian-slides\|2025-06-13 Obsidian 入門｜Slides]]／ #第一堂課Slides
 > 
 { .block-language-dataview}
 
