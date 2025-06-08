@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-08T15:39:11.484+08:00","updated":"2025-06-08T17:58:44.114+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-08T15:39:11.484+08:00","updated":"2025-06-08T17:59:51.409+08:00"}
 ---
 
 
@@ -66,29 +66,35 @@
 
 > [!example] 進度
 > ### 設定自己的儲存庫
-> 1. 儲存庫的重點：`.obsidian`，這邊存放自己的個人資料、套件資料、工作區、外觀主題
-> 2. 認識介面：左欄與右欄（左右欄位可以自由調配，搭配出個人最常用的功能）；
+> 儲存庫的重點：`.obsidian`，這邊存放自己的個人資料、套件資料、工作區、外觀主題
+> 
+> 認識介面：左欄與右欄（左右欄位可以自由調配，搭配出個人最常用的功能）；
 > 
 > ---
 > ### `選項`介面：
-> 3. 更改`語言`：初學者建議用「繁體中文」，熟悉各個功能在幹嘛；進階可以再回到「英文」（方便切換指令）。
-> 4. 調整`編輯器`： `新分頁的預設檢視模式`👉 **編輯器模式**； `預設編輯模式` 👉 **實際預覽**。
-> 5. 設定`外觀`：調整`佈景主題`。 👉 從 `管理` 中尋找。幾個推薦主題。
-> 	1. **Minimal**：大小標題佔據空間小，讓畫面更易於編輯
-> 	2. **Obsidian Nord**：顏色顯示清楚，特別是和選擇「暗黑主題」
-> 	3. **Typewriter**：底色米色的主題，字體溫和。
-> 6. 調整`第三方社群外掛`：關閉 `受限模式`。
+> 更改`語言`：初學者建議用「繁體中文」，熟悉各個功能在幹嘛；進階可以再回到「英文」（方便切換指令）。
+> 
+> 調整`編輯器`： `新分頁的預設檢視模式`👉 **編輯器模式**； `預設編輯模式` 👉 **實際預覽**。
+> 
+> 設定`外觀`：調整`佈景主題`。 👉 從 `管理` 中尋找。幾個推薦主題。
+> 1. **Minimal**：大小標題佔據空間小，讓畫面更易於編輯
+> 2. **Obsidian Nord**：顏色顯示清楚，特別是和選擇「暗黑主題」
+> 3. **Typewriter**：底色米色的主題，字體溫和。
+> 
+> 調整`第三方社群外掛`：關閉 `受限模式`。
 
 ## 安裝套件
 
 
 > [!example] 進度
-> 1. 點開 `第三方社群外掛`  👉 `社群外掛模式`  👉 選擇套件  👉 `下載安裝並啟用`
-> 2. 本次套件清單：
-> 	1. [Calendar](obsidian://show-plugin?id=calendar)
-> 	2. [Clipper](obsidian://show-plugin?id=obsidian-clipper)
-> 	3. [Editing Toolbar](obsidian://show-plugin?id=editing-toolbar)
-> 	4. [Kanban](obsidian://show-plugin?id=obsidian-kanban)
+> 點開 `第三方社群外掛`  👉 `社群外掛模式`  👉 選擇套件  👉 `下載安裝並啟用`
+> 
+> 本次套件清單：
+> 1. [Calendar](obsidian://show-plugin?id=calendar)
+> 2. [Clipper](obsidian://show-plugin?id=obsidian-clipper)
+> 3. [Editing Toolbar](obsidian://show-plugin?id=editing-toolbar)
+> 4. [Kanban](obsidian://show-plugin?id=obsidian-kanban)
+>    
 > ---
 > #### Calendar
 > 顯示行事曆，練習新增每日筆記
@@ -114,8 +120,8 @@
 ## 完成第一份筆記
 
 > [!example] 進度
-> 1. 複製 [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/hw-obsidian-lesson-1\|這裡]] 的筆記
-> 2. 功能介紹：
+> - 複製 [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/hw-obsidian-lesson-1\|這裡]] 的筆記
+> - 功能介紹：
 > 	1. 大標題： `# 加上文字`；不同數量的 `#` 區分層級；
 > 	2. 清單：`1. 加上文字` 自動製作有序列的清單； `- 文字`或者 `* 文字` 製作無序列清單。
 > 	3. 粗體／斜體／螢光筆／刪除線： `**這邊會變成粗體**`、`*這邊是斜體*`、`＝＝這邊是螢光筆＝＝`、`~~這邊是刪除線~~`。
