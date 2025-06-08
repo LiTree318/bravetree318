@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/讀書筆記/Kim2023-What Makes Weak Ties Strong/Granovetter(1973) 另一個貢獻在於指出ties的強弱是一種結構特性/","tags":["李樹論文"],"noteIcon":"3","created":"2025-06-02T20:10:01.000+08:00","updated":"2025-06-02T15:32:29.000+08:00"}
+{"dg-publish":true,"permalink":"/讀書筆記/Kim2023-What Makes Weak Ties Strong/Granovetter(1973) 另一個貢獻在於指出ties的強弱是一種結構特性/","tags":["李樹論文"],"noteIcon":"3","created":"2025-06-02T15:30:10.429+08:00","updated":"2025-06-02T15:32:29.274+08:00"}
 ---
 
 

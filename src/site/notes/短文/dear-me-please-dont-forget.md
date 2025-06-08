@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/短文/dear-me-please-dont-forget/","title":"「親愛的我，請你不要忘記」──讀《變成的人》","tags":["變成的人","Reading_Notes"],"noteIcon":"3","created":"2024-08-07T01:12:54.159+08:00","updated":"2025-05-31T10:18:54.058+08:00"}
+{"dg-publish":true,"permalink":"/短文/dear-me-please-dont-forget/","title":"「親愛的我，請你不要忘記」──讀《變成的人》","tags":["變成的人","Reading_Notes"],"noteIcon":"3","created":"2025-05-06T02:37:06.000+08:00","updated":"2025-05-31T10:18:54.000+08:00"}
 ---
 
 

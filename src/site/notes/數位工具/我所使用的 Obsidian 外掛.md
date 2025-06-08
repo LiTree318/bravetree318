@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/數位工具/我所使用的 Obsidian 外掛/","title":"我使用的 Obsidian 外掛","tags":["🎯學習歷程檔案","HackMD","Notion","📝數位工具交流beta","DigitalGarden","obsidian","self_learing","website_design"],"noteIcon":"3","created":"2025-05-06T17:39:58.000+08:00","updated":"2025-05-10T22:00:15.685+08:00"}
+{"dg-publish":true,"permalink":"/數位工具/我所使用的 Obsidian 外掛/","title":"我使用的 Obsidian 外掛","tags":["🎯學習歷程檔案","HackMD","Notion","📝數位工具交流beta","DigitalGarden","obsidian","self_learing","website_design"],"noteIcon":"3","created":"2025-05-06T12:22:43.085+08:00","updated":"2025-06-08T17:13:21.754+08:00"}
 ---
 
 
@@ -88,7 +88,7 @@
 > 可以將筆記發佈到 HakMD 上面。
 
 
-> [!danger]- [Share to Notion](obsidian://show-plugin?id=obsidian-to-notion) ？？
+> [!failure]- [Share to Notion](obsidian://show-plugin?id=obsidian-to-notion) ？？ 該套件已失效
 > 可以將筆記分享到 Notion 的資料庫裡面。但我很少使用。
 
 
