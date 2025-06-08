@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-08T18:07:50.728+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-08T23:04:09.524+08:00"}
 ---
 
 
@@ -41,76 +41,71 @@
 四次分享全部都是線上，會在我自己的DC社群「LttM／仰望皓月」上舉行。內容安排如下，歡迎大家來玩：
 
 ### 1️⃣ [[交流/07-2025-Obsidian-Communicate/intro-obsidian\|2025-06-13／Obsidian 入門]]
-```
 ／／概念說明
 
-	👉 為什麼選擇筆記軟體
-　　
-	👉 認識 Markdown 語言
-　　
-	👉 認識第三方社群套件
-　　
+👉 為什麼選擇筆記軟體
+
+👉 認識 Markdown 語言
+
+👉 認識第三方社群套件
+
 ／／機上操作
 
-	⬇️ 設定自己的儲存庫
-　　
-	⬇️ 安裝套件
-　　
-	⬇️ 完成第一份筆記
-```
+⬇️ 設定自己的儲存庫
+
+⬇️ 安裝套件
+
+⬇️ 完成第一份筆記
 　　
 ![投影片3-06-01-25_08-32-52-810.png](/img/user/%E4%BA%A4%E6%B5%81/07-2025-Obsidian-Communicate/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%873-06-01-25_08-32-52-810.png)
 
 
 
 ### 2️⃣ 2025-06-20／Obsidian 基礎
-```
+
 ／／概念說明
 
-　　👉 建立筆記關聯
-　　
-　　👉 I-P-O 筆記法
-　　
-　　👉 用標籤管理資料庫
-　　
+👉 建立筆記關聯
+
+👉 I-P-O 筆記法
+
+👉 用標籤管理資料庫
+
+
 ／／機上操作
 
-　　⬇️ Obsidian 常用指令
-　　
-　　⬇️ 關聯圖瀏覽
-　　
-　　⬇️ 設定標籤分類筆記
-```
+⬇️ Obsidian 常用指令
+
+⬇️ 關聯圖瀏覽
+
+
+⬇️ 設定標籤分類筆記
 　　
 ![投影片4-06-01-25_08-32-52-831.png](/img/user/%E4%BA%A4%E6%B5%81/07-2025-Obsidian-Communicate/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png)
 
 ### 3️⃣ 2025-06-27／Obsidian 資料庫
 
-```
 ／／概念說明
 
-　　👉 筆記屬性與YAML
+👉 筆記屬性與YAML[^1]
+
+👉 介紹「Dataview」套件
+
+👉 DV + 標籤
 　　
-　　👉 介紹「Dataview」套件
-　　
-　　👉 DV + 標籤
-　　
+
 ／／機上操作
 
-　　⬇️ 設定筆記屬性
+⬇️ 設定筆記屬性
+
+⬇️ 核心套件： Dataview
+
+⬇️ 建立第一個資料庫
 　　
-　　⬇️ 核心套件： Dataview
-　　
-　　⬇️ 建立第一個資料庫
-　　
-```
 ![投影片5-06-01-25_08-32-52-851.png](/img/user/%E4%BA%A4%E6%B5%81/07-2025-Obsidian-Communicate/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%875-06-01-25_08-32-52-851.png)
 
 ### 4️⃣ 2025-07-05／問題與討論
 
 ![投影片6-06-01-25_08-32-52-873.png](/img/user/%E4%BA%A4%E6%B5%81/07-2025-Obsidian-Communicate/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%876-06-01-25_08-32-52-873.png)
 
-
-
-
-
+[^1]: https://yaml.org/spec/1.2.2/
