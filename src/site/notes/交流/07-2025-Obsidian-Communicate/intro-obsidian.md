@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-08T15:39:11.484+08:00","updated":"2025-06-08T17:57:38.249+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-08T15:39:11.484+08:00","updated":"2025-06-08T17:58:44.114+08:00"}
 ---
 
 
@@ -37,17 +37,19 @@
 
 ## 認識第三方社群套件
 > [!summary] 摘要
-> 1. Obsidian 內建許多核心套件：其中最常使用（也是Obsidian特色）的套件包含：
-> 	1. 反向連結（Backlinks）
-> 	2. 畫布（Canvas）
-> 	3. 模版（Templates）
-> 	4. 關聯圖檢視（Graph view）
-> 2. 此外，Obsidian允許使用者下載第三方套件，從而實現許多其他功能。本次課程中會安裝以下幾個社群套件：
-> 	1. calendar：顯示行事曆＋新增每日筆記
-> 	2. Clipper：網頁擷取工具，可以自動將網頁儲存成筆記
-> 	3. Editing Toolbar：文字編輯工具，可以協助word使用者熟悉obsidian和Markdown。
-> 	4. Kanban：看板功能，協助分類筆記。
-> 3. 其他我常用的套件可以參考 👉 [[數位工具/我所使用的 Obsidian 外掛\|我所使用的 Obsidian 外掛]]
+> Obsidian 內建許多核心套件：其中最常使用（也是Obsidian特色）的套件包含：
+> - 反向連結（Backlinks）
+> - 畫布（Canvas）
+> - 模版（Templates）
+> - 關聯圖檢視（Graph view）
+> 
+> 此外，Obsidian允許使用者下載第三方套件，從而實現許多其他功能。本次課程中會安裝以下幾個社群套件：
+> - Calendar：顯示行事曆＋新增每日筆記
+> - Clipper：網頁擷取工具，可以自動將網頁儲存成筆記
+> - Editing Toolbar：文字編輯工具，可以協助word使用者熟悉obsidian和Markdown。
+> - Kanban：看板功能，協助分類筆記。
+> 
+> 其他我常用的套件可以參考 👉 [[數位工具/我所使用的 Obsidian 外掛\|我所使用的 Obsidian 外掛]]
 > 
 > ---
 > ==結論==：套件功能讓 obsidian 可以實現更多文書、專案、辦公功能；摸索並了解套件，是使用obsidian的第一課。
