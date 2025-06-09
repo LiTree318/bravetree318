@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-08T15:39:11.484+08:00","updated":"2025-06-08T22:09:21.528+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-08T15:39:11.484+08:00","updated":"2025-06-09T14:12:40.451+08:00"}
 ---
 
+
+> [!NOTE] 簡報
+> [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/intro-obsidian-slides\|intro-obsidian-slides]]
 
 # 概念說明
 
@@ -133,7 +136,7 @@
 
 
 
-# 給資優生的問題與討論
+# 問題與討論
 
 > [!EXAMPLE] 研究問題
 >- [ ]  您平時如何在工作／研究上使用（其他）筆記軟體？它的生產流程為何？它是提高還是降低您的工作效率（如何評估、如何比較）？能否將您使用筆記軟體的方式以「流程圖」的方式表達？

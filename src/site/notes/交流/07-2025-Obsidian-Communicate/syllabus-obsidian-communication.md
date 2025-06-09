@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-08T23:04:09.524+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-08T23:06:05.711+08:00"}
 ---
 
 
@@ -41,6 +41,11 @@
 四次分享全部都是線上，會在我自己的DC社群「LttM／仰望皓月」上舉行。內容安排如下，歡迎大家來玩：
 
 ### 1️⃣ [[交流/07-2025-Obsidian-Communicate/intro-obsidian\|2025-06-13／Obsidian 入門]]
+
+> [!NOTE] 簡報
+> [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/intro-obsidian-slides\|intro-obsidian-slides]]
+
+
 ／／概念說明
 
 👉 為什麼選擇筆記軟體
