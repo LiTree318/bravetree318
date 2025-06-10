@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/自學/my-reading/","title":"🌱 雨露均沾","noteIcon":"3","created":"2025-05-08T13:23:53.000+08:00","updated":"2025-05-30T06:14:09.753+08:00"}
+{"dg-publish":true,"permalink":"/自學/my-reading/","title":"🌱 雨露均沾","noteIcon":"3","created":"2025-05-08T13:23:53.000+08:00","updated":"2025-06-10T19:44:35.295+08:00"}
 ---
 
  #📝數位工具交流beta  #self_learing 
