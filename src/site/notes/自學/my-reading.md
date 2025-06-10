@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/自學/my-reading/","title":"🌱 雨露均沾","noteIcon":"3","created":"2025-05-08T12:45:23.052+08:00","updated":"2025-05-30T06:14:09.000+08:00"}
+{"dg-publish":true,"permalink":"/自學/my-reading/","title":"🌱 雨露均沾","noteIcon":"3","created":"2025-05-08T13:23:53.000+08:00","updated":"2025-05-30T06:14:09.753+08:00"}
 ---
 
  #📝數位工具交流beta  #self_learing 
@@ -26,11 +26,11 @@
 >  | Movie                              | Director                                         | Pub. Year | Topics                                                |
 > | ---------------------------------- | ------------------------------------------------ | --------- | ----------------------------------------------------- |
 > | [[Movies/致蕾絲莉\|致蕾絲莉]]           | <ul><li>#麥可莫里斯Michael_Morris</li></ul>           | 2022      | <ul><li>#劇情長片</li></ul>                               |
-> | [[Movies/我的鯨魚老爸\|我的鯨魚老爸]]       | <ul><li>#戴倫·艾洛諾夫斯基Darren_Aronofsky</li></ul>     | 2022      | <ul><li>#劇情長片</li></ul>                               |
 > | [[Movies/薩滿\|薩滿]]               | <ul><li>#班莊·比辛達拿剛Banjong_Pisanthanakun</li></ul> | 2021      | <ul><li>#韓國電影</li><li>#民俗恐怖電影</li><li>#偽紀錄片</li></ul> |
-> | [[Movies/富都青年\|富都青年]]           | <ul><li>#王禮霖</li></ul>                           | 2024      | \-                                                    |
 > | [[Movies/我只是個計程車司機\|我只是個計程車司機]] | <ul><li>#張薰Jang_Hoon</li></ul>                   | 2017      | <ul><li>#韓國電影</li><li>#轉型正義</li></ul>                 |
+> | [[Movies/我的鯨魚老爸\|我的鯨魚老爸]]       | <ul><li>#戴倫·艾洛諾夫斯基Darren_Aronofsky</li></ul>     | 2022      | <ul><li>#劇情長片</li></ul>                               |
 > | [[Movies/情書\|情書]]               | <ul><li>#岩井俊二Shunji_Iwai</li></ul>               | 1995      | <ul><li>#愛情電影</li><li>#日本電影</li><li>#中山美穗</li></ul>   |
+> | [[Movies/富都青年\|富都青年]]           | <ul><li>#王禮霖</li></ul>                           | 2024      | \-                                                    |
 > 
 { .block-language-dataview}
 

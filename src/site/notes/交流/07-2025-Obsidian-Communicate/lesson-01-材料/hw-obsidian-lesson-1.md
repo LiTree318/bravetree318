@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/lesson-01-材料/hw-obsidian-lesson-1/","title":"第一堂課作業","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-08T17:35:33.543+08:00","updated":"2025-06-08T18:05:56.700+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/lesson-01-材料/hw-obsidian-lesson-1/","title":"第一堂課作業","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:33.000+08:00","updated":"2025-06-08T18:05:56.000+08:00"}
 ---
 
 ```
