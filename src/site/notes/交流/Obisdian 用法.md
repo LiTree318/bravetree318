@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/Obisdian 用法/","title":"Obisdian 用法","noteIcon":"3","created":"2025-05-10T22:09:53.238+08:00","updated":"2025-05-10T22:28:15.730+08:00"}
+{"dg-publish":true,"permalink":"/交流/Obisdian 用法/","title":"Obisdian 用法","noteIcon":"3","updated":"2025-05-10T22:28:15.730+08:00"}
 ---
 
 

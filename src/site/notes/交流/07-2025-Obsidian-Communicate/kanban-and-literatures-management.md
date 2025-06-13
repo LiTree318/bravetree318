@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management/","title":"Kanban管理文獻整理進度","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-02T02:35:22.433+08:00","updated":"2025-06-08T17:04:40.000+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management/","title":"Kanban管理文獻整理進度","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","updated":"2025-06-08T17:04:40.000+08:00"}
 ---
 
 
