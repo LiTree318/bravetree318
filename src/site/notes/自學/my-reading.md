@@ -13,8 +13,8 @@
 > ✍️ 點選書名可以查看筆記
 >  | Book                                                          | Author  | yr/d | Cat. |
 > | ------------------------------------------------------------- | ------- | ---- | ---- |
-> | [[Books/Laissez-Moi Commentaire\|Laissez-Moi Commentaire]] | 瑪賽兒．梭維若 | 2015 | 散文   |
 > | [[Books/人魚紀\|人魚紀]]                                         | 李維菁     | 2019 | 文學   |
+> | [[Books/Laissez-Moi Commentaire\|Laissez-Moi Commentaire]] | 瑪賽兒．梭維若 | 2015 | 散文   |
 > 
 { .block-language-dataview}
 
@@ -29,8 +29,8 @@
 > | [[Movies/我的鯨魚老爸\|我的鯨魚老爸]]       | <ul><li>#戴倫·艾洛諾夫斯基Darren_Aronofsky</li></ul>     | 2022      | <ul><li>#劇情長片</li></ul>                               |
 > | [[Movies/我只是個計程車司機\|我只是個計程車司機]] | <ul><li>#張薰Jang_Hoon</li></ul>                   | 2017      | <ul><li>#韓國電影</li><li>#轉型正義</li></ul>                 |
 > | [[Movies/薩滿\|薩滿]]               | <ul><li>#班莊·比辛達拿剛Banjong_Pisanthanakun</li></ul> | 2021      | <ul><li>#韓國電影</li><li>#民俗恐怖電影</li><li>#偽紀錄片</li></ul> |
-> | [[Movies/富都青年\|富都青年]]           | <ul><li>#王禮霖</li></ul>                           | 2024      | \-                                                    |
 > | [[Movies/情書\|情書]]               | <ul><li>#岩井俊二Shunji_Iwai</li></ul>               | 1995      | <ul><li>#愛情電影</li><li>#日本電影</li><li>#中山美穗</li></ul>   |
+> | [[Movies/富都青年\|富都青年]]           | <ul><li>#王禮霖</li></ul>                           | 2024      | \-                                                    |
 > 
 { .block-language-dataview}
 
