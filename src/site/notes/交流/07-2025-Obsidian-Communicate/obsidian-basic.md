@@ -101,9 +101,9 @@
 
 > [!example] 進度
 > - 複製我設定好的文件資料
->  	- 原始資料：[[hw-obsidian-lesson-2-01\|此處內容]] `貼上原始報導（從花蓮縣志找）`
->  	- 編輯資料：[[hw-obsidian-lesson-2-02\|此處內容]] `貼上轉引用的資料`
->  	- 撰寫文章：[[hw-obsidian-lesson-2-03\|此處內容]] `貼上撰寫好的文字`
+>  	- 原始資料：[[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-01\|此處內容]] `貼上原始報導（從花蓮縣志找）`
+>  	- 編輯資料：[[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-02\|此處內容]] `貼上轉引用的資料`
+>  	- 撰寫文章：[[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-03\|此處內容]] `貼上撰寫好的文字`
 > - 設定每一份筆記的屬性與標籤
 > 	- 設定**屬性**：==資料類型== 區分成 `原始資料`、`筆記與摘要`、`文章草稿`
 > 	- 設定**標籤**：依照資料主題設定標籤
