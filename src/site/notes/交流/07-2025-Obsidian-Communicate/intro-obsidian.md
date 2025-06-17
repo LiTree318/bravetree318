@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","updated":"2025-06-09T14:12:40.000+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","updated":"2025-06-17T22:13:39.912+08:00"}
 ---
 
 
 > [!NOTE] 簡報
 > [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/intro-obsidian-slides\|intro-obsidian-slides]]
+
+
+![投影片3-06-01-25_08-32-52-810.png](/img/user/%E4%BA%A4%E6%B5%81/07-2025-Obsidian-Communicate/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%873-06-01-25_08-32-52-810.png)
+
+---
 
 # 概念說明
 

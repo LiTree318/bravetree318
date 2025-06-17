@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/obsidian-basic/","title":"2025-06-20 Obsidian 基礎","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","updated":"2025-06-17T23:16:52.593+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/obsidian-basic-李樹’s MacBook Air/","title":"2025-06-20 Obsidian 基礎","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","updated":"2025-06-17T22:48:33.550+08:00"}
 ---
 
 
@@ -41,30 +41,27 @@
 ## Obsidian 常用指令
 
 
-
-
 > [!example] 進度
 > - [ ] 打開指令介面 `CMD` + `P` ／左邊圖式
-> - [ ] `Templates` ／插入模板
-> 	  - [ ] 插入模板／插入模板日期／插入模板時間
-> - [ ] `Daily notes` ／每日筆記
-> - [ ] `Add internal link` ／ 新增內部連結
-> - [ ] `Add file property` ／ 新增筆記屬性
+> - [ ] `Templates` ／
+> - [ ] `Daily notes` ／
+> - [ ] `Add internal link` ／
+> - [ ] `Add file property` ／
 > 
 > ---
-> ### Templates（模板）
-> - 如何設定範模板→設定一個基礎筆記的範本
+> ### Templates 設定範本
+> - 如何設定範本→設定一個基礎筆記的範本
 > 
-> ### Daily Notes（每日筆記）
+> ### Daily Notes 設定每日筆記
 > - 如何將每日筆記依照年月整理。
 > 
-> ### Add Internal Link（新增內部連結）
+> ### Add Internal Link 設定反向連結
 > - 功能：將兩份筆記串連起來
 > 
-> ### Add file Property（新增筆記屬性）
+> ### Add file Property 設定筆記屬性
 > - 認識 YAML 與設定筆記屬性
  
-## 關聯圖瀏覽
+## 建立關聯圖
 
 > [!example] 進度
 > - [ ] 反向筆記檢視
@@ -74,39 +71,13 @@
 >       
 > ---
 > ### 反向筆記檢視
-> - 選擇筆記，透過插入反向連結來相互關連。
-> - 在筆記一中關連筆記二 
-> - 在筆記二中關連筆記三
-> - 在筆記三中關連筆記一
-> 
-> ### Graph View 關聯圖檢視
-> - 筆記一輸入標籤： #個人筆記 
-> - 筆記二輸入標籤： #自學 
-> - 筆記三輸入標籤： #讀書筆記
-> - 在關聯圖檢視中設定不同標籤→指定為不同顏色
-> 
-> ### 透過標籤或特定屬性檢視文件和資料
-> - 建立屬性：**進程**
-> - 筆記一屬性輸入==進程==：未完成
-> - 筆記二屬性輸入==進程==：進行中
-> - 筆記三屬性輸入==進程==：已完成
-> - 透過標籤檢索
-> - 透過屬性檢索
-> 
-> ### 更直觀的檢視方式
-> - 安裝套件 [Dataview](obsidian://show-plugin?id=dataview)
-> - 複製[[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2\|此處內容]]  `此處內容設定 list 和 table的codes`
+> Graph View 關聯圖檢視
+> - 
+
 
 ## 設定標籤分類筆記
 
 > [!example] 進度
-> - 複製我設定好的文件資料
->  	- 原始資料：[[hw-obsidian-lesson-2-01\|此處內容]] `貼上原始報導（從花蓮縣志找）`
->  	- 編輯資料：[[hw-obsidian-lesson-2-02\|此處內容]] `貼上轉引用的資料`
->  	- 撰寫文章：[[hw-obsidian-lesson-2-03\|此處內容]] `貼上撰寫好的文字`
-> - 設定每一份筆記的屬性與標籤
-> 	- 設定**屬性**：==資料類型== 區分成 `原始資料`、`筆記與摘要`、`文章草稿`
-> 	- 設定**標籤**：依照資料主題設定標籤
 
 
 
@@ -122,6 +93,5 @@
 > [!NOTE] 課後練習
 > - [ ] 哪些你想要的功能可以從 Obsidian指令中找到？
 > - [ ] 如何設定Obsidian 指令的「快捷鍵」？
-> - [ ] 如何批量設定標籤或者屬性？
 > - [ ] 除了標籤之外，還有哪些方式可以分類筆記？
 

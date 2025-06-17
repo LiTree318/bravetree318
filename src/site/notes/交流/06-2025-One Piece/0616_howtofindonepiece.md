@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0616_howtofindonepiece/","title":"2025-06-16 線上資料工作坊","tags":["🎯學習歷程檔案","📝數位工具交流beta"],"noteIcon":"3","updated":"2025-06-16T18:38:35.514+08:00"}
+{"dg-publish":true,"permalink":"/交流/06-2025-One Piece/0616_howtofindonepiece/","title":"2025-06-16 線上資料工作坊","tags":["🎯學習歷程檔案","📝數位工具交流beta"],"noteIcon":"3","updated":"2025-06-16T19:06:38.784+08:00"}
 ---
 
 <div style="text-align: right">
@@ -68,3 +68,6 @@ Create Time: 2025-06-16
 
 
 
+---
+
+[[綜合討論\|綜合討論]]
