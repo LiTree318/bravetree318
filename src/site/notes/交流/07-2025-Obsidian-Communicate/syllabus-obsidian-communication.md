@@ -21,6 +21,10 @@
 > - [[交流/07-2025-Obsidian-Communicate/obsidian-basic\|2025-06-20 Obsidian 基礎]]／ #第二堂課
 > - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]／ #第二堂課Slides
 > - [[交流/07-2025-Obsidian-Communicate/obsidian-basic-李樹’s MacBook Air\|2025-06-20 Obsidian 基礎]]／ #第二堂課
+> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2\|第二堂課作業-01]]／ #第二堂課作業
+> - [[hw-obsidian-lesson-2-01\|第二堂課作業-02]]／ #第二堂課作業
+> - [[hw-obsidian-lesson-2-02\|第二堂課作業-03]]／ #第二堂課作業
+> - [[hw-obsidian-lesson-2-03\|第二堂課作業-04]]／ #第二堂課作業
 > 
 { .block-language-dataview}
 
