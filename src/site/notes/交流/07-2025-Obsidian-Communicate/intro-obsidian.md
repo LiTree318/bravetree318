@@ -58,7 +58,7 @@
 > - Editing Toolbar：文字編輯工具，可以協助word使用者熟悉obsidian和Markdown。
 > - Kanban：看板功能，協助分類筆記。
 > 
-> 其他我常用的套件可以參考 👉 [[數位工具/我所使用的 Obsidian 外掛\|我所使用的 Obsidian 外掛]]
+> 其他我常用的套件可以參考 👉 [[articles/數位工具/我所使用的 Obsidian 外掛\|我所使用的 Obsidian 外掛]]
 > 
 > ---
 > ==結論==：套件功能讓 obsidian 可以實現更多文書、專案、辦公功能；摸索並了解套件，是使用obsidian的第一課。
