@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/數位工具/📚 【模版】閱讀資料庫-temp/","title":"📚 【模版】閱讀資料庫-temp","noteIcon":"3","created":"2025-05-08T13:23:53.000+08:00","updated":"2025-06-18T14:19:13.517+08:00"}
+{"dg-publish":true,"permalink":"/數位工具/📚 【模版】閱讀資料庫-temp/","title":"📚 【模版】閱讀資料庫-temp","noteIcon":"3","created":"2025-05-08T13:23:53.000+08:00","updated":"2025-06-18T15:37:32.634+08:00"}
 ---
 
 
@@ -36,7 +36,6 @@
 > title: "<% book %> - Quotations List" 
 >  book: "<% book %>" 
 > c.reate-date: "<% tp.date.now('YYYY-MM-DD HH:mm') %>"
-> location: "💻mac-air"
 > ---
 > 
 > %% 
