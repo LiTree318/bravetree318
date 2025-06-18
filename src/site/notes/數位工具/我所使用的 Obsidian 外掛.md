@@ -65,7 +65,7 @@
 > [!info]- 說明／實用性： ⭐⭐
 > 可以擷取網頁，存到Vault裡面；方便隨手看到網路上有好文章、網誌可以存下來做筆記。
 > - [ ] ==最好搭配Chrome 瀏覽器==
-> - [ ] 這與另外一個同樣可以 [[Clippings/Obsidian Web Clipper#Browser extension (2024)\| Clipper ]] 網頁的工具不一樣。
+> - [ ] 這與另外一個同樣可以 [[ignore/Clippings/Obsidian Web Clipper#Browser extension (2024)\| Clipper ]] 網頁的工具不一樣。
 
 
 #### [Footnote Shortcut](obsidian://show-plugin?id=obsidian-footnotes)
@@ -136,7 +136,7 @@
 
 #### [Digital Garden](obsidian://show-plugin?id=digitalgarden)
 > [!important]- 說明／實用性： ⭐⭐⭐
-> - [ ] 發佈工具，可以將筆記發佈成網站；細節請看[[自學/架站/🔖 如何用 Obsidian 架設網站\|這份筆記]]。
+> - [ ] 發佈工具，可以將筆記發佈成網站；細節請看[[私人筆記/架站/🔖 如何用 Obsidian 架設網站\|這份筆記]]。
 
 #### [HackMD Sync](obsidian://show-plugin?id=hackmd-sync)
 > [!important]- 說明／實用性： ⭐⭐
