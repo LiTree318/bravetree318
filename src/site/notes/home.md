@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-18T13:44:00.819+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-18T13:53:31.833+08:00"}
 ---
 
 
@@ -23,9 +23,6 @@ Obsidian 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇�
 
 我對於資料庫的想法可以參考 [🧪用途解說](https://dataframe-example.netlify.app/🧪%20用途解說/)
 
-
-
-[[測試123\|測試123]]
 
 ---
 
