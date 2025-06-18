@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/數位工具/我所使用的 Obsidian 外掛/","title":"我使用的 Obsidian 外掛","tags":["🎯學習歷程檔案","HackMD","Notion","📝數位工具交流beta","DigitalGarden","obsidian","self_learing","website_design"],"noteIcon":"3","updated":"2025-06-18T12:32:43.692+08:00"}
+{"dg-publish":true,"permalink":"/數位工具/我所使用的 Obsidian 外掛/","title":"我使用的 Obsidian 外掛","tags":["🎯學習歷程檔案","HackMD","Notion","📝數位工具交流beta","DigitalGarden","obsidian","self_learing","website_design"],"noteIcon":"3","created":"2025-05-06T17:39:58.000+08:00","updated":"2025-06-18T12:32:43.692+08:00"}
 ---
 
 ## 筆記工具

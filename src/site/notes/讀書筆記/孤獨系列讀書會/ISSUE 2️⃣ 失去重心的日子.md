@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/讀書筆記/孤獨系列讀書會/ISSUE 2️⃣ 失去重心的日子/","title":"ISSUE 2️⃣ 失去重心的日子","tags":["Reading_Notes","橋本書屋","獨，書會"],"noteIcon":"3","updated":"2025-05-06T01:18:20.151+08:00"}
+{"dg-publish":true,"permalink":"/讀書筆記/孤獨系列讀書會/ISSUE 2️⃣ 失去重心的日子/","title":"ISSUE 2️⃣ 失去重心的日子","tags":["Reading_Notes","橋本書屋","獨，書會"],"noteIcon":"3","created":"2024-04-27T02:03:45.000+08:00","updated":"2025-05-06T01:18:20.151+08:00"}
 ---
 
 

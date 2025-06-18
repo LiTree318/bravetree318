@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Books/Laissez-Moi Commentaire/","title":"留下我一個人：愛的剖析","tags":["#Books"],"noteIcon":"3","updated":"2025-05-30T18:48:45.160+08:00"}
+{"dg-publish":true,"permalink":"/Books/Laissez-Moi Commentaire/","title":"留下我一個人：愛的剖析","tags":["#Books"],"noteIcon":"3","created":"2025-05-11T00:50:55.000+08:00","updated":"2025-05-30T18:48:45.160+08:00"}
 ---
 
 
