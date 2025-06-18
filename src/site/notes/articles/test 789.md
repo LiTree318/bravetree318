@@ -7,8 +7,8 @@
 
 
 
-- [[測試123\|測試123]]
-- [[test 456\|test 456]]
+- [[LIT/test 456\|test 456]]
+- [[LIT/測試123\|測試123]]
 
 { .block-language-dataview}
 
