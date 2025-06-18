@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/數位工具/Obsidian-plugins/","title":"Obsidian-plugins","tags":["📝數位工具交流beta","obsidian"],"noteIcon":"3","created":"2025-05-06T17:39:58.000+08:00","updated":"2025-06-18T14:23:05.152+08:00"}
+{"dg-publish":true,"permalink":"/數位工具/Obsidian-plugins/","title":"Obsidian-plugins","tags":["📝數位工具交流beta","obsidian"],"noteIcon":"3","created":"2025-05-06T17:39:58.000+08:00","updated":"2025-06-18T14:23:10.158+08:00"}
 ---
 
 

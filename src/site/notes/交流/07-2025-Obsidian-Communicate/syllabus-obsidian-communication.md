@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-18T12:39:45.391+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-18T14:25:50.668+08:00"}
 ---
 
 
