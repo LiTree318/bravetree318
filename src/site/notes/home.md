@@ -17,7 +17,7 @@
 
 歡迎大家來交流和分享
 
-Obsidian 簡易模版可以參考 [[articles/數位工具/⬇️ 簡易模版下載\|⬇️ 簡易模版下載]]
+Obsidian 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇️ 簡易模版下載]]
 
 我用 Obsidian 的想法和概念可以參考這個網站 [🕸️ 用來做demo的網站](https://dataframe-example.netlify.app)
 
