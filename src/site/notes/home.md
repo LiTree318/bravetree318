@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-18T13:34:15.864+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-18T13:36:58.729+08:00"}
 ---
 
 
@@ -26,13 +26,14 @@ Obsidian 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇�
 > ![Data Frame.png](/img/user/img/Data%20Frame.png)
 
 
-
+[[課程架構｜Obsidian–筆記軟體交流\|課程架構｜Obsidian–筆記軟體交流]]
 
 ---
 
 
 > [!tip] ✍️ 正在進行中
->  - [[交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]] – 2025-06-01 08:39
+>  - [[課程架構｜Obsidian–筆記軟體交流\|課程架構｜Obsidian–筆記軟體交流]] – 2025-06-18 13:37
+> - [[交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]] – 2025-06-01 08:39
 > 
 { .block-language-dataview}
 
