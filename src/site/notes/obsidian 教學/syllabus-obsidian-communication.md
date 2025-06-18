@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian 教學/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-18T14:32:32.435+08:00"}
+{"dg-publish":true,"permalink":"/obsidian 教學/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-18T15:00:23.532+08:00"}
 ---
 
 
@@ -13,17 +13,17 @@
 
 > [!example]+ 筆記清單
 > 
->  - [[obsidian 教學/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]]／ #\-
-> - [[obsidian 教學/kanban-and-literatures-management\|Kanban管理文獻整理進度]]／ #\-
-> - [[obsidian 教學/intro-obsidian\|2025-06-13 Obsidian 入門]]／ #\-
-> - [[obsidian 教學/lesson-01-材料/hw-obsidian-lesson-1\|第一堂課作業]]／ #\-
-> - [[obsidian 教學/lesson-01-材料/intro-obsidian-slides\|2025-06-13 Obsidian 入門｜Slides]]／ #\-
-> - [[obsidian 教學/obsidian-basic\|2025-06-20 Obsidian 基礎]]／ #\-
-> - [[obsidian 教學/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]／ #\-
-> - [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2\|第二堂課作業-01]]／ #\-
-> - [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-01\|第二堂課作業-02]]／ #\-
-> - [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-02\|第二堂課作業-03]]／ #\-
-> - [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-03\|第二堂課作業-04]]／ #\-
+>  - [[obsidian 教學/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]]
+> - [[obsidian 教學/kanban-and-literatures-management\|Kanban管理文獻整理進度]]
+> - [[obsidian 教學/intro-obsidian\|2025-06-13 Obsidian 入門]]
+> - [[obsidian 教學/lesson-01-材料/hw-obsidian-lesson-1\|第一堂課作業]]
+> - [[obsidian 教學/lesson-01-材料/intro-obsidian-slides\|2025-06-13 Obsidian 入門｜Slides]]
+> - [[obsidian 教學/obsidian-basic\|2025-06-20 Obsidian 基礎]]
+> - [[obsidian 教學/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]
+> - [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2\|第二堂課作業-01]]
+> - [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-01\|第二堂課作業-02]]
+> - [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-02\|第二堂課作業-03]]
+> - [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-03\|第二堂課作業-04]]
 > 
 { .block-language-dataview}
 
