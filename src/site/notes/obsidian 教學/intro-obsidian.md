@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian 教學/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:31.000+08:00","updated":"2025-06-18T14:32:18.196+08:00"}
+{"dg-publish":true,"permalink":"/obsidian 教學/intro-obsidian/","title":"2025-06-13 Obsidian 入門","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:31.000+08:00","updated":"2025-06-18T15:09:41.980+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian 教學/kanban-and-literatures-management/","title":"Kanban管理文獻整理進度","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-02T02:35:22.433+08:00","updated":"2025-06-18T14:32:11.206+08:00"}
+{"dg-publish":true,"permalink":"/obsidian 教學/kanban-and-literatures-management/","title":"Kanban管理文獻整理進度","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-02T02:35:22.433+08:00","updated":"2025-06-18T15:09:26.768+08:00"}
 ---
 
 
