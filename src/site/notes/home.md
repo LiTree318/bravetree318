@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-18T15:46:22.380+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-18T19:10:10.326+08:00"}
 ---
 
 
@@ -87,3 +87,4 @@
 > 5. 特別感謝[邱佳昇支援](https://www.facebook.com/share/p/16YThn4q9h/)，讓我可以按圖索驥找出自己的bugs（2025年5月5日）。 🥳
 > 6. 最後，本人完全沒有任何網頁架設和程式設計的底子，若有任何錯誤（或者bug）歡迎來信指正，我們一起研究、一起學習！以下是我的聯絡信箱：
 >    📪 `tree10zi23@gmail.com`
+> 7. 網頁設定的進階功能： https://dg-docs.ole.dev/advanced/note-specific-settings/
