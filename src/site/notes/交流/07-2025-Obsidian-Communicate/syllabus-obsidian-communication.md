@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-18T14:25:50.668+08:00"}
+{"dg-publish":true,"permalink":"/交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-18T14:32:32.435+08:00"}
 ---
 
 
@@ -13,17 +13,17 @@
 
 > [!example]+ 筆記清單
 > 
->  - [[交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]]／ #課程大綱
-> - [[交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management\|Kanban管理文獻整理進度]]／ #延伸討論
-> - [[交流/07-2025-Obsidian-Communicate/intro-obsidian\|2025-06-13 Obsidian 入門]]／ #第一堂課
-> - [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/hw-obsidian-lesson-1\|第一堂課作業]]／ #第一堂課作業
-> - [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/intro-obsidian-slides\|2025-06-13 Obsidian 入門｜Slides]]／ #第一堂課Slides
-> - [[交流/07-2025-Obsidian-Communicate/obsidian-basic\|2025-06-20 Obsidian 基礎]]／ #第二堂課
-> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]／ #第二堂課Slides
-> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2\|第二堂課作業-01]]／ #第二堂課作業
-> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-01\|第二堂課作業-02]]／ #第二堂課作業
-> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-02\|第二堂課作業-03]]／ #第二堂課作業
-> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-03\|第二堂課作業-04]]／ #第二堂課作業
+>  - [[交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/kanban-and-literatures-management\|Kanban管理文獻整理進度]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/intro-obsidian\|2025-06-13 Obsidian 入門]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/hw-obsidian-lesson-1\|第一堂課作業]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/lesson-01-材料/intro-obsidian-slides\|2025-06-13 Obsidian 入門｜Slides]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/obsidian-basic\|2025-06-20 Obsidian 基礎]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2\|第二堂課作業-01]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-01\|第二堂課作業-02]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-02\|第二堂課作業-03]]／ #\-
+> - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-03\|第二堂課作業-04]]／ #\-
 > 
 { .block-language-dataview}
 
