@@ -28,7 +28,7 @@ Obsidian 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇�
 
 
 > [!tip] ✍️ 正在進行中
->  - [[交流/07-2025-Obsidian-Communicate/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]] – 2025-06-01 08:39
+>  - [[交流/07-2025-obsidian-communicate/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]] – 2025-06-01 08:39
 > 
 { .block-language-dataview}
 
