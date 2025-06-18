@@ -24,7 +24,6 @@
 > - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-01\|第二堂課作業-02]]／ #第二堂課作業
 > - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-02\|第二堂課作業-03]]／ #第二堂課作業
 > - [[交流/07-2025-Obsidian-Communicate/lesson-02-材料/hw-obsidian-lesson-2-03\|第二堂課作業-04]]／ #第二堂課作業
-> - [[課程架構｜Obsidian–筆記軟體交流\|課程架構｜Obsidian–筆記軟體交流]]／ #課程大綱
 > 
 { .block-language-dataview}
 
