@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-18T13:36:58.729+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-18T13:39:05.167+08:00"}
 ---
 
 
@@ -21,9 +21,8 @@ Obsidian 簡易模版可以參考 [[數位工具/⬇️ 簡易模版下載\|⬇�
 
 我用 Obsidian 的想法和概念可以參考這個網站 [🕸️ 用來做demo的網站](https://dataframe-example.netlify.app)
 
-> [!NOTE]- 我對於資料庫的想法可以參考 [🧪用途解說](https://dataframe-example.netlify.app/🧪%20用途解說/)
-> 理想上，資料庫建置會包含 input 到 output，同時透過networks 的方式來解析哪些inputs沒有被使用到，而透過outputs又產生哪些新的議題或者備註（如圖）
-> ![Data Frame.png](/img/user/img/Data%20Frame.png)
+我對於資料庫的想法可以參考 [🧪用途解說](https://dataframe-example.netlify.app/🧪%20用途解說/)
+
 
 
 [[課程架構｜Obsidian–筆記軟體交流\|課程架構｜Obsidian–筆記軟體交流]]
