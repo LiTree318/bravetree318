@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2025-06-20-obsidian-02","permalink":"/2025-06-20-obsidian-02/","title":"2025-06-20 Obsidian 基礎","metatags":{"og:title":"2025-06-20 Obsidian 基礎","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png","description":"2025-06-20 Obsidian 基礎：建立筆記關連／I-P-O 筆記法／用標籤管理資料庫／常用指令／關聯瀏覽／分類筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:35.000+08:00","updated":"2025-06-20T12:38:58.719+08:00"}
+{"dg-publish":true,"dg-permalink":"2025-06-20-obsidian-02","permalink":"/2025-06-20-obsidian-02/","title":"2025-06-20 Obsidian 基礎","metatags":{"og:title":"2025-06-20 Obsidian 基礎","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png","description":"2025-06-20 Obsidian 基礎：建立筆記關連／I-P-O 筆記法／用標籤管理資料庫／常用指令／關聯瀏覽／分類筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:35.000+08:00","updated":"2025-06-20T12:48:41.755+08:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 
 ---
-# 概念說明
+# PART 1：概念說明
 
 > [!summary]+ 摘要
 > - 概念說明
@@ -76,8 +76,17 @@
 這個過程不僅是考驗我們是否足夠清楚地知道我們為什麼要作筆記，同時也在反覆校對，我們在建構自己的知識網絡時有哪一些不足或者冗餘。最終，我們可以逐步明確每一個我們寫下的筆記，與此同時這一些筆記就好像房屋的基石和磚瓦一樣，一塊一塊建造屬於你自己的圖書館。
 <br>
 
-## I-P-O 筆記方法
+## I-P-O 筆記方法：找出筆記「定位」
 
+我想分享目前我用來建構知識網絡的心法：**I-P-O筆記法**。顧名思義，這套筆記方法的核心概念是拆解接收新知到產出文章的不同階段（也就是從 ==**I**==nput 到 ==**O**==utput，同時，再拆分input 和 output 中間的第三個階段：==**P**==rocedure，依照順序就形成：**==I-P-O==**，如下圖所示）。
+
+![Data Frame.png](/img/user/ignore/img/Data%20Frame.png)
+
+
+
+如上圖，
+> [!NOTE] 
+> Contents
 
 > [!summary] 摘要
 > 1. 筆記的進度：這份筆記的「位置」在哪裡？
@@ -93,7 +102,7 @@
 > 4. 管理標籤的架構／或者說 mindset
 
 
-# 機上操作
+# PART 2：機上操作
 ## Obsidian 常用指令
 
 
@@ -166,7 +175,7 @@
 
 
 
-# 問題與討論
+# PART 3：問題與討論
 
 > [!EXAMPLE] 研究問題
 > - [ ] 筆記之間的關聯性如何建立？如何強化工作流程？
