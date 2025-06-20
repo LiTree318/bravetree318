@@ -21,10 +21,10 @@
 > - 01-02｜[[obsidian 教學/lesson-01-材料/hw-obsidian-lesson-1\|第一堂課作業]]
 > - 02｜[[obsidian 教學/obsidian-basic\|2025-06-20 Obsidian 基礎]]
 > - 02-01｜[[obsidian 教學/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]
-> - 02-02｜[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2\|第二堂課作業-01]]
-> - 02-03｜[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-01\|第二堂課作業-02]]
-> - 02-04｜[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-02\|第二堂課作業-03]]
-> - 02-05｜[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-03\|第二堂課作業-04]]
+> - 02-02｜[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2\|HW-2025-06-20 （作業01） 用套件檢視資料]]
+> - 02-03｜[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-01\|HW-2025-06-20 （作業02） 資料來源]]
+> - 02-04｜[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-02\|HW-2025-06-20 （作業03） 引用與摘要]]
+> - 02-05｜[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-03\|HW-2025-06-20 （作業04）短文]]
 > 
 { .block-language-dataview}
 
