@@ -30,6 +30,8 @@
 
 | Title                                                                                                                                             | Tag                                                            | Last Modify |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------- |
+| [[obsidian 教學/intro-obsidian\|2025-06-13 Obsidian 入門]]                                                                                         | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-20  |
+| [[obsidian 教學/obsidian-basic\|2025-06-20 Obsidian 基礎]]                                                                                         | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-20  |
 | [[obsidian 教學/示範材料/References/觀光發展小組 達成六項共識\|觀光發展小組 達成六項共識]]                                                                                   | #花蓮縣志                                                          | 2025-06-20  |
 | [[obsidian 教學/示範材料/References/豐年展藝 阿美豐年祭 日期確定\|豐年展藝 阿美豐年祭 日期確定]]                                                                               | #花蓮縣志                                                          | 2025-06-20  |
 | [[obsidian 教學/示範材料/References/聯合豐年祭？原住民意願不高\|聯合豐年祭？原住民意願不高]]                                                                                   | #花蓮縣志                                                          | 2025-06-20  |
@@ -42,12 +44,6 @@
 | [[obsidian 教學/示範材料/Notes/原住民族文獻/豐年祭活動化、觀光化的前身與背景「山地歌舞」和軍隊之間的關係\|豐年祭活動化、觀光化的前身與背景「山地歌舞」和軍隊之間的關係]]                                               | #花蓮縣志                                                          | 2025-06-20  |
 | [[obsidian 教學/示範材料/Notes/原住民族文獻/原住民觀光產業發展，促使族群文化以「異族風光」出現在媒體上\|原住民觀光產業發展，促使族群文化以「異族風光」出現在媒體上]]                                                 | #豐年節 #Reading_Notes                                            | 2025-06-20  |
 | [[obsidian 教學/示範材料/Notes/原住民族文獻/山地歌舞的三個面向\|山地歌舞的三個面向]]                                                                                         | #豐年節 #Reading_Notes                                            | 2025-06-20  |
-| [[obsidian 教學/obsidian-basic\|2025-06-20 Obsidian 基礎]]                                                                                         | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-20  |
-| [[obsidian 教學/intro-obsidian\|2025-06-13 Obsidian 入門]]                                                                                         | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-20  |
-| [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2\|HW-2025-06-20 （作業01） 用套件檢視資料]]                                                                | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-20  |
-| [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-03\|HW-2025-06-20 （作業04）短文]]                                                                   | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-20  |
-| [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-02\|HW-2025-06-20 （作業03） 引用與摘要]]                                                               | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-20  |
-| [[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-01\|HW-2025-06-20 （作業02） 資料來源]]                                                                | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-20  |
 | [[watch-and-read\|🌱 所學與所見]]                                                                                                                   | #📝數位工具交流beta #self_learing                                    | 2025-06-20  |
 | [[home\|🌲 HERE IS THE TREE'S HOLE]]                                                                                                           | #DigitalGarden #obsidian #self_learing #website_design         | 2025-06-18  |
 | [[library/留下我一個人：愛的剖析\|留下我一個人：愛的剖析]]                                                                                                           | #Books                                                         | 2025-06-18  |
@@ -60,7 +56,6 @@
 | [[obsidian 教學/syllabus-obsidian-communication\|課程架構｜Obsidian–筆記軟體交流]]                                                                          | #🎯學習歷程檔案 #📝數位工具交流beta #self_learing #🪨自籌Obsidian工作坊 #📋我的專案 | 2025-06-18  |
 | [[obsidian 教學/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]                                                              | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-18  |
 | [[obsidian 教學/lesson-01-材料/intro-obsidian-slides\|2025-06-13 Obsidian 入門｜Slides]]                                                              | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-18  |
-| [[obsidian 教學/lesson-01-材料/hw-obsidian-lesson-1\|第一堂課作業]]                                                                                      | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-18  |
 | [[obsidian 教學/kanban-and-literatures-management\|Kanban管理文獻整理進度]]                                                                              | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-18  |
 | [[obsidian 教學/Obisdian 用法\|Obisdian 用法]]                                                                                                       | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                     | 2025-06-18  |
 | [[短文/「親愛的我，請你不要忘記」──讀《變成的人》\|「親愛的我，請你不要忘記」──讀《變成的人》]]                                                                                          | #變成的人 #Reading_Notes                                           | 2025-06-18  |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2025-06-20-obsidian-02","permalink":"/2025-06-20-obsidian-02/","title":"2025-06-20 Obsidian 基礎","metatags":{"og:title":"2025-06-20 Obsidian 基礎","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png","description":"2025-06-20 Obsidian 基礎：建立筆記關連／I-P-O 筆記法／用標籤管理資料庫／常用指令／關聯瀏覽／分類筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:35.000+08:00","updated":"2025-06-20T14:10:07.668+08:00"}
+{"dg-publish":true,"dg-permalink":"2025-06-20-obsidian-02","permalink":"/2025-06-20-obsidian-02/","title":"2025-06-20 Obsidian 基礎","metatags":{"og:title":"2025-06-20 Obsidian 基礎","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png","description":"2025-06-20 Obsidian 基礎：建立筆記關連／I-P-O 筆記法／用標籤管理資料庫／常用指令／關聯瀏覽／分類筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:35.000+08:00","updated":"2025-06-20T15:11:17.803+08:00"}
 ---
 
 
@@ -259,18 +259,22 @@
 
 ### 更直觀的檢視方式
 - 安裝套件 [Dataview](obsidian://show-plugin?id=dataview)
-- 複製[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2\|此處內容]]  `此處內容設定 list 和 table的codes`
+- ⬇️ 下載  [🗂️ 00 更直觀的檢視方式](https://1drv.ms/t/c/1698215ca2d0889b/EbtpP0r7eQVGqbleEruIepsBPyLXzlkxul_Gcib5j8ernw?e=HbwaC4)  
 
 ## 設定標籤分類筆記
 
 > [!example] 進度
-> - 複製我設定好的文件資料
->  	- 原始資料：[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-01\|此處內容]] `貼上原始報導（從花蓮縣志找）`
->  	- 編輯資料：[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-02\|此處內容]] `貼上轉引用的資料`
->  	- 撰寫文章：[[obsidian 教學/lesson-02-材料/hw-obsidian-lesson-2-03\|此處內容]] `貼上撰寫好的文字`
+> - ⬇️ 下載文件資料：[💾 筆記清單與草稿短文](https://1drv.ms/f/c/1698215ca2d0889b/Engn0wh9m7tKhTFPOwOk4ksBfcW_JmyLiNUNf6SZCT3pmQ?e=uqMQrs)
+>   
+> |檔案名稱|檔案內容|個別連結|
+> |:---|:----|:----:|
+> |01 原始資料清單|資料夾，裡面有草稿文章的所有引用資料。|[🗂️ 01](https://1drv.ms/f/c/1698215ca2d0889b/EqDdISIVa2FDsQaQe7eL964B0AURdodOD9JLlerLlBiOjw?e=E8NHvX)|
+> |02 引用清單|引用清單，條列所有引用的原始資料|[🗂️ 02](https://1drv.ms/t/c/1698215ca2d0889b/EReb9fbRZstKlizPbstTVlsBJ6SGKPuSyCI2e6QzGcqFbg?e=IChdqd)|
+> |03 一篇撰寫好的文章|練習用草稿|[🗂️ 03](https://1drv.ms/t/c/1698215ca2d0889b/EXvaUXydggVMgfJHI3ruPq0BdUyB8y74Tv81H6i9QXKgTA?e=spwFGd)|
 > - 設定每一份筆記的屬性與標籤
 > 	- 設定**屬性**：==資料類型== 區分成 `原始資料`、`筆記與摘要`、`文章草稿`
 > 	- 設定**標籤**：依照資料主題設定標籤
+
 
 
 

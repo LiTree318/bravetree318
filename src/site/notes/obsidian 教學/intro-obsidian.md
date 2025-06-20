@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2025-06-13-obsidian-01","permalink":"/2025-06-13-obsidian-01/","title":"2025-06-13 Obsidian 入門","metatags":{"og:title":"2025-06-13 Obsidian 入門","og:image":"https://github.com/LiTree318/bravetree318/blob/d6cf3da879eb49a7110fe8f1ddfae21f2216895a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%873-06-01-25_08-32-52-810.png","description":"2025-06-13 Obsidian 入門：為什麼選擇筆記軟體／認識 Markdown 語言／認識套件／設定儲存庫／安裝套件／完成第一份筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:31.000+08:00","updated":"2025-06-20T12:12:22.496+08:00"}
+{"dg-publish":true,"dg-permalink":"2025-06-13-obsidian-01","permalink":"/2025-06-13-obsidian-01/","title":"2025-06-13 Obsidian 入門","metatags":{"og:title":"2025-06-13 Obsidian 入門","og:image":"https://github.com/LiTree318/bravetree318/blob/d6cf3da879eb49a7110fe8f1ddfae21f2216895a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%873-06-01-25_08-32-52-810.png","description":"2025-06-13 Obsidian 入門：為什麼選擇筆記軟體／認識 Markdown 語言／認識套件／設定儲存庫／安裝套件／完成第一份筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:31.000+08:00","updated":"2025-06-20T15:15:45.968+08:00"}
 ---
 
 
@@ -129,7 +129,7 @@
 ## 完成第一份筆記
 
 > [!example] 進度
-> - 複製 [[obsidian 教學/lesson-01-材料/hw-obsidian-lesson-1\|這裡]] 的筆記
+> - 下載 🗂️  [2025-06-13 Obsidian 入門（練習）](https://1drv.ms/t/c/1698215ca2d0889b/EZby0VWUNWtMprkdPZZhrRUBBRVn5H6qAA66kOoU5GHwRQ?e=rnNfUW) 筆記
 > - 功能介紹：
 > 	1. 大標題： `# 加上文字`；不同數量的 `#` 區分層級；
 > 	2. 清單：`1. 加上文字` 自動製作有序列的清單； `- 文字`或者 `* 文字` 製作無序列清單。
