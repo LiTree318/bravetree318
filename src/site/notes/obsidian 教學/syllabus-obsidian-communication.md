@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian 教學/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-18T15:11:34.244+08:00"}
+{"dg-publish":true,"permalink":"/obsidian 教學/syllabus-obsidian-communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-20T16:08:55.691+08:00"}
 ---
 
 
@@ -20,6 +20,8 @@
 > - 01-01｜[[obsidian 教學/lesson-01-材料/intro-obsidian-slides\|2025-06-13 Obsidian 入門｜Slides]]
 > - 02｜[[obsidian 教學/obsidian-basic\|2025-06-20 Obsidian 基礎]]
 > - 02-01｜[[obsidian 教學/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]
+> - 03｜[[obsidian 教學/obsidian-database\|2025-06-27 建立 Obsidian 資料庫]]
+> - 03-01｜[[obsidian 教學/lesson-03-材料/obsidian-dataabase-slides\|2025-06-27 Obsidian 資料庫｜Slides]]
 > 
 { .block-language-dataview}
 
@@ -68,7 +70,7 @@
 
 
 
-### 2️⃣ 2025-06-20／Obsidian 基礎
+### 2️⃣  [[obsidian 教學/obsidian-basic\|2025-06-20／Obsidian 基礎]]
 
 ／／概念說明
 
@@ -90,7 +92,9 @@
 　　
 ![投影片4-06-01-25_08-32-52-831.png](/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png)
 
-### 3️⃣ 2025-06-27／Obsidian 資料庫
+### 3️⃣ [[obsidian 教學/obsidian-database\|2025-06-27／Obsidian 資料庫]]
+
+
 
 ／／概念說明
 
