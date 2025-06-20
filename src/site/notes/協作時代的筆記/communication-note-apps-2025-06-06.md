@@ -47,9 +47,9 @@
 > | 國家檔案資訊網<br> #文史資料 #🗃️資料庫          | [link](https://aa.archives.gov.tw/Home/Index)                      |                                |
 > | 政府公報資訊網<br> #文史資料 #🗃️資料庫          | [link](https://gaz.ncl.edu.tw/index.jsp)                           | 查詢中央部會和地方政府的公報                 |
 > | 機關檔案目錄查詢網<br> #文史資料 #🗃️資料庫        | [link](https://near.archives.gov.tw/home)                          |                                |
+> | 檔案資源整合查詢平台<br> #文史資料 #🗃️資料庫       | [link](https://across.archives.gov.tw/naahyint/search.jsp)         | 彙整各個部會、機關的檔案及資料（可以查詢，借閱需要另外處理） |
 > | 聯合報全文報紙資料庫<br> #新聞報導 #文史資料 #🗃️資料庫 | [link](https://udndata.com/ndapp/Index?cp=udn)                     | 查詢聯合報報導，需要授權帳號密碼               |
 > | 臺灣省議會史料總庫<br> #🗃️資料庫 #文史資料        | [link](https://drtpa.th.gov.tw)                                    |                                |
-> | 檔案資源整合查詢平台<br> #文史資料 #🗃️資料庫       | [link](https://across.archives.gov.tw/naahyint/search.jsp)         | 彙整各個部會、機關的檔案及資料（可以查詢，借閱需要另外處理） |
 > 
 { .block-language-dataview}
 
