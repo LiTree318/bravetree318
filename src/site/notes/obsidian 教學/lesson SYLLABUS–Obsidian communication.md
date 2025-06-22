@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian 教學/lesson SYLLABUS–Obsidian communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-22T13:20:43.208+08:00"}
+{"dg-publish":true,"permalink":"/obsidian 教學/lesson SYLLABUS–Obsidian communication/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:39:14.393+08:00","updated":"2025-06-22T13:25:56.414+08:00"}
 ---
 
 
 
-
-# 《Obsidian–筆記軟體交流》  
 
 > [!tip] Discord 空降區
 > 仰望皓月／LttM 🌕 往這邊走 👉 https://discord.gg/WMEAJdRe5y

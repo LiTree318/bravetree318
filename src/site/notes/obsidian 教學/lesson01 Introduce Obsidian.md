@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2025-06-13-obsidian-01","permalink":"/2025-06-13-obsidian-01/","title":"L1 2025-06-13 Obsidian 入門","metatags":{"og:title":"2025-06-13 Obsidian 入門","og:image":"https://github.com/LiTree318/bravetree318/blob/d6cf3da879eb49a7110fe8f1ddfae21f2216895a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%873-06-01-25_08-32-52-810.png","description":"2025-06-13 Obsidian 入門：為什麼選擇筆記軟體／認識 Markdown 語言／認識套件／設定儲存庫／安裝套件／完成第一份筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:31.000+08:00","updated":"2025-06-22T13:23:04.870+08:00"}
+{"dg-publish":true,"dg-permalink":"2025-06-13-obsidian-01","permalink":"/2025-06-13-obsidian-01/","title":"L1 2025-06-13 Obsidian 入門","metatags":{"og:title":"2025-06-13 Obsidian 入門","og:image":"https://github.com/LiTree318/bravetree318/blob/d6cf3da879eb49a7110fe8f1ddfae21f2216895a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%873-06-01-25_08-32-52-810.png","description":"2025-06-13 Obsidian 入門：為什麼選擇筆記軟體／認識 Markdown 語言／認識套件／設定儲存庫／安裝套件／完成第一份筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:31.000+08:00","updated":"2025-06-22T13:26:40.015+08:00"}
 ---
 
 
@@ -11,9 +11,9 @@
 
 ---
 
-# 概念說明
+## 概念說明
 
-## 為什麼選擇筆記軟體？
+### 為什麼選擇筆記軟體？
 
 > [!summary] 摘要
 > 1. 筆記軟體的優勢方便將大篇文章（文件）拆解成片段，有利於以「==原子習慣==」的方式累積內容（和作品、文章）
@@ -29,7 +29,7 @@
 > 
 
 
-## 認識 Markdown 語言
+### 認識 Markdown 語言
 > [!summary] 摘要
 > 1.  Markdown 是一種標記式語言，亦即透過一些標記符號達成不同的文字效果。
 > 2.  Markdown 語言的架構成為現在許多筆記軟體的內建的工具之一，例如notion便可以用md語言來實現如「粗體字」、「斜體字」、「清單」、「有序清單」、大小標題等等不同的功能。
@@ -44,7 +44,7 @@
 > 
 
 
-## 認識第三方社群套件
+### 認識第三方社群套件
 > [!summary] 摘要
 > Obsidian 內建許多核心套件：其中最常使用（也是Obsidian特色）的套件包含：
 > - 反向連結（Backlinks）
@@ -69,8 +69,8 @@
 > - [ ] 不同套件之間如何串連，形成1+1>2的效果？
 
 
-# 機上操作
-## 設定自己的儲存庫（Vault）
+## 機上操作
+### 設定自己的儲存庫（Vault）
 
 
 > [!example] 進度
@@ -92,7 +92,7 @@
 > 
 > 調整`第三方社群外掛`：關閉 `受限模式`。
 
-## 安裝套件
+### 安裝套件
 
 
 > [!example] 進度
@@ -126,7 +126,7 @@
 > 開啟畫布功能，做一張今天課程的心智圖。
 
 
-## 完成第一份筆記
+### 完成第一份筆記
 
 > [!example] 進度
 > - 下載 🗂️  [2025-06-13 Obsidian 入門（練習）](https://1drv.ms/t/c/1698215ca2d0889b/EZby0VWUNWtMprkdPZZhrRUBBRVn5H6qAA66kOoU5GHwRQ?e=rnNfUW) 筆記
@@ -141,7 +141,7 @@
 
 
 
-# 問題與討論
+## 問題與討論
 
 > [!EXAMPLE] 研究問題
 >- [ ]  您平時如何在工作／研究上使用（其他）筆記軟體？它的生產流程為何？它是提高還是降低您的工作效率（如何評估、如何比較）？能否將您使用筆記軟體的方式以「流程圖」的方式表達？
