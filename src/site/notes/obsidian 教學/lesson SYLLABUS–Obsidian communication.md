@@ -20,7 +20,7 @@
 > - 02-01｜[[obsidian 教學/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]
 > - 03｜[[obsidian 教學/lesson03 Build Obsidian database\|L3 2025-06-27 建立 Obsidian 資料庫]]
 > - 03-01｜[[obsidian 教學/lesson-03-材料/obsidian-dataabase-slides\|2025-06-27 Obsidian 資料庫｜Slides]]
-> - 03-02｜[[obsidian 教學/lesson-03-材料/hw-obsidian-lesson-01\|2025-06-27 練習二範例：我的工作流程]]
+> - 03-02｜[[obsidian 教學/lesson-03-材料/hw-obsidian-lesson-03\|2025-06-27 練習二範例：我的工作流程]]
 > 
 { .block-language-dataview}
 
