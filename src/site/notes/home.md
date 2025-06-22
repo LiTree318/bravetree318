@@ -1,15 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-22T13:07:11.366+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-22T17:01:03.477+08:00"}
 ---
 
 
 # 🌲 HERE IS THE TREE'S HOLE
-
-
-
-
-
-### 關於我
 
 
 > [!info] 這裡是李樹的樹窩 🏡 。
@@ -30,6 +24,7 @@
 
 | Title                                                                                                      | Tag                                                                            | Last Modify |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- |
+| [[home\|🌲 HERE IS THE TREE'S HOLE]]                                                                    | #DigitalGarden #obsidian #self_learing #website_design                         | 2025-06-22  |
 | [[obsidian 教學/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]                            | #🎯學習歷程檔案 #📝數位工具交流beta #self_learing #🪨自籌Obsidian工作坊 #📋我的專案                 | 2025-06-22  |
 | [[obsidian 教學/lesson-03-材料/lesson03 Example04 Article Template\|模板04：📃 草稿／文章／成品]]                      | #🪨自籌Obsidian工作坊                                                               | 2025-06-22  |
 | [[obsidian 教學/lesson-03-材料/lesson03 Example03 Library view Template\|模板03：🗃️ 資料庫／知識地圖／圖書館]]            | #🪨自籌Obsidian工作坊                                                               | 2025-06-22  |
@@ -46,7 +41,6 @@
 | [[數位工具/📚 【模板】閱讀資料庫\|📚 【模板】閱讀資料庫]]                                                                     | #Books                                                                         | 2025-06-22  |
 | [[數位工具/🏷️ 【模板】參考資料引用\|🏷️ 【模板】參考資料引用]]                                                                 | #📝數位工具交流beta #self_learing                                                    | 2025-06-22  |
 | [[watch-and-read\|🌱 所學與所見]]                                                                            | #📝數位工具交流beta #self_learing                                                    | 2025-06-22  |
-| [[home\|🌲 HERE IS THE TREE'S HOLE]]                                                                    | #DigitalGarden #obsidian #self_learing #website_design                         | 2025-06-22  |
 | [[obsidian 教學/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]                       | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-20  |
 | [[obsidian 教學/lesson-03-材料/obsidian-dataabase-slides\|2025-06-27 Obsidian 資料庫｜Slides]]                  | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-20  |
 | [[obsidian 教學/lesson-01-材料/intro-obsidian-slides\|2025-06-13 Obsidian 入門｜Slides]]                       | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-20  |
@@ -80,6 +74,7 @@
 
 
 ---
+### 關於我
 
 > [!warning] 關於本站
 > 1. 這個網站完全基於 [Wanderloots's Words](https://wanderloots.xyz/) 分享的 [Digital Garden 說明](https://wanderloots.xyz/digital-garden/tutorials/how-to-publish-obsidian-notes-website-for-free-digital-garden-or-blog/)，部分參考[oleeskild](https://github.com/oleeskild/obsidian-digital-garden)架設的[另一個 Digital Garden 說明](https://dg-docs.ole.dev/)。 
