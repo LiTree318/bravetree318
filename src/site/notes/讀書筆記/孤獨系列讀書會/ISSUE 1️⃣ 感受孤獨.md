@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/讀書筆記/孤獨系列讀書會/ISSUE 1️⃣ 感受孤獨/","title":"ISSUE 1️⃣ 感受孤獨","tags":["孤獨的哲學","獨，書會","Reading_Notes"],"noteIcon":"3","created":"2024-03-22T21:00:20.000+08:00","updated":"2025-05-10T22:01:51.975+08:00"}
+{"dg-publish":true,"permalink":"/讀書筆記/孤獨系列讀書會/ISSUE 1️⃣ 感受孤獨/","title":"ISSUE 1️⃣ 感受孤獨","tags":["孤獨的哲學","獨，書會","Reading_Notes"],"created":"2024-03-22T21:00:20.000+08:00","updated":"2025-05-10T22:01:51.975+08:00"}
 ---
 
 

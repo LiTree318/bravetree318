@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/讀書筆記/On Simone Weil - The LRB Podcast/","title":"On Simone Weil - The LRB Podcast","tags":["Reading_Notes"],"noteIcon":"3","created":"2024-08-28T14:01:40.879+08:00","updated":"2025-05-30T18:38:48.902+08:00"}
+{"dg-publish":true,"permalink":"/讀書筆記/On Simone Weil - The LRB Podcast/","title":"On Simone Weil - The LRB Podcast","tags":["Reading_Notes"],"created":"2024-08-28T14:01:40.879+08:00","updated":"2025-05-30T18:38:48.902+08:00"}
 ---
 
 

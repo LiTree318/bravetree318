@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/watch-and-read/","title":"🌱 所學與所見","pinned":true,"tags":["📝數位工具交流beta","self_learing"],"noteIcon":"3","created":"2025-05-08T13:23:53.000+08:00","updated":"2025-06-22T13:09:57.047+08:00"}
+{"dg-publish":true,"permalink":"/watch-and-read/","title":"🌱 所學與所見","pinned":true,"tags":["📝數位工具交流beta","self_learing"],"created":"2025-05-08T13:23:53.000+08:00","updated":"2025-06-22T13:09:57.047+08:00"}
 ---
 
 

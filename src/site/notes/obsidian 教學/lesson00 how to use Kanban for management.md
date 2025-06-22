@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how_to_use_kanban_for_management","permalink":"/how_to_use_kanban_for_management/","title":"L0 Kanban管理文獻整理進度","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-02T02:35:22.433+08:00","updated":"2025-06-22T13:26:04.749+08:00"}
+{"dg-publish":true,"dg-permalink":"how_to_use_kanban_for_management","permalink":"/how_to_use_kanban_for_management/","title":"L0 Kanban管理文獻整理進度","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"created":"2025-06-02T02:35:22.433+08:00","updated":"2025-06-22T13:26:04.749+08:00"}
 ---
 
 

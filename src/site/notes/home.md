@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-22T13:07:11.366+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-22T13:07:11.366+08:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 
 | Title                                                                                                      | Tag                                                                            | Last Modify |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- |
-| [[obsidian 教學/lesson SYLLABUS–obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]                            | #🎯學習歷程檔案 #📝數位工具交流beta #self_learing #🪨自籌Obsidian工作坊 #📋我的專案                 | 2025-06-22  |
+| [[obsidian 教學/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]                            | #🎯學習歷程檔案 #📝數位工具交流beta #self_learing #🪨自籌Obsidian工作坊 #📋我的專案                 | 2025-06-22  |
 | [[obsidian 教學/lesson-03-材料/lesson03 Example04 Article Template\|模板04：📃 草稿／文章／成品]]                      | #🪨自籌Obsidian工作坊                                                               | 2025-06-22  |
 | [[obsidian 教學/lesson-03-材料/lesson03 Example03 Library view Template\|模板03：🗃️ 資料庫／知識地圖／圖書館]]            | #🪨自籌Obsidian工作坊                                                               | 2025-06-22  |
 | [[obsidian 教學/lesson-03-材料/lesson03 Example02 Note Template\|模板02：📝 摘錄內容／我的筆記]]                        | #🪨自籌Obsidian工作坊                                                               | 2025-06-22  |
