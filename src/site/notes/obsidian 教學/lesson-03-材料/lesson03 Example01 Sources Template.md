@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"lesson03_example01","permalink":"/lesson03_example01/","title":"模板01：🏷️ 原始資料／資料來源","tags":["🪨自籌Obsidian工作坊"],"noteIcon":"3","created":"2025-06-22T14:53:38.705+08:00","updated":"2025-06-22T16:22:54.005+08:00"}
+{"dg-publish":true,"dg-permalink":"lesson03_example01","permalink":"/lesson03_example01/","title":"模板01：🏷️ 原始資料／資料來源","tags":["🪨自籌Obsidian工作坊"],"noteIcon":"3","created":"2025-06-22T14:53:38.705+08:00","updated":"2025-06-22T16:34:00.066+08:00"}
 ---
 
 
@@ -41,8 +41,26 @@ create-date: "{{date: YYYY-MM-DD-DDDD}}"
 
 ## 🗃️ 摘錄清單
 
+	```/dataview
+	LIST 
+	replace(
+		"#" + 
+		replace(
+			string(tags),
+			", ", 
+			 " #"), 
+		 "##", 
+		 "#")  +
+	" 日期：" +
+	date
 	
-{ .block-language-dataview}
+	where 
+	contains(title, "{{title}}") and
+	contains(type, "🏷️資料來源") and
+	!contains(file.name, "Template")
+	SORT file.mtime DESC
+
+	```
 
 
 ## ✍️ 我的筆記

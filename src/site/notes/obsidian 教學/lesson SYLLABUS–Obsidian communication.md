@@ -11,10 +11,10 @@
 
 > [!example]+ 筆記清單
 > 
->  - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example01 Sources Template\|模板01：🏷️ 原始資料／資料來源]]
-> - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example02 Note Template\|模板02：📝 摘錄內容／我的筆記]]
-> - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example03 Library view Template\|模板03：🗃️ 資料庫／知識地圖／圖書館]]
+>  - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example02 Note Template\|模板02：📝 摘錄內容／我的筆記]]
 > - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example04 Article Template\|模板04：📃 草稿／文章／成品]]
+> - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example01 Sources Template\|模板01：🏷️ 原始資料／資料來源]]
+> - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example03 Library view Template\|模板03：🗃️ 資料庫／知識地圖／圖書館]]
 > - 00｜[[obsidian 教學/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]
 > - 00-00｜[[obsidian 教學/lesson00 how to use obsidian\|L0 Obisdian 用法]]
 > - 00-01｜[[obsidian 教學/lesson00 how to use Kanban for management\|L0 Kanban管理文獻整理進度]]
