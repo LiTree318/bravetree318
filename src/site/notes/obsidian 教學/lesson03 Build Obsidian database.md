@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2025-06-27-obsidian-03","permalink":"/2025-06-27-obsidian-03/","title":"L3 2025-06-27 建立 Obsidian 資料庫","metatags":{"og:title":"2025-06-27 建立 Obsidian 資料庫","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%875-06-01-25_08-32-52-831.png","description":"2025-06-27 建立 Obsidian 資料庫：筆記屬性與YAML／介紹「Dataview」套件／Dataview + 標籤／設定筆記屬性／核心套件： Dataview／建立第一個資料庫"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-20T16:07:09.100+08:00","updated":"2025-06-22T14:37:57.565+08:00"}
+{"dg-publish":true,"dg-permalink":"2025-06-27-obsidian-03","permalink":"/2025-06-27-obsidian-03/","title":"L3 2025-06-27 建立 Obsidian 資料庫","metatags":{"og:title":"2025-06-27 建立 Obsidian 資料庫","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%875-06-01-25_08-32-52-831.png","description":"2025-06-27 建立 Obsidian 資料庫：筆記屬性與YAML／介紹「Dataview」套件／Dataview + 標籤／設定筆記屬性／核心套件： Dataview／建立第一個資料庫"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-20T16:07:09.100+08:00","updated":"2025-06-22T16:16:45.684+08:00"}
 ---
 
 
@@ -114,9 +114,121 @@ Dataview 包含三種不同的呈現方式：table、list、task。最常使用�
 
 ## PART 2：機上操作
 
-⬇️ 設定筆記屬性
+### 設定筆記屬性
 
-⬇️ 核心套件： Dataview
+![我的工作流程視覺圖.png](/img/user/obsidian%20%E6%95%99%E5%AD%B8/lesson-03-%E6%9D%90%E6%96%99/%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E8%A6%96%E8%A6%BA%E5%9C%96.png)
+
+依照這張圖上的筆記類別，先來新增不同類型的筆記（請結合上週分享過的[[obsidian 教學/lesson02 Basic skills of Obsidian#Templates（模板）\|模板套件]]）：
+
+> [!example] 我的筆記清單
+> 1. [[obsidian 教學/lesson-03-材料/lesson03 Example01 Sources Template\|🏷️ 原始資料／資料來源]] 
+> 2. [[obsidian 教學/lesson-03-材料/lesson03 Example02 Note Template\|📝 摘錄內容／我的筆記]]
+> 3. [[obsidian 教學/lesson-03-材料/lesson03 Example03 Library view Template\|🗃️ 資料庫／知識地圖／圖書館]]
+> 4. [[obsidian 教學/lesson-03-材料/lesson03 Example04 Article Template\|📃 草稿／文章／成品]]
+> 
+
+
+### 設定 Dataview
+
+#### 基礎使用方式：清單（list）
+
+```markdown
+LIST
+tags + "日期：" +  date
+FROM #自學
+SORT file.mtime DESC
+```
+##### 解析與延伸
+```markdown
+LIST 
+	# 表示用清單的方式顯示資料
+
+tags + "日期：" +  date
+	## tags 表示在每一筆清單資料中加上「tags」
+	## 用 `+` 號來連結不同的屬性
+	## 如果要再用輸入其他文字，需要用 "這邊是文字" 來表示。
+
+FROM #自學
+	## FROM 代表篩選條件，只能用 tags 篩選資料。
+	## 如上所示，選擇「自學」之後就只會顯示「tags」中有「自學」的資料
+
+SORT file.mtime DESC
+	## SORT 是排序方法，分成：
+	## ASC 順序排，由小到大，由舊到新；
+	## DESC 倒序排，由大倒小，由新到舊。
+	## SORT 的指令為： `SORT <條件> ASC/DESC`
+		## 條件需要是「文件的屬性」
+	## `file.mtime` 代表：文件最後修改時間。
+	## 幾個常用的指令如下：
+		## file.title 文件標題（筆劃）
+		## file.ctime 文件創立時間
+```
+#### 基礎使用方式：表格（table）
+
+```markdown
+TABLE
+author as "作者",
+date as "資料日期",
+tags as "主題"
+FROM #自學
+SORT file.mtime DESC
+```
+
+##### 解析與延伸
+
+```markdown
+TABLE # 表示用表格的方式顯示資料
+	## 不同欄位之間要用 "," 來區隔
+
+author as "作者", 
+	## 表示把資料中「author」提取呈現，
+	## 用 AS "標題名稱" 可以自定欄位標題
+
+date as "資料日期",
+	## 表示把資料中「date」提取呈現，
+	## 用 AS "標題名稱" 可以自定欄位標題
+
+tags as "主題"
+	## 表示把資料中「tags」提取呈現，
+	## 用 AS "標題名稱" 可以自定欄位標題
+FROM #自學
+	## FROM 代表篩選條件，只能用 tags 篩選資料。
+	## 如上所示，選擇「自學」之後就只會顯示「tags」中有「自學」的資料
+
+SORT file.mtime DESC
+	## SORT 是排序方法，分成：
+	## ASC 順序排，由小到大，由舊到新；
+	## DESC 倒序排，由大倒小，由新到舊。
+	## SORT 的指令為： `SORT <條件> ASC/DESC`
+		## 條件需要是「文件的屬性」
+	## `file.mtime` 代表：文件最後修改時間。
+	## 幾個常用的指令如下：
+		## file.title 文件標題（筆劃）
+		## file.ctime 文件創立時間
+```
+#### 進階用法
+
+##### 設定複數條件檢閱：`WHERE`
+
+```markdown
+WHERE 
+contains(type, "🏷️資料來源") and
+!contains(file.name, "Template")
+	## WHERE 是另外一種篩選條件的指令，指令為 contains(<屬性名稱>,"<指定條件>")
+	## `contains` 表示：包含這個條件。
+	## `!contains` 表示：不包含這個條件。
+	## 超過一個條件需要輸入 and 來並列，例如：
+		## WHERE
+		## contains(屬性1,"條件1") AND
+		## !contains(屬性2, "條件2")
+
+```
+
+##### 以特定文字呈現檔案連結： `link(file.link, "<特定文字>")`
+
+##### 組裝文字： `"<文字1>" + "<文字2>"`
+
+
 
 ⬇️ 建立第一個資料庫
 
