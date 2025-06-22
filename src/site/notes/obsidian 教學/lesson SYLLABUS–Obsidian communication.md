@@ -14,13 +14,13 @@
 > [!example]+ 筆記清單
 > 
 >  - 00｜[[obsidian 教學/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]
-> - 00-00｜[[obsidian 教學/lesson00 how to use obsidian\|Obisdian 用法]]
-> - 00-01｜[[obsidian 教學/lesson00 how to use Kanban for management\|Kanban管理文獻整理進度]]
-> - 01｜[[obsidian 教學/lesson01 Introduce Obsidian\|2025-06-13 Obsidian 入門]]
+> - 00-00｜[[obsidian 教學/lesson00 how to use obsidian\|L0 Obisdian 用法]]
+> - 00-01｜[[obsidian 教學/lesson00 how to use Kanban for management\|L0 Kanban管理文獻整理進度]]
+> - 01｜[[obsidian 教學/lesson01 Introduce Obsidian\|L1 2025-06-13 Obsidian 入門]]
 > - 01-01｜[[obsidian 教學/lesson-01-材料/intro-obsidian-slides\|2025-06-13 Obsidian 入門｜Slides]]
-> - 02｜[[obsidian 教學/lesson02 Basic skills of Obsidian\|2025-06-20 Obsidian 基礎]]
+> - 02｜[[obsidian 教學/lesson02 Basic skills of Obsidian\|L2 2025-06-20 Obsidian 基礎]]
 > - 02-01｜[[obsidian 教學/lesson-02-材料/obsidian-basic-slides\|2025-06-20 Obsidian 基礎｜Slides]]
-> - 03｜[[obsidian 教學/lesson03 Build Obsidian database\|2025-06-27 建立 Obsidian 資料庫]]
+> - 03｜[[obsidian 教學/lesson03 Build Obsidian database\|L3 2025-06-27 建立 Obsidian 資料庫]]
 > - 03-01｜[[obsidian 教學/lesson-03-材料/obsidian-dataabase-slides\|2025-06-27 Obsidian 資料庫｜Slides]]
 > - 03-02｜[[obsidian 教學/lesson-03-材料/hw-obsidian-lesson-01\|2025-06-27 練習二範例：我的工作流程]]
 > 
