@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2025-06-27-obsidian-03","permalink":"/2025-06-27-obsidian-03/","title":"L3 2025-06-27 建立 Obsidian 資料庫","metatags":{"og:title":"2025-06-27 建立 Obsidian 資料庫","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%875-06-01-25_08-32-52-831.png","description":"2025-06-27 建立 Obsidian 資料庫：筆記屬性與YAML／介紹「Dataview」套件／DV + 標籤／設定筆記屬性／核心套件： Dataview／建立第一個資料庫"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-20T16:07:09.100+08:00","updated":"2025-06-22T13:35:52.007+08:00"}
+{"dg-publish":true,"dg-permalink":"2025-06-27-obsidian-03","permalink":"/2025-06-27-obsidian-03/","title":"L3 2025-06-27 建立 Obsidian 資料庫","metatags":{"og:title":"2025-06-27 建立 Obsidian 資料庫","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%875-06-01-25_08-32-52-831.png","description":"2025-06-27 建立 Obsidian 資料庫：筆記屬性與YAML／介紹「Dataview」套件／Dataview + 標籤／設定筆記屬性／核心套件： Dataview／建立第一個資料庫"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-20T16:07:09.100+08:00","updated":"2025-06-22T14:28:36.167+08:00"}
 ---
 
 
@@ -43,7 +43,7 @@ author: #在 author 輸入人名，可以設定文件的作者
 
 
 > [!example] 練習一：新增一份帶有特定屬性的文件
-> ```
+> ```markdown
 > ---
 > title: "練習一：新增一份帶有特定屬性的文件"
 > tags: 
@@ -79,22 +79,38 @@ author: #在 author 輸入人名，可以設定文件的作者
 
 
 
+> [!success] 我的工作流程視覺圖（made by Obsidian）
+> ![我的工作流程視覺圖.png](/img/user/obsidian%20%E6%95%99%E5%AD%B8/lesson-03-%E6%9D%90%E6%96%99/%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E8%A6%96%E8%A6%BA%E5%9C%96.png)
+
+
+有了上面的架構圖，資料庫至少會需要拆分成四種不同類型的筆記；同時這些個別的筆記都會有不同的屬性，以便於串聯資料來源和不同階段的筆記。
 
 
 
+### 介紹 Dataview 套件
+
+- 安裝套件 [Dataview](obsidian://show-plugin?id=dataview)
 
 
+> [!info]- Dataview 是什麼？
+> Dataview 是 Obsidian 的套件，它提供使用者快速檢閱儲存庫裡（vault）裡面的資料和文件，並能透過設定方式篩選、排序、和取用特定的資料與頁面。
 
 
+Dataview 包含三種不同的呈現方式：table、list、task。最常使用的呈現方式是table 和 list（如下圖）。
 
-👉 筆記屬性與YAML[^1]
 
-👉 介紹「Dataview」套件
+如圖所示，上圖是 Dataview 程式語言和指令，下圖則是呈現出來的效果。從顯示畫面可以看出我們可以透過不同的指令和標籤來顯示特定的資料，這樣我們可以更快找到自己想要的檔案。資料庫分類的基準是依照我們在每一份文件設定的屬性（或者透過標籤）來進行分類，因此前面我們提到要先規劃好個人資料庫的資料架構還有邏輯，目的就是為了讓我們在後續建立檢索方式時，可以更清楚知道我們此時要檢索的資料是哪些資料。
 
-👉 DV + 標籤
-　　
+關於 Dataview 詳細的用法，加在後面「機上操作」說明。
 
-／／機上操作
+| Dataview 比較： TABLE（表格，右圖）和 LIST（清單，左圖） |
+| :------------------------------------: |
+|        ![TABLE and LIST.png](/img/user/obsidian%20%E6%95%99%E5%AD%B8/lesson-03-%E6%9D%90%E6%96%99/TABLE%20and%20LIST.png)         |
+
+
+---
+
+## PART 2：機上操作
 
 ⬇️ 設定筆記屬性
 
@@ -104,5 +120,4 @@ author: #在 author 輸入人名，可以設定文件的作者
 
 
 
-[^1]: https://yaml.org/spec/1.2.2/
 [^2]: 參考資料：YAML，Wikipedia。https://zh.wikipedia.org/zh-tw/YAML
