@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"lesson03_example03","permalink":"/lesson03_example03/","title":"模板03：🗃️ 資料庫／知識地圖／圖書館","tags":["🪨自籌Obsidian工作坊"],"noteIcon":"3","created":"2025-06-22T15:23:10.641+08:00","updated":"2025-06-22T16:34:23.663+08:00"}
+{"dg-publish":true,"dg-permalink":"lesson03_example03","permalink":"/lesson03_example03/","title":"模板03：🗃️ 資料庫／知識地圖／圖書館","tags":["🪨自籌Obsidian工作坊"],"noteIcon":"3","created":"2025-06-22T15:23:10.641+08:00","updated":"2025-06-22T16:37:22.520+08:00"}
 ---
 
 

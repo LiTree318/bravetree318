@@ -11,11 +11,7 @@
 
 > [!example]+ 筆記清單
 > 
->  - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example02 Note Template\|模板02：📝 摘錄內容／我的筆記]]
-> - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example04 Article Template\|模板04：📃 草稿／文章／成品]]
-> - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example01 Sources Template\|模板01：🏷️ 原始資料／資料來源]]
-> - \-｜[[obsidian 教學/lesson-03-材料/lesson03 Example03 Library view Template\|模板03：🗃️ 資料庫／知識地圖／圖書館]]
-> - 00｜[[obsidian 教學/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]
+>  - 00｜[[obsidian 教學/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]
 > - 00-00｜[[obsidian 教學/lesson00 how to use obsidian\|L0 Obisdian 用法]]
 > - 00-01｜[[obsidian 教學/lesson00 how to use Kanban for management\|L0 Kanban管理文獻整理進度]]
 > - 01｜[[obsidian 教學/lesson01 Introduce Obsidian\|L1 2025-06-13 Obsidian 入門]]
@@ -25,6 +21,10 @@
 > - 03｜[[obsidian 教學/lesson03 Build Obsidian database\|L3 2025-06-27 建立 Obsidian 資料庫]]
 > - 03-01｜[[obsidian 教學/lesson-03-材料/obsidian-dataabase-slides\|2025-06-27 Obsidian 資料庫｜Slides]]
 > - 03-02｜[[obsidian 教學/lesson-03-材料/hw-obsidian-lesson-03\|2025-06-27 練習二範例：我的工作流程]]
+> - 03-03｜[[obsidian 教學/lesson-03-材料/lesson03 Example01 Sources Template\|模板01：🏷️ 原始資料／資料來源]]
+> - 03-04｜[[obsidian 教學/lesson-03-材料/lesson03 Example02 Note Template\|模板02：📝 摘錄內容／我的筆記]]
+> - 03-05｜[[obsidian 教學/lesson-03-材料/lesson03 Example03 Library view Template\|模板03：🗃️ 資料庫／知識地圖／圖書館]]
+> - 03-06｜[[obsidian 教學/lesson-03-材料/lesson03 Example04 Article Template\|模板04：📃 草稿／文章／成品]]
 > 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"lesson03_example01","permalink":"/lesson03_example01/","title":"模板01：🏷️ 原始資料／資料來源","tags":["🪨自籌Obsidian工作坊"],"noteIcon":"3","created":"2025-06-22T14:53:38.705+08:00","updated":"2025-06-22T16:34:00.066+08:00"}
+{"dg-publish":true,"dg-permalink":"lesson03_example01","permalink":"/lesson03_example01/","title":"模板01：🏷️ 原始資料／資料來源","tags":["🪨自籌Obsidian工作坊"],"noteIcon":"3","created":"2025-06-22T14:53:38.705+08:00","updated":"2025-06-22T16:36:58.132+08:00"}
 ---
 
 
