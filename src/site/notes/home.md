@@ -34,7 +34,6 @@
 | [[obsidian 教學/lesson-03-材料/lesson03 Example02 Note Template\|{{title}}]]                                | #\-                                                                            | 2025-06-22  |
 | [[obsidian 教學/lesson-03-材料/lesson03 Example01 Sources Template\|{{title}}]]                             | #\-                                                                            | 2025-06-22  |
 | [[obsidian 教學/lesson-03-材料/lesson03 Example03 Library view Template\|{{title}}]]                        | #\-                                                                            | 2025-06-22  |
-| [[obsidian 教學/lesson-03-材料/lesson03 Example04 Article Template\|"{{title}}"]]                           | #\-                                                                            | 2025-06-22  |
 | [[obsidian 教學/lesson-03-材料/hw-obsidian-lesson-03\|2025-06-27 練習二範例：我的工作流程]]                             | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-22  |
 | [[obsidian 教學/lesson02 Basic skills of Obsidian\|L2 2025-06-20 Obsidian 基礎]]                            | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-22  |
 | [[obsidian 教學/lesson01 Introduce Obsidian\|L1 2025-06-13 Obsidian 入門]]                                  | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-22  |
