@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"syllabus_obsidian","permalink":"/syllabus_obsidian/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-24T06:10:44.542+08:00"}
+{"dg-publish":true,"dg-permalink":"syllabus_obsidian","permalink":"/syllabus_obsidian/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-24T06:10:59.464+08:00"}
 ---
 
 
@@ -77,7 +77,7 @@
 
 ## 2️⃣  2025-06-20／Obsidian 基礎
 
-[!info] 介紹
+> [!info] 介紹
 > - [ ]  [[Obsidian 教學/lesson02 Basic skills of Obsidian\|L2 2025-06-20 Obsidian 基礎]]
 > - [ ] 簡報： [2025-06-20 Obsidian 基礎｜Slides](https://hackmd.io/@tree10zi23/2025-06-20-obsidian-lesson-02#/)
 
@@ -106,7 +106,7 @@
 
 ## 3️⃣ 2025-06-27／Obsidian 資料庫
 
-[!info] 介紹
+> [!info] 介紹
 > - [ ]  [[Obsidian 教學/lesson03 Build Obsidian database\|L3 2025-06-27 建立 Obsidian 資料庫]]
 > - [ ] 簡報： [2025-06-27 Obsidian 資料庫｜Slides](https://hackmd.io/@tree10zi23/2025-06-27-obsidian-lesson-03#/)
 
