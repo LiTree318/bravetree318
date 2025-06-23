@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how_to_build_website_by_obsidian","permalink":"/how_to_build_website_by_obsidian/","title":"🔖 如何用 Obsidian 架設網站","metatags":{"og:title":"🔖 如何用 Obsidian 架設網站"},"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案","📝數位工具交流beta"],"created":"2025-05-05T18:30:31.468+08:00","updated":"2025-06-22T13:13:44.956+08:00"}
+{"dg-publish":true,"dg-permalink":"how_to_build_website_by_obsidian","permalink":"/how_to_build_website_by_obsidian/","title":"🔖 如何用 Obsidian 架設網站","metatags":{"og:title":"🔖 如何用 Obsidian 架設網站"},"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案","📝數位工具交流beta"],"created":"2025-06-19T01:34:48.000+08:00","updated":"2025-06-22T13:13:44.000+08:00"}
 ---
 
 
