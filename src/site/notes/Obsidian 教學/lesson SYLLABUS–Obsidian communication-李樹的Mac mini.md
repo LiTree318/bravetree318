@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"syllabus_obsidian","permalink":"/syllabus_obsidian/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-24T06:03:13.829+08:00"}
+{"dg-publish":true,"dg-permalink":"syllabus_obsidian","permalink":"/syllabus_obsidian/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"created":"2025-06-24T05:54:29.000+08:00","updated":"2025-06-24T05:54:30.604+08:00"}
 ---
 
 
@@ -50,88 +50,55 @@
 
 ## 1️⃣ 2025-06-13／Obsidian 入門
 
-> [!info] 介紹
-> - [ ]  [[Obsidian 教學/lesson01 Introduce Obsidian\|L1 2025-06-13 Obsidian 入門]]
-> - [ ] 簡報： [2025-06-13 Obsidian 入門｜Slides](https://hackmd.io/@tree10zi23/2025-06-13-obsidian-lesson-01#/)
-
-> [!summary]- 摘要
-> #### 概念說明
-> 1. 為什麼選擇筆記軟體？
-> 2. 認識 Markdown 語言
-> 3. 認識第三方社群套件
-> 
-> #### 機上操作
-> 1. 設定自己的儲存庫（Vault）
-> 2. 安裝套件
-> 3. 完成第一份筆記
-> 
-> #### 問題與討論
-> - [ ] 您平時如何在工作／研究上使用（其他）筆記軟體？它的生產流程為何？它是提高還是降低您的工作效率（如何評估、如何比較）？能否將您使用筆記軟體的方式以「流程圖」的方式表達？
-> - [ ] 除了 markdown 之外，還有哪些標記式語言？他們的特點是什麼？除了Obsidian、Notion之外，您還知道哪些應用標記式語言（包括但不限於 markdown）的東西？
-> - [ ] 從您工作／研究的需求出發，設想看看您需要哪些輔助功能？試著在 Obsidian的社群套件中找到它，並練習安裝、使用。您發現哪些問題？哪些功能有／沒有被滿足？
-> - [ ] 儲存庫如何同步在不同裝置、軟體上面？您有想到方法嗎？
-> - [ ] Obsidian在行動裝置（手機、平板）上要如何使用？練習在行動裝置上建立筆記？
-> - [ ] 除了此次上課的功能外，還有哪些markdown與obsidian的功能可以使用？（提示：backlinks／反向連結、超連結、圖片、附件、內部連結⋯⋯。
+> [!info] 摘要
+> [[Obsidian 教學/lesson-01-材料/intro-obsidian-slides\|intro-obsidian-slides]]
 
 
 
-## 2️⃣  2025-06-20／Obsidian 基礎
+## 2️⃣  [[Obsidian 教學/lesson02 Basic skills of Obsidian\|2025-06-20／Obsidian 基礎]]
 
-[!info] 介紹
-> - [ ]  [[Obsidian 教學/lesson02 Basic skills of Obsidian\|L2 2025-06-20 Obsidian 基礎]]
-> - [ ] 簡報： [2025-06-20 Obsidian 基礎｜Slides](https://hackmd.io/@tree10zi23/2025-06-20-obsidian-lesson-02#/)
+／／概念說明
 
+👉 建立筆記關聯
 
-> [!summary]- 摘要
-> #### 概念說明
-> - 建立筆記關連
-> - I-P-O 筆記方法
-> - 用標籤管理資料庫
->   
-> #### 機上操作
-> - Obsidian 常用指令
-> - 關聯圖瀏覽
-> - 設定標籤分類筆記
-> 
-> #### 問題與討論
-> - [ ] 筆記之間的關聯性如何建立？如何強化工作流程？
-> - [ ] I-P-O 筆記法的缺點，他對工作流程的影響（正面／負面）
-> - [ ] 如何管理資料庫？
-> - [ ] 關聯圖可以怎麼使用？如何提高工作流程的效率？
-> - [ ] 哪些你想要的功能可以從 Obsidian指令中找到？
-> - [ ] 如何設定Obsidian 指令的「快捷鍵」？
-> - [ ] 如何批量設定標籤或者屬性？
-> - [ ] 除了標籤之外，還有哪些方式可以分類筆記？
+👉 I-P-O 筆記法
+
+👉 用標籤管理資料庫
 
 
-## 3️⃣ 2025-06-27／Obsidian 資料庫
+／／機上操作
 
-[!info] 介紹
-> - [ ]  [[Obsidian 教學/lesson03 Build Obsidian database\|L3 2025-06-27 建立 Obsidian 資料庫]]
-> - [ ] 簡報： [2025-06-27 Obsidian 資料庫｜Slides](https://hackmd.io/@tree10zi23/2025-06-27-obsidian-lesson-03#/)
+⬇️ Obsidian 常用指令
+
+⬇️ 關聯圖瀏覽
+
+
+⬇️ 設定標籤分類筆記
+　　
+![投影片4-06-01-25_08-32-52-831.png](/img/user/Obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png)
+
+## 3️⃣ [[Obsidian 教學/lesson03 Build Obsidian database\|2025-06-27／Obsidian 資料庫]]
 
 
 
-> [!summary]- 摘要
-> #### 概念說明
-> - 筆記屬性
-> -建置資料庫
-> - 介紹 Dataview 套件
->   
-> #### 機上操作
-> - 設定筆記屬性
-> - 設定 Dataview
-> - 建立第一個資料庫
-> 
-> #### 問題與討論
-> - [ ] 建構資料庫的底層邏輯是什麼？主要處理的資料型態、產出成品的形態，以及處理的議題是什麼？
-> - [ ] 除了透過標籤管理資料庫之外，還有哪些管理資料庫的方式？
-> - [ ] 如何讓資料庫更便捷使用？
-> - [ ] RECYCLE：再利用每次的資料與筆記？
-> - [ ] 如何使用 flatten 和 group 指令？他的用途是什麼？
-> - [ ] 是否有動態調整資料庫的方式？
+／／概念說明
 
+👉 筆記屬性與YAML[^1]
 
+👉 介紹「Dataview」套件
+
+👉 DV + 標籤
+　　
+
+／／機上操作
+
+⬇️ 設定筆記屬性
+
+⬇️ 核心套件： Dataview
+
+⬇️ 建立第一個資料庫
+　　
+![投影片5-06-01-25_08-32-52-851.png](/img/user/Obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%875-06-01-25_08-32-52-851.png)
 
 ## 4️⃣ 2025-07-05／問題與討論
 
