@@ -53,7 +53,7 @@
 > 
 { .block-language-dataview}
 
-##### [[library/人魚紀\|讀書筆記整理]]
+##### [[library/Books/人魚紀\|讀書筆記整理]]
 
 > [!QUOTE]- 📕 人魚記
 >  | 筆記                                                                                                         | 頁碼  | 被引用       | 引用數 | 引文                                                                                                                                                                     |
@@ -72,7 +72,7 @@
 
 ### 🕸️ 資料架構圖
 
-![🪵 Woody的論文方向感.png](/img/user/ignore/img/%F0%9F%AA%B5%20Woody%E7%9A%84%E8%AB%96%E6%96%87%E6%96%B9%E5%90%91%E6%84%9F.png)
+![[🪵 Woody的論文方向感.png\|🪵 Woody的論文方向感.png]]
 
 
 
