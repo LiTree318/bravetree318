@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2025-06-27-obsidian-03","permalink":"/2025-06-27-obsidian-03/","title":"L3 2025-06-27 建立 Obsidian 資料庫","metatags":{"og:title":"2025-06-27 建立 Obsidian 資料庫","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%875-06-01-25_08-32-52-831.png","description":"2025-06-27 建立 Obsidian 資料庫：筆記屬性與YAML／介紹「Dataview」套件／Dataview + 標籤／設定筆記屬性／核心套件： Dataview／建立第一個資料庫"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"created":"2025-06-20T16:07:09.100+08:00","updated":"2025-06-22T16:16:45.684+08:00"}
+{"dg-publish":true,"dg-permalink":"2025-06-27-obsidian-03","permalink":"/2025-06-27-obsidian-03/","title":"L3 2025-06-27 建立 Obsidian 資料庫","metatags":{"og:title":"2025-06-27 建立 Obsidian 資料庫","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%875-06-01-25_08-32-52-831.png","description":"2025-06-27 建立 Obsidian 資料庫：筆記屬性與YAML／介紹「Dataview」套件／Dataview + 標籤／設定筆記屬性／核心套件： Dataview／建立第一個資料庫"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"created":"2025-06-20T16:07:09.100+08:00","updated":"2025-06-23T21:14:44.635+08:00"}
 ---
 
 
@@ -224,14 +224,24 @@ contains(type, "🏷️資料來源") and
 
 ```
 
-##### 以特定文字呈現檔案連結： `link(file.link, "<特定文字>")`
+##### 以特定文字呈現檔案連結： `link(file.link,<特定文字>)`
 
-##### 組裝文字： `"<文字1>" + "<文字2>"`
+```
+link(file.link, "<特定文字>")
+```
+
+##### 組裝文字： `<文字>+<文字>`
+```
+"<文字1>" + "<文字2>"
+```
 
 
+### 建立第一個資料庫
 
-⬇️ 建立第一個資料庫
+| 視覺化建構資料庫 |
+| :------: |
+|    ![建構資料庫.png](/img/user/obsidian%20%E6%95%99%E5%AD%B8/lesson-03-%E6%9D%90%E6%96%99/%E5%BB%BA%E6%A7%8B%E8%B3%87%E6%96%99%E5%BA%AB.png)      |
 
-
+---
 
 [^2]: 參考資料：YAML，Wikipedia。https://zh.wikipedia.org/zh-tw/YAML
