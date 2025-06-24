@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Obsidian 教學/lesson00 how to use obsidian/","title":"L0 Obisdian 用法","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"created":"2025-05-10T22:09:53.238+08:00","updated":"2025-06-25T02:02:02.108+08:00"}
+{"dg-publish":true,"permalink":"/Obsidian 教學/lesson00 how to use obsidian/","title":"L0 Obisdian 用法","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"created":"2025-05-10T22:09:53.238+08:00","updated":"2025-06-25T02:02:07.588+08:00"}
 ---
 
 
