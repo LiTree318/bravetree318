@@ -24,6 +24,7 @@
 
 | Title                                                                                                      | Tag                                                                            | Last Modify |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- |
+| [[Obsidian 教學/lesson-03-材料/obsidian-dataabase-slides\|2025-06-27 Obsidian 資料庫｜Slides]]                  | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-24  |
 | [[Obsidian 教學/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]                            | #🎯學習歷程檔案 #📝數位工具交流beta #self_learing #🪨自籌Obsidian工作坊 #📋我的專案                 | 2025-06-24  |
 | [[Obsidian 教學/lesson01 Introduce Obsidian\|L1 2025-06-13 Obsidian 入門]]                                  | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-24  |
 | [[Obsidian 教學/lesson02 Basic skills of Obsidian\|L2 2025-06-20 Obsidian 基礎]]                            | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-24  |
@@ -39,7 +40,6 @@
 | [[Library/Movies/我的鯨魚老爸\|我的鯨魚老爸]]                                                                       | #🎬Movie                                                                       | 2025-06-24  |
 | [[Library/Movies/我只是個計程車司機\|我只是個計程車司機]]                                                                 | #🎬Movie                                                                       | 2025-06-24  |
 | [[Library/Movies/富都青年\|富都青年]]                                                                           | #🎬Movie                                                                       | 2025-06-24  |
-| [[Obsidian 教學/lesson-03-材料/obsidian-dataabase-slides\|2025-06-27 Obsidian 資料庫｜Slides]]                  | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-23  |
 | [[home\|🌲 HERE IS THE TREE'S HOLE]]                                                                    | #DigitalGarden #obsidian #self_learing #website_design                         | 2025-06-22  |
 | [[Obsidian 教學/lesson-03-材料/lesson03 Example04 Article Template\|模板04：📃 草稿／文章／成品]]                      | #🪨自籌Obsidian工作坊                                                               | 2025-06-22  |
 | [[Obsidian 教學/lesson-03-材料/lesson03 Example03 Library view Template\|模板03：🗃️ 資料庫／知識地圖／圖書館]]            | #🪨自籌Obsidian工作坊                                                               | 2025-06-22  |
