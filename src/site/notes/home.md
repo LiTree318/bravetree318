@@ -24,6 +24,11 @@
 
 | Title                                                                                                              | Tag                                                                            | Last Modify |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ----------- |
+| [[扎根：人類義務宣言緒論\|扎根：人類義務宣言緒論]]                                                                                    | #📚Books #🎯Upper-Growth #法國哲學 #政治哲學                                           | 2025-07-09  |
+| [[📖 閱讀計畫：Uppergrowth\|閱讀計畫：Uppergrowth]]                                                                       | #📋我的專案 #🎯Upper-Growth                                                        | 2025-07-09  |
+| [[投降的勇氣\|投降的勇氣]]                                                                                                | #📚Books #🎯Upper-Growth #心靈成長 #神學                                             | 2025-07-09  |
+| [[青鳥\|青鳥]]                                                                                                      | #📚Books #🎯Upper-Growth #法國文學                                                 | 2025-07-09  |
+| [[我有一個關於不倫的，小問題\|我有一個關於不倫的，小問題]]                                                                                | #📚Books #🎯Upper-Growth #親密關係                                                 | 2025-07-09  |
 | [[Obsidian 教學/lesson03 Build Obsidian database\|L3 2025-06-27 建立 Obsidian 資料庫]]                                 | #🪨自籌Obsidian工作坊 #🎯學習歷程檔案                                                     | 2025-06-27  |
 | [[Obsidian 教學/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]                                    | #🎯學習歷程檔案 #📝數位工具交流beta #self_learing #🪨自籌Obsidian工作坊 #📋我的專案                 | 2025-06-25  |
 | [[讀書筆記/🎙️LRB2021_On Simone Weil/Weil 的理論具備很強的政治屬性，使其與Beauvoir 呈現明顯差異。\|Weil 的理論具備很強的政治屬性，使其與Beauvoir 呈現明顯差異。]] | #Simone_Weil #Simone_Beauvoir                                                  | 2025-06-25  |
