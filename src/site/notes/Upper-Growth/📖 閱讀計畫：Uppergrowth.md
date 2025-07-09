@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"uppergrowth","permalink":"/uppergrowth/","title":" 📖 閱讀計畫：Upper-Growth","metatags":{"og:title":"📖 閱讀計畫：Upper-Growth","og:image":null,"description":"這是我從今天開始進行，每天的閱讀目標。<br>一天不要多，先 30 + 30 分鐘，早上晚上各一次。每天寫筆記。<br> 要求：(1) 關掉網路，手機開飛航模式，電腦裝置把網路關掉（音樂可以提前下載下來）；(2) 要寫筆記，放在obsidian 上面整理；(3) 每天做，不要停，書可以隨便選，不用一定要先把某一本讀完。"},"tags":["📋我的專案","🎯Upper-Growth"],"noteIcon":"3","created":"2025-07-09T16:45:48.115+08:00","updated":"2025-07-10T01:09:47.537+08:00"}
+{"dg-publish":true,"dg-permalink":"uppergrowth","permalink":"/uppergrowth/","title":" 📖 閱讀計畫：Upper-Growth","metatags":{"og:title":"📖 閱讀計畫：Upper-Growth","og:image":null,"description":"這是我從今天開始進行，每天的閱讀目標。<br>一天不要多，先 30 + 30 分鐘，早上晚上各一次。每天寫筆記。<br> 要求：(1) 關掉網路，手機開飛航模式，電腦裝置把網路關掉（音樂可以提前下載下來）；(2) 要寫筆記，放在obsidian 上面整理；(3) 每天做，不要停，書可以隨便選，不用一定要先把某一本讀完。"},"tags":["📋我的專案","🎯Upper-Growth"],"noteIcon":"3","created":"2025-07-09T16:45:48.115+08:00","updated":"2025-07-10T01:10:01.286+08:00"}
 ---
 
   
@@ -7,8 +7,6 @@
 
 > [!info]- 計畫說明
 > - 使用標籤： #🎯Upper-Growth 
-> - 文件類型：
-> 		type:: 📍Projects
 > - 說明：這是我從今天開始進行，每天的閱讀目標。一天不要多，先 30 + 30 分鐘，早上晚上各一次。每天寫筆記。
 > - 要求：1️⃣ 關掉網路，手機開飛航模式，電腦裝置把網路關掉（音樂可以提前下載下來）；2️⃣ 要寫筆記，放在obsidian 上面整理；3️⃣ 每天做，不要停，書可以隨便選，不用一定要先把某一本讀完。
 
