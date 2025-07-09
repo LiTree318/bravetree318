@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"lrb-podcast-on-simone-weil","permalink":"/lrb-podcast-on-simone-weil/","title":"On Simone Weil","tags":["🎙️Podcast"],"created":"2025-06-25T00:50:03.650+08:00","updated":"2025-06-25T02:02:22.021+08:00"}
+{"dg-publish":true,"dg-permalink":"lrb-podcast-on-simone-weil","permalink":"/lrb-podcast-on-simone-weil/","title":"On Simone Weil","tags":["🎙️Podcast"],"noteIcon":"3","created":"2025-06-25T00:50:03.650+08:00","updated":"2025-06-25T02:02:22.021+08:00"}
 ---
 
 
