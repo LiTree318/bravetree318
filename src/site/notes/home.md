@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2025-06-22T17:01:03.477+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","gardenEntry"],"noteIcon":"3","created":"2025-05-06T02:37:02.000+08:00","updated":"2025-06-22T17:01:03.000+08:00"}
 ---
 
 
@@ -27,8 +27,8 @@
 | [[Upper-Growth/📖 閱讀計畫：Uppergrowth\| 📖 閱讀計畫：Upper-Growth]]                                                     | #📋我的專案 #🎯Upper-Growth                                                        | 2025-07-10  |
 | [[Books/我有一個關於不倫的，小問題\|我有一個關於不倫的，小問題]]                                                                          | #📚Books #🎯Upper-Growth #親密關係                                                 | 2025-07-10  |
 | [[短文/「親愛的我，請你不要忘記」──讀《變成的人》\|「親愛的我，請你不要忘記」──讀《變成的人》]]                                                           | #變成的人                                                                          | 2025-07-09  |
-| [[短文/愛與礙，游離的情感與關係\|相愛／相礙：情感與游離的生活─橘子《寂寞不會》、陳玉梅《賢妻良母失敗記》]]                                                       | #橋本書屋 #寂寞不會 #賢妻良母失敗記 #獨，書會                                                     | 2025-07-09  |
 | [[短文/因為愛著，所以孤單\|因為愛著，所以孤單──拉斯・史文德森的《孤獨的哲學》]]                                                                    | #孤獨的哲學 #橋本書屋                                                                   | 2025-07-09  |
+| [[短文/愛與礙，游離的情感與關係\|相愛／相礙：情感與游離的生活─橘子《寂寞不會》、陳玉梅《賢妻良母失敗記》]]                                                       | #橋本書屋 #寂寞不會 #賢妻良母失敗記 #獨，書會                                                     | 2025-07-09  |
 | [[Books/走在山海河間的沉思\|走在山海河間的沉思]]                                                                                  | #📚Books #🎯Upper-Growth #自然書寫                                                 | 2025-07-09  |
 | [[Books/人魚紀\|人魚紀]]                                                                                              | #📚Books #🎯Upper-Growth #女性文學                                                 | 2025-07-09  |
 | [[Books/扎根：人類義務宣言緒論\|扎根：人類義務宣言緒論]]                                                                              | #📚Books #🎯Upper-Growth #法國哲學 #政治哲學                                           | 2025-07-09  |

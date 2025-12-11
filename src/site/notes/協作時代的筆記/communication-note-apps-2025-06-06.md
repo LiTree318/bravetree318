@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/協作時代的筆記/communication-note-apps-2025-06-06/","title":"協作時代下的筆記軟體","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","📋我的專案"],"noteIcon":"3","created":"2025-05-06T02:14:03.768+08:00","updated":"2025-06-25T02:02:00.798+08:00"}
+{"dg-publish":true,"permalink":"/協作時代的筆記/communication-note-apps-2025-06-06/","title":"協作時代下的筆記軟體","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","📋我的專案"],"noteIcon":"3","created":"2025-05-06T02:37:07.000+08:00","updated":"2025-06-25T02:02:00.000+08:00"}
 ---
 
 
@@ -43,14 +43,14 @@
 >  | 資料庫名稱                              | 連結                                                                       | 備註                                                             |
 > | ---------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- |
 > | 🗃️ Note box(temp)<br> #<%* #const | <%* let source = await tp.system.prompt("輸入網址") %>"[link](<% source %>)" | <%* let note =  await tp.system.prompt('請輸入備註') %>"<% note %>" |
+> | 中華民國地方議會議事錄總庫<br> #🗃️資料庫 #文史資料    | [link](https://journal.th.gov.tw)                                        |                                                                |
 > | 國史館台灣文獻庫<br> #🗃️資料庫 #文史資料         | [link](https://www.th.gov.tw/new_site/01archives/01file_archives/)       | 國史館檔案文獻庫總資料庫查詢頁面                                               |
 > | 國家檔案資訊網<br> #文史資料 #🗃️資料庫          | [link](https://aa.archives.gov.tw/Home/Index)                            |                                                                |
-> | 中華民國地方議會議事錄總庫<br> #🗃️資料庫 #文史資料    | [link](https://journal.th.gov.tw)                                        |                                                                |
-> | 檔案資源整合查詢平台<br> #文史資料 #🗃️資料庫       | [link](https://across.archives.gov.tw/naahyint/search.jsp)               | 彙整各個部會、機關的檔案及資料（可以查詢，借閱需要另外處理）                                 |
-> | 聯合報全文報紙資料庫<br> #新聞報導 #文史資料 #🗃️資料庫 | [link](https://udndata.com/ndapp/Index?cp=udn)                           | 查詢聯合報報導，需要授權帳號密碼                                               |
-> | 臺灣省議會史料總庫<br> #🗃️資料庫 #文史資料        | [link](https://drtpa.th.gov.tw)                                          |                                                                |
-> | 機關檔案目錄查詢網<br> #文史資料 #🗃️資料庫        | [link](https://near.archives.gov.tw/home)                                |                                                                |
 > | 政府公報資訊網<br> #文史資料 #🗃️資料庫          | [link](https://gaz.ncl.edu.tw/index.jsp)                                 | 查詢中央部會和地方政府的公報                                                 |
+> | 機關檔案目錄查詢網<br> #文史資料 #🗃️資料庫        | [link](https://near.archives.gov.tw/home)                                |                                                                |
+> | 檔案資源整合查詢平台<br> #文史資料 #🗃️資料庫       | [link](https://across.archives.gov.tw/naahyint/search.jsp)               | 彙整各個部會、機關的檔案及資料（可以查詢，借閱需要另外處理）                                 |
+> | 臺灣省議會史料總庫<br> #🗃️資料庫 #文史資料        | [link](https://drtpa.th.gov.tw)                                          |                                                                |
+> | 聯合報全文報紙資料庫<br> #新聞報導 #文史資料 #🗃️資料庫 | [link](https://udndata.com/ndapp/Index?cp=udn)                           | 查詢聯合報報導，需要授權帳號密碼                                               |
 > 
 { .block-language-dataview}
 
