@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"why-love-hurts-eva-illouz-2019","permalink":"/why-love-hurts-eva-illouz-2019/","title":"為什麼愛讓人受傷？","tags":["🪑讀書會","讀書筆記","💔為什麼愛讓人受傷？","📚Books"],"noteIcon":"3","created":"2026-01-03T16:37:34.877+08:00","updated":"2026-01-06T00:55:08.437+08:00"}
+{"dg-publish":true,"dg-permalink":"why-love-hurts-eva-illouz-2019","permalink":"/why-love-hurts-eva-illouz-2019/","title":"為什麼愛讓人受傷？","tags":["🪑讀書會","讀書筆記","💔為什麼愛讓人受傷？","📚Books"],"noteIcon":"3","created":"2026-01-03T16:37:34.877+08:00","updated":"2026-01-06T01:42:38.518+08:00"}
 ---
 
 
@@ -41,7 +41,7 @@
 >     
 > 4. [[第四章 愛情、理性、反諷\|第四章處理合理化（後）的激情]]
 >     
-> 5. 第五章處理浪漫想像的部署方式（例如透過影視作品、廣告產品等等）
+> 5. [[第五章 從浪漫幻想到失望\|第五章處理浪漫想像的部署方式]]（例如透過影視作品、廣告產品等等）
 
 
 
