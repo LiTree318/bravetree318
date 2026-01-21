@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"why-love-hurts-eva-illouz-2019","permalink":"/why-love-hurts-eva-illouz-2019/","title":"為什麼愛讓人受傷？","tags":["🪑讀書會","讀書筆記","💔為什麼愛讓人受傷？","📚Books"],"noteIcon":"3","created":"2026-01-03T16:37:34.877+08:00","updated":"2026-01-21T14:04:12.839+08:00"}
+{"dg-publish":true,"dg-permalink":"why-love-hurts-eva-illouz-2019","permalink":"/why-love-hurts-eva-illouz-2019/","title":"為什麼愛讓人受傷？","tags":["🪑讀書會","讀書筆記","💔為什麼愛讓人受傷？","📚Books"],"noteIcon":"3","created":"2026-01-03T16:37:34.877+08:00","updated":"2026-01-21T14:06:45.375+08:00"}
 ---
 
 導讀簡報：[你看這不就是一個愛的證明？––Why Love Hurts 導讀](https://docs.google.com/presentation/d/1LCySvxDp-VwOKs_pqlGkmMxYwnfnt9H0jO28fWMjEYo/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgYjSZwk6XEGUi2JhVwWWmw3MYURyZnglhrou-JGhAh8R3vjNnrjmTm2nimapaFp0pBQ6gLRx3UQ8M/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgYjSZwk6XEGUi2JhVwWWmw3MYURyZnglhrou-JGhAh8R3vjNnrjmTm2nimapaFp0pBQ6gLRx3UQ8M/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 | 引文                                                                                                                                                                                                                                                             | 筆記                                         | 頁碼                                                                                 | 標籤                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------- |
