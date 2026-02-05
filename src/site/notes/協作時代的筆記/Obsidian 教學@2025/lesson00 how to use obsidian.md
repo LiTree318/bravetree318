@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/協作時代的筆記/Obsidian 教學@2025/lesson00 how to use obsidian/","title":"L0 Obisdian 用法","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-05-10T22:09:53.238+08:00","updated":"2025-06-25T02:02:07.588+08:00"}
+{"dg-publish":true,"permalink":"/協作時代的筆記/Obsidian 教學@2025/lesson00 how to use obsidian/","title":"L0 Obisdian 用法","tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-05-10T22:22:49.000+08:00","updated":"2025-06-25T02:02:07.000+08:00"}
 ---
 
 

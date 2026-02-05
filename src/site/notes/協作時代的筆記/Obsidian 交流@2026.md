@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"owo-2026-01-21","permalink":"/owo-2026-01-21/","title":"OwO––Organize with Obsidian","tags":["🎯學習歷程檔案","📝數位工具交流beta","💬經驗分享與交流"],"noteIcon":"3","created":"2026-01-21T10:35:23.000+08:00","updated":"2026-02-03T21:29:28.869+08:00"}
+{"dg-publish":true,"dg-permalink":"owo-2026-01-21","permalink":"/owo-2026-01-21/","title":"OwO––Organize with Obsidian","tags":["🎯學習歷程檔案","📝數位工具交流beta","💬經驗分享與交流"],"noteIcon":"3","created":"2026-01-21T10:27:44.881+08:00","updated":"2026-02-03T21:29:28.000+08:00"}
 ---
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT0EM4PrjxOWX1p5JP4hF_Cv405SrXX-3S5p0LQZ2prWqo1TM1XzOlHcnGZkV0_VSKYfw-yus9SkLVW/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
