@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"why-love-hurts-eva-illouz-2019","permalink":"/why-love-hurts-eva-illouz-2019/","title":"為什麼愛讓人受傷？","tags":["🎯Upper-Growth","親密關係","女性主義"],"noteIcon":"3","created":"2026-01-03T16:37:34.877+08:00","updated":"2026-02-05T15:24:55.728+08:00"}
+{"dg-publish":true,"dg-permalink":"why-love-hurts-eva-illouz-2019","permalink":"/why-love-hurts-eva-illouz-2019/","title":"為什麼愛讓人受傷？","tags":["🎯Upper-Growth","親密關係","女性主義"],"noteIcon":"3","created":"2026-01-03T16:37:34.877+08:00","updated":"2026-02-05T15:25:00.736+08:00"}
 ---
 
 
@@ -34,6 +34,6 @@
 > 5. [[讀書筆記/💔 為什麼愛讓人受傷？–Eva Illouz/第五章 從浪漫幻想到失望\|第五章處理浪漫想像的部署方式]]（例如透過影視作品、廣告產品等等） #情感個人化  #認知本質化 #在幻想與真實之間 #追求自我滿足的關係 
 
 
-### >>>  Next Step [[未來讀書會 aka. Podcast 路上聽一聽｜活動規劃\|未來讀書會 aka. Podcast 路上聽一聽｜活動規劃]]
+### >>>  Next Step [[Upper-Growth/未來讀書會 aka. Podcast 路上聽一聽｜活動規劃\|未來讀書會 aka. Podcast 路上聽一聽｜活動規劃]]
 
  
