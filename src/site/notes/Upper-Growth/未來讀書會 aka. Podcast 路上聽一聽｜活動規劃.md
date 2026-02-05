@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"bridge-base-bookclub-2026-02-05","permalink":"/bridge-base-bookclub-2026-02-05/","title":"未來讀書會 aka. Podcast 路上聽一聽｜活動規劃","tags":["🎨Design-and-Plan","🎯Upper-Growth","🎙自己錄Podcast","📋我的專案","🪑讀書會"],"noteIcon":"3","created":"2026-02-05T15:16:44.863+08:00","updated":"2026-02-05T15:20:47.306+08:00"}
+{"dg-publish":true,"dg-permalink":"bridge-base-bookclub-2026-02-05","permalink":"/bridge-base-bookclub-2026-02-05/","title":"未來讀書會 aka. Podcast 路上聽一聽｜活動規劃","tags":["🎨Design-and-Plan","🎯Upper-Growth","🎙自己錄Podcast","📋我的專案","🪑讀書會"],"noteIcon":"3","created":"2026-02-05T15:16:44.863+08:00","updated":"2026-02-05T15:45:45.734+08:00"}
 ---
 
 
@@ -42,8 +42,8 @@
 
 
 > [!info] 別想那麼多，有啥讀啥
-> 1. 女性作家作品：《玻璃彈珠都是貓的眼睛》（之類的）
-> 2. 出清庫存中的書單，參考[讀書會後續規劃清單](obsidian://open?vault=happytree318&file=%E8%AE%80%E6%9B%B8%E6%9C%83%E5%BE%8C%E7%BA%8C%E8%A6%8F%E5%8A%83%E6%B8%85%E5%96%AE)和[📖 閱讀計畫：Uppergrowth](obsidian://open?vault=happytree318&file=Upper-Growth%2F%F0%9F%93%96%20%E9%96%B1%E8%AE%80%E8%A8%88%E7%95%AB%EF%BC%9AUppergrowth)
+> 1. 女性作家作品：《[[玻璃彈珠都是貓的眼睛\|玻璃彈珠都是貓的眼睛]]》（之類的）
+> 2. 出清庫存中的書單，參考[[讀書會後續規劃清單\|讀書會後續規劃清單]]和[[Upper-Growth/📖 閱讀計畫：Uppergrowth\|📖 閱讀計畫：Uppergrowth]]
 
 
 
