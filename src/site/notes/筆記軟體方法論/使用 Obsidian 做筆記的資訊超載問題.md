@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"overloading-about-obsidian-2026-02-07","permalink":"/overloading-about-obsidian-2026-02-07/","title":"【草稿】使用 Obsidian 做筆記的資訊超載問題","tags":["筆記軟體方法論","obsidian","🎯學習歷程檔案","💬經驗分享與交流","🛠️Doing","反身性","✒️Article"],"noteIcon":"3","created":"2026-02-07T04:19:56.108+08:00","updated":"2026-02-07T04:24:39.911+08:00"}
+{"dg-publish":true,"dg-permalink":"overloading-about-obsidian-2026-02-07","permalink":"/overloading-about-obsidian-2026-02-07/","title":"【草稿】使用 Obsidian 做筆記的資訊超載問題","tags":["筆記軟體方法論","obsidian","🎯學習歷程檔案","💬經驗分享與交流","🛠️Doing","反身性","✒️Article","self_learing"],"noteIcon":"3","created":"2026-02-07T04:19:56.108+08:00","updated":"2026-02-07T04:37:15.771+08:00"}
 ---
 
 

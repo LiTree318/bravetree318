@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"why-love-hurts-eva-illouz-2019","permalink":"/why-love-hurts-eva-illouz-2019/","title":"為什麼愛讓人受傷？","tags":["🎯Upper-Growth","親密關係","女性主義"],"noteIcon":"3","created":"2026-01-03T16:37:34.877+08:00","updated":"2026-02-05T15:25:00.736+08:00"}
+{"dg-publish":true,"dg-permalink":"why-love-hurts-eva-illouz-2019","permalink":"/why-love-hurts-eva-illouz-2019/","title":"為什麼愛讓人受傷？","tags":["🎯Upper-Growth","親密關係","女性主義","📚Books"],"noteIcon":"3","created":"2026-01-03T16:37:34.877+08:00","updated":"2026-02-07T04:33:55.643+08:00"}
 ---
 
 

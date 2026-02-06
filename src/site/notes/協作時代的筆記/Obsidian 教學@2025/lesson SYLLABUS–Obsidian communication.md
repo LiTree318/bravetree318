@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"syllabus_obsidian","permalink":"/syllabus_obsidian/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2025-06-25T18:54:44.000+08:00"}
+{"dg-publish":true,"dg-permalink":"syllabus_obsidian","permalink":"/syllabus_obsidian/","title":"課程架構｜Obsidian–筆記軟體交流","tags":["🎯學習歷程檔案","📝數位工具交流beta","self_learing","🪨自籌Obsidian工作坊","📋我的專案"],"noteIcon":"3","created":"2025-06-01T08:44:53.000+08:00","updated":"2026-02-07T04:41:18.772+08:00"}
 ---
 
 
