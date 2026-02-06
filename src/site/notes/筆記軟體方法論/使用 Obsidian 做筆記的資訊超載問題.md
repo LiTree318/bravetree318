@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"overloading-about-obsidian-2026-02-07","permalink":"/overloading-about-obsidian-2026-02-07/","title":"【草稿】使用 Obsidian 做筆記的資訊超載問題","tags":["筆記軟體方法論","obsidian","🎯學習歷程檔案","💬經驗分享與交流","🛠️Doing","反身性","✒️Article","self_learing"],"noteIcon":"3","created":"2026-02-07T04:19:56.108+08:00","updated":"2026-02-07T04:37:15.771+08:00"}
+{"dg-publish":true,"dg-permalink":"overloading-about-obsidian-2026-02-07","permalink":"/overloading-about-obsidian-2026-02-07/","title":"【草稿】使用 Obsidian 做筆記的資訊超載問題","tags":["筆記軟體方法論","obsidian","🎯學習歷程檔案","💬經驗分享與交流","🛠️Doing","反身性","✒️Article","self_learing"],"noteIcon":"3","created":"2026-02-07T04:19:56.108+08:00","updated":"2026-02-07T04:44:57.193+08:00"}
 ---
-
-
-> [!summary] 大綱
-> 1. [[#前言：Obsidian 的優勢與劣勢]]
-> 2. [[#以 Input 為導向的方法論]]
-> 3. [[#治絲益棼：資料庫 basement 以及其適用性問題]] #要導出問題和解方
-> 4. [[#小結：資料庫框架與資料主題的類型]]
-> 5. [[#附錄：基於不同資料庫主題型態的框架及可能的方法論]]
 
 #### 摘要
 
