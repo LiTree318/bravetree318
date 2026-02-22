@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"overloading-about-obsidian-2026-02-07","permalink":"/overloading-about-obsidian-2026-02-07/","title":"【草稿】使用 Obsidian 做筆記的資訊超載問題","tags":["筆記軟體方法論","obsidian","🎯學習歷程檔案","💬經驗分享與交流","🛠️Doing","反身性","✒️Article","self_learing"],"noteIcon":"3","created":"2026-02-07T04:19:56.108+08:00","updated":"2026-02-11T01:11:43.786+08:00"}
+{"dg-publish":true,"dg-permalink":"overloading-about-obsidian-2026-02-07","permalink":"/overloading-about-obsidian-2026-02-07/","title":"【草稿】使用 Obsidian 做筆記的資訊超載問題","tags":["筆記軟體方法論","obsidian","🎯學習歷程檔案","💬經驗分享與交流","🛠️Doing","反身性","✒️Article","self_learing"],"noteIcon":"3","created":"2026-02-14T01:13:41.000+08:00","updated":"2026-02-11T01:11:43.000+08:00"}
 ---
 
 #### 摘要
@@ -35,7 +35,7 @@
 Obsidian 的優勢在於能透過 **internal link** 快速設立不同筆記之間的關聯性，這個特點使得 Obsidian 在處理資料時能更適應破碎、零散的資訊來源。特別是當我們在短時間內漫無目的地蒐集資料、發想點子時，不同資訊和靈感之間尚未能構成足夠完整的篇幅，這時候，透過 internal link 功能，可以快速將這些分散的點子串連起來。
 
 
-> ![Pasted image 20260210234109.png](/img/user/Pasted%20image%2020260210234109.png)
+> ![[Pasted image 20260210234109.png]]
 > 
 > 圖：[[筆記軟體方法論/使用 Obsidian 做筆記的資訊超載問題\|使用 Obsidian 做筆記的資訊超載問題]] 中串連的其他概念和文件。
 

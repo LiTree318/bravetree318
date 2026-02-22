@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2025-06-20-obsidian-02","permalink":"/2025-06-20-obsidian-02/","title":"L2 2025-06-20 Obsidian 基礎","metatags":{"og:title":"2025-06-20 Obsidian 基礎","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png","description":"2025-06-20 Obsidian 基礎：建立筆記關連／I-P-O 筆記法／用標籤管理資料庫／常用指令／關聯瀏覽／分類筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-17T22:48:22.000+08:00","updated":"2025-06-24T06:04:19.157+08:00"}
+{"dg-publish":true,"dg-permalink":"2025-06-20-obsidian-02","permalink":"/2025-06-20-obsidian-02/","title":"L2 2025-06-20 Obsidian 基礎","metatags":{"og:title":"2025-06-20 Obsidian 基礎","og:image":"https://github.com/LiTree318/bravetree318/blob/30d06f8c84f5e1a799df01adf873ad965dabe42a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png","description":"2025-06-20 Obsidian 基礎：建立筆記關連／I-P-O 筆記法／用標籤管理資料庫／常用指令／關聯瀏覽／分類筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:35.000+08:00","updated":"2025-06-24T06:04:19.000+08:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 
 
-![投影片4-06-01-25_08-32-52-831.png](/img/user/%E5%8D%94%E4%BD%9C%E6%99%82%E4%BB%A3%E7%9A%84%E7%AD%86%E8%A8%98/Obsidian%20%E6%95%99%E5%AD%B8@2025/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%874-06-01-25_08-32-52-831.png)
+![[投影片4-06-01-25_08-32-52-831.png]]
 
 
 ---

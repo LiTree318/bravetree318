@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how_to_build_website_by_obsidian","permalink":"/how_to_build_website_by_obsidian/","title":"🔖 如何用 Obsidian 架設網站","metatags":{"og:title":"🔖 如何用 Obsidian 架設網站"},"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案","📝數位工具交流beta"],"noteIcon":"3","created":"2025-06-19T01:34:48.000+08:00","updated":"2025-06-22T13:13:44.000+08:00"}
+{"dg-publish":true,"dg-permalink":"how_to_build_website_by_obsidian","permalink":"/how_to_build_website_by_obsidian/","title":"🔖 如何用 Obsidian 架設網站","metatags":{"og:title":"🔖 如何用 Obsidian 架設網站"},"tags":["DigitalGarden","obsidian","self_learing","website_design","🎯學習歷程檔案","📝數位工具交流beta"],"noteIcon":"3","created":"2025-05-05T18:30:31.468+08:00","updated":"2025-06-22T13:13:44.956+08:00"}
 ---
 
 
@@ -83,7 +83,7 @@
 
 ![Pasted image 20250505213827.png](/img/user/ignore/img/Pasted%20image%2020250505213827.png)
 - 選擇下方的「**Can’t see your repo here? Configure the Netlify app on GitHub.**」，從這裡設定授權。
-![Pasted image 20250505213843.png](/img/user/ignore/img/Pasted%20image%2020250505213843.png)
+![[Pasted image 20250505213843.png]]
 
 
 - 選擇下方「Repository access」，將您方才設定的專案授權給 Netlify。
@@ -91,7 +91,7 @@
 ![Pasted image 20250505214021.png](/img/user/ignore/img/Pasted%20image%2020250505214021.png)
 - 此時，您的首頁上會出現方才加入的專案。
 
-![Pasted image 20250505214124.png](/img/user/ignore/img/Pasted%20image%2020250505214124.png)
+![[Pasted image 20250505214124.png]]
 - 點開，在下方輸入網域名稱（記得不要重複，此處之後可以改），然後送出。
 ![Pasted image 20250505215344.png](/img/user/ignore/img/Pasted%20image%2020250505215344.png)
 
@@ -117,8 +117,8 @@ tags:
 - `dg-publish` 代表這篇筆記「會匯出到網頁」。每一份筆記都需要加上這一段文字，才能匯出到網頁上（相反的，如果儲存庫中的筆記沒有加上這一行，就無法匯出到網站上）。請在 `:` 後面輸入 `True`，代表這份筆記要上傳。
 - `tags` 可以輸入標籤，用來分類每一份筆記，用法如上。
 
-![Pasted image 20250505215011.png](/img/user/ignore/img/Pasted%20image%2020250505215011.png)
-![Pasted image 20250505215048.png](/img/user/ignore/img/Pasted%20image%2020250505215048.png)
+![[Pasted image 20250505215011.png]]
+![[Pasted image 20250505215048.png]]
 
 
 #### （三） Digital Garden，啟動！打開 Netlify，檢查網頁是否匯出成功
