@@ -21,6 +21,6 @@
 
 > [!NOTE] [[Notion Clipper\|Notion Clipper]] #安裝在瀏覽器上
 > 搭配Notion使用，將網頁擷取存成筆記；方便整理網頁和搜尋結果。
-> ![[Pasted image 20250531095642.png]]
+> ![Pasted image 20250531095642.png](/img/user/%E5%A6%82%E4%BD%95%E6%89%BE%E8%B3%87%E6%96%99/Pasted%20image%2020250531095642.png)
 
 
