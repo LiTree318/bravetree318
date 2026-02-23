@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2026-02-22-a-problem-about-love","permalink":"/2026-02-22-a-problem-about-love/","title":"讀書會架構｜那些感情與關係中的，小問題","tags":["親密關係","🪑讀書會","🎨Design-and-Plan","📋我的專案"],"noteIcon":"3","created":"2026-02-22T16:33:26.000+08:00","updated":"2026-02-23T18:47:10.297+08:00"}
+{"dg-publish":true,"dg-permalink":"2026-02-22-a-problem-about-love","permalink":"/2026-02-22-a-problem-about-love/","title":"讀書會架構｜那些感情與關係中的，小問題","tags":["親密關係","🪑讀書會","🎨Design-and-Plan","📋我的專案"],"noteIcon":"3","created":"2026-02-23T18:47:12.000+08:00","updated":"2026-02-23T18:47:13.929+08:00"}
 ---
 
 
@@ -15,7 +15,6 @@
 > [!summary] 書單
 > <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScdvsJ_Dxgc785T3VwsNFPpF6_DWlCeZyOrxrDckS1Cusn7dw/viewform?embedded=true" width="100%" height="480" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 > 
-> --- 
 > - [ ] 許俐葳 [[Books/我有一個關於不倫的，小問題\|我有一個關於不倫的，小問題]] #小說 #出軌 #外遇
 > - [ ] 陳玉梅 [[賢妻良母失敗記\|賢妻良母失敗記]] #報導文學 #婚姻與家庭 
 > - [ ] 胡淑雯等 [[以為無人傾聽的她們\|以為無人傾聽的她們]] #社會議題 #人工流產 
