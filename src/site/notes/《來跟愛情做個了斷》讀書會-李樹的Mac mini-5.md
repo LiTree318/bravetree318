@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2026-02-22-a-problem-about-love","permalink":"/2026-02-22-a-problem-about-love/","title":"讀書會架構｜那些感情與關係中的，小問題","tags":["親密關係","🪑讀書會","🎨Design-and-Plan","📋我的專案"],"noteIcon":"3","created":"2026-02-23T18:47:12.000+08:00","updated":"2026-02-23T18:47:13.929+08:00"}
+{"dg-publish":true,"dg-permalink":"2026-02-22-a-problem-about-love","permalink":"/2026-02-22-a-problem-about-love/","title":"讀書會架構｜那些感情與關係中的，小問題","tags":["親密關係","🪑讀書會","🎨Design-and-Plan","📋我的專案"],"noteIcon":"3","created":"2026-02-23T18:47:12.000+08:00","updated":"2026-02-23T18:47:18.958+08:00"}
 ---
 
 
