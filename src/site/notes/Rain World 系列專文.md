@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2026-03-23-rainworld-life-existence-and-meaning","permalink":"/2026-03-23-rainworld-life-existence-and-meaning/","title":"生命、存在與意義：《Rain World》","metatags":{"title":"生命、存在與意義：《Rain World》","image":"https://bravetree318.netlify.app/img/optimized/4KRLZCRhDv-700.webp","description":"Yes, I'm lost"},"tags":["🌧️RainWorld","🎮Video_Game","🛠️Doing"],"noteIcon":"3","created":"2026-03-23T11:54:41.593+08:00","updated":"2026-03-23T12:42:35.146+08:00"}
+{"dg-publish":true,"dg-permalink":"2026-03-23-rainworld-life-existence-and-meaning","permalink":"/2026-03-23-rainworld-life-existence-and-meaning/","title":"生命、存在與意義：《Rain World》","metatags":{"title":"生命、存在與意義：《Rain World》","image":"https://bravetree318.netlify.app/img/optimized/4KRLZCRhDv-700.webp","description":"Yes, I'm lost"},"tags":["🌧️RainWorld","🎮Video_Game","🛠️Doing"],"noteIcon":"3","created":"2026-03-23T11:54:41.593+08:00","updated":"2026-03-23T12:42:49.760+08:00"}
 ---
 
 
@@ -20,8 +20,8 @@
 
 
 - ==slugcat==／遊玩視角：[[#^b11627|作為一個小生物]]
-- ==player==／<br>玩家視角：[[#^9282b4|這是什麼爛遊戲……]]
-- ==worldview==／<br>劇情視角：[[#^54916d|走向死亡的世界]]
+- ==player==／玩家視角：[[#^9282b4|這是什麼爛遊戲……]]
+- ==worldview==／劇情視角：[[#^54916d|走向死亡的世界]]
 
 
 
