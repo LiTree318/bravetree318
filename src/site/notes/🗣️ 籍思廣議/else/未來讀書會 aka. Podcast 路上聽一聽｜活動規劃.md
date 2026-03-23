@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"bridge-base-bookclub-2026-02-05","permalink":"/bridge-base-bookclub-2026-02-05/","title":"未來讀書會 aka. Podcast 路上聽一聽｜活動規劃","tags":["🎨Design-and-Plan","🎙自己錄Podcast","📋我的專案","🪑讀書會"],"noteIcon":"3","created":"2026-02-05T15:16:44.863+08:00","updated":"2026-03-06T15:07:36.187+08:00"}
+{"dg-publish":true,"dg-permalink":"bridge-base-bookclub-2026-02-05","permalink":"/bridge-base-bookclub-2026-02-05/","title":"未來讀書會 aka. Podcast 路上聽一聽｜活動規劃","tags":["🎨Design-and-Plan","🎙自己錄Podcast","📋我的專案","🪑讀書會"],"noteIcon":"3","created":"2026-02-05T17:16:27.000+08:00","updated":"2026-03-23T17:47:43.176+08:00"}
 ---
 
 > [!danger] [[重點在這邊：不要排斥找新的資料，問人、或者上Youtube、JSTOR找資料\|重點在這邊：不要排斥找新的資料，問人、或者上Youtube、JSTOR找資料]] #bridge-bookclub 
