@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","✒️Article","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2026-03-23T17:47:47.734+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","✒️Article","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2026-03-23T20:26:55.664+08:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 | 📖 讀書心得                                                           | Tag                                                                             | Last Modify |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------- |
-| [[home\|🌲 HERE IS THE TREE'S HOLE]]                           | #DigitalGarden #obsidian #self_learing #website_design #✒️Article               | 2026-03-23  |
+| [[home\|🌲 HERE IS THE TREE'S HOLE]]                           | #DigitalGarden #obsidian #self_learing #website_design #✒️Article #gardenEntry  | 2026-03-23  |
 | [[短文/親密的侮虐：肌膚、曖昧，與關係毀滅\|親密的侮虐：肌膚、曖昧，與關係毀滅]]                    | #📚Books #親密關係                                                                  | 2026-03-20  |
 | [[Books/Illouz 2019_為什麼愛讓人受傷？\|為什麼愛讓人受傷？]]                     | #親密關係 #女性主義 #📚Books                                                            | 2026-02-23  |
 | [[筆記軟體方法論/使用 Obsidian 做筆記的資訊超載問題\|【草稿】使用 Obsidian 做筆記的資訊超載問題]] | #筆記軟體方法論 #obsidian #🎯學習歷程檔案 #💬經驗分享與交流 #🛠️Doing #反身性 #✒️Article #self_learing | 2026-02-11  |
@@ -52,10 +52,11 @@
 
 | 進度        | 🎨 目前正在發展的企劃                                                                                                                | Last Modify |
 | --------- | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| #🛠️Doing | [[🗣️ 籍思廣議/🎙️ P002 生命、存在與意義：《RainWorld》/Rain World 系列專文\|生命、存在與意義：《Rain World》]]                                        | 2026-03-23  |
-| #🛠️Doing | [[🗣️ 籍思廣議/else/未來讀書會 aka. Podcast 路上聽一聽｜活動規劃\|未來讀書會 aka. Podcast 路上聽一聽｜活動規劃]]                                           | 2026-03-23  |
+| #🛠️Doing | [[🗣️ 籍思廣議/🎙️ P002 生命、存在與意義：《RainWorld》/Rain World 系列專文\|生命、存在與意義：《Rain World》]]                                        | 2026-03-28  |
+| #🛠️Doing | [[沒有人的文明沒有意義\|《RainWorld》之外：沒有人的文明沒有意義]]                                                                                 | 2026-03-28  |
 | #🛠️Doing | [[🗣️ 籍思廣議/else/恐懼之島：灰濛記憶與無以名狀之物\|恐懼之島：灰濛記憶與無以名壯之物]]                                                                     | 2026-03-23  |
 | #🛠️Doing | [[🗣️ 籍思廣議/else/地方、韌性與花蓮\|整理花蓮有關的政策、計畫和資料]]                                                                              | 2026-03-23  |
+| #🛠️Doing | [[🗣️ 籍思廣議/else/未來讀書會 aka. Podcast 路上聽一聽｜活動規劃\|未來讀書會 aka. Podcast 路上聽一聽｜活動規劃]]                                           | 2026-03-23  |
 | #🛠️Doing | [[🗣️ 籍思廣議/else/《關係介／外》讀書會筆記清單\|關係介／外]]                                                                                  | 2026-03-23  |
 | #✅Done    | [[🗣️ 籍思廣議/🎙️ P001 這不就是一個愛的證明？──導讀Eva Illouz《為什麼愛讓人受傷》/📝 腳本｜路上聽一聽 S0EP01\|S0EP01 這不就是一個愛的證明？──導讀Eva Illouz《為什麼愛讓人受傷》]] | 2026-02-23  |
 | #✅Done    | [[協作時代的筆記/communication-note-apps-2025-06-06\|協作時代下的筆記軟體]]                                                               | 2026-02-07  |
