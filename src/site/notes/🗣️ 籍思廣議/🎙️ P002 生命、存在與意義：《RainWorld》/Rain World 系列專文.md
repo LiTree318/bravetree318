@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2026-03-23-rainworld-life-existence-and-meaning","permalink":"/2026-03-23-rainworld-life-existence-and-meaning/","title":"生命、存在與意義：《Rain World》","metatags":{"title":"生命、存在與意義：《Rain World》","image":"https://bravetree318.netlify.app/img/optimized/4KRLZCRhDv-700.webp","description":"Yes, I'm lost"},"tags":["🌧️RainWorld","🎮Video_Game","🛠️Doing","📋我的專案","🎙自己錄Podcast","🚶路上聽一聽","✅待辦事項"],"noteIcon":"3","created":"2026-03-23T17:47:07.000+08:00","updated":"2026-03-28T17:25:13.510+08:00"}
+{"dg-publish":true,"dg-permalink":"2026-03-23-rainworld-life-existence-and-meaning","permalink":"/2026-03-23-rainworld-life-existence-and-meaning/","title":"生命、存在與意義：《Rain World》","metatags":{"title":"生命、存在與意義：《Rain World》","image":"https://bravetree318.netlify.app/img/optimized/4KRLZCRhDv-700.webp","description":"Yes, I'm lost"},"tags":["🌧️RainWorld","🎮Video_Game","🛠️Doing","📋我的專案","🎙自己錄Podcast","🚶路上聽一聽","✅待辦事項"],"noteIcon":"3","created":"2026-03-23T17:47:07.000+08:00","updated":"2026-03-28T17:25:18.519+08:00"}
 ---
 
 
