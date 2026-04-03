@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2025-06-13-obsidian-01","permalink":"/2025-06-13-obsidian-01/","title":"L1 2025-06-13 Obsidian 入門","metatags":{"title":"2025-06-13 Obsidian 入門","image":"https://github.com/LiTree318/bravetree318/blob/d6cf3da879eb49a7110fe8f1ddfae21f2216895a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%873-06-01-25_08-32-52-810.png","description":"2025-06-13 Obsidian 入門：為什麼選擇筆記軟體／認識 Markdown 語言／認識套件／設定儲存庫／安裝套件／完成第一份筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-10T19:14:31.000+08:00","updated":"2026-03-23T20:26:55.648+08:00"}
+{"dg-publish":true,"dg-permalink":"2025-06-13-obsidian-01","permalink":"/2025-06-13-obsidian-01/","title":"L1 2025-06-13 Obsidian 入門","metatags":{"title":"2025-06-13 Obsidian 入門","image":"https://github.com/LiTree318/bravetree318/blob/d6cf3da879eb49a7110fe8f1ddfae21f2216895a/src/site/img/user/obsidian%20%E6%95%99%E5%AD%B8/ob%E4%BA%A4%E6%B5%81%E6%BA%96%E5%82%99/%E6%8A%95%E5%BD%B1%E7%89%873-06-01-25_08-32-52-810.png","description":"2025-06-13 Obsidian 入門：為什麼選擇筆記軟體／認識 Markdown 語言／認識套件／設定儲存庫／安裝套件／完成第一份筆記"},"tags":["🪨自籌Obsidian工作坊","🎯學習歷程檔案"],"noteIcon":"3","created":"2025-06-08T15:39:11.484+08:00","updated":"2026-03-23T20:26:55.000+08:00"}
 ---
 
 

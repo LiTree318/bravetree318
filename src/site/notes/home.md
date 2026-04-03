@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","✒️Article","gardenEntry"],"noteIcon":"3","created":"2025-05-04T16:52:57.499+08:00","updated":"2026-03-23T20:26:55.664+08:00"}
+{"dg-publish":true,"permalink":"/home/","title":"🌲 HERE IS THE TREE'S HOLE","pinned":true,"tags":["DigitalGarden","obsidian","self_learing","website_design","✒️Article","gardenEntry"],"noteIcon":"3","created":"2025-05-06T02:37:02.000+08:00","updated":"2026-03-23T20:26:55.000+08:00"}
 ---
 
 
@@ -41,9 +41,9 @@
 | ⚒️ 筆記軟體的教學檔案和討論                                                                              | Tag                                                                             | Last Modify |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------- |
 | [[筆記軟體方法論/使用 Obsidian 做筆記的資訊超載問題\|【草稿】使用 Obsidian 做筆記的資訊超載問題]]                            | #筆記軟體方法論 #obsidian #🎯學習歷程檔案 #💬經驗分享與交流 #🛠️Doing #反身性 #✒️Article #self_learing | 2026-02-11  |
+| [[協作時代的筆記/Obsidian 教學@2025/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]] | #🎯學習歷程檔案 #📝數位工具交流beta #self_learing #🪨自籌Obsidian工作坊 #📋我的專案                  | 2026-02-07  |
 | [[協作時代的筆記/Obsidian 交流@2026\|OwO––Organize with Obsidian]]                                 | #🎯學習歷程檔案 #📝數位工具交流beta #💬經驗分享與交流                                              | 2026-02-07  |
 | [[協作時代的筆記/communication-note-apps-2025-06-06\|協作時代下的筆記軟體]]                                | #🎯學習歷程檔案 #📝數位工具交流beta #self_learing #📋我的專案                                   | 2026-02-07  |
-| [[協作時代的筆記/Obsidian 教學@2025/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]] | #🎯學習歷程檔案 #📝數位工具交流beta #self_learing #🪨自籌Obsidian工作坊 #📋我的專案                  | 2026-02-07  |
 
 { .block-language-dataview}
 
@@ -60,8 +60,8 @@
 | #🛠️Doing | [[🗣️ 籍思廣議/else/地方、韌性與花蓮\|整理花蓮有關的政策、計畫和資料]]                                                                              | 2026-03-23  |
 | #🛠️Doing | [[🗣️ 籍思廣議/else/未來讀書會 aka. Podcast 路上聽一聽｜活動規劃\|未來讀書會 aka. Podcast 路上聽一聽｜活動規劃]]                                           | 2026-03-23  |
 | #✅Done    | [[🗣️ 籍思廣議/🎙️ P001 這不就是一個愛的證明？──導讀Eva Illouz《為什麼愛讓人受傷》/📝 腳本｜路上聽一聽 S0EP01\|S0EP01 這不就是一個愛的證明？──導讀Eva Illouz《為什麼愛讓人受傷》]] | 2026-02-23  |
-| #✅Done    | [[協作時代的筆記/communication-note-apps-2025-06-06\|協作時代下的筆記軟體]]                                                               | 2026-02-07  |
 | #✅Done    | [[協作時代的筆記/Obsidian 教學@2025/lesson SYLLABUS–Obsidian communication\|課程架構｜Obsidian–筆記軟體交流]]                                | 2026-02-07  |
+| #✅Done    | [[協作時代的筆記/communication-note-apps-2025-06-06\|協作時代下的筆記軟體]]                                                               | 2026-02-07  |
 
 { .block-language-dataview}
 
