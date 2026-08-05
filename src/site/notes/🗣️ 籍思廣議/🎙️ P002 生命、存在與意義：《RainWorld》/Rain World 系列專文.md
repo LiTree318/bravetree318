@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2026-03-23-rainworld-life-existence-and-meaning","permalink":"/2026-03-23-rainworld-life-existence-and-meaning/","title":"生命、存在與意義：《Rain World》","metatags":{"title":"生命、存在與意義：《Rain World》","image":"https://bravetree318.netlify.app/img/optimized/4KRLZCRhDv-700.webp","description":"Yes, I'm lost"},"tags":["🌧️RainWorld","🎮Video_Game","🛠️Doing","📋我的專案","🎙自己錄Podcast","🚶路上聽一聽","✅待辦事項"],"noteIcon":"3","created":"2026-03-23T17:47:07.000+08:00","updated":"2026-03-28T17:25:18.519+08:00"}
+{"dg-publish":true,"dg-permalink":"2026-03-23-rainworld-life-existence-and-meaning","permalink":"/2026-03-23-rainworld-life-existence-and-meaning/","title":"生命、存在與意義：《Rain World》","metatags":{"title":"生命、存在與意義：《Rain World》","image":"https://bravetree318.netlify.app/img/optimized/4KRLZCRhDv-700.webp","description":"Yes, I'm lost"},"tags":["🌧️RainWorld","🎮Video_Game","🛠️Doing","📋我的專案","🎙自己錄Podcast","🚶路上聽一聽","✅待辦事項"],"noteIcon":"3","created":"2026-03-23T17:47:07.000+08:00","updated":"2026-08-05T17:52:19.235+08:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 - Role：[[作為食物鏈底層的小生物\|作為食物鏈底層的小生物]]  
 - Play(er)：[[這是什麼爛遊戲？！\|這是什麼爛遊戲？！]]  
-- Game：[[沒有人的文明沒有意義\|沒有人的文明沒有意義]]  
+- Game：[[🗣️ 籍思廣議/🎙️ P002 生命、存在與意義：《RainWorld》/沒有人的文明沒有意義\|沒有人的文明沒有意義]]  
 
 這遊戲的虛無感，恰好也能從這三個角度凸顯出來。  
 
@@ -36,6 +36,7 @@
 而脫離單次的遊玩經驗，咀嚼遊戲中出現的文本，你也會感受到這遊戲充滿無力感：這個世界正在走向衰敗，並非是因為歲月磨蝕，而是因為這裡已經不存在任何「人」──缺少能賦予意義的角色。  
 
 遊戲設計者很巧妙地透過這三重視角，營造如傾盆大雨般的無力感。即便作為玩家努力玩到通關，遊戲也用結局告訴你：「你不過是另外一隻秒小的蟲子」。  
+
 玩家在遊戲的所作所為對這世界無足輕重，缺少你，這世界一樣會朝向毀滅墜落。  
 
 有趣的是，這與第一個DLC：Downpour呈現的氛圍截然不同。Downpour 努力讓各個蛞蝓貓有明確的方向跟目標（在R的層次）；而玩家會因為角色有明確，而更知道自己要做什麼（在 P 的層次）；也因此，Downpour的世界觀（嘗試）為這即將消逝的雨世界找到來生（在 G 的層次）。  
@@ -44,7 +45,7 @@ Downpour 從另外一個角度「提供」了詮釋這世界的方式──既�
 
 而這個虛無就成了第二個第二個DLC：The Watcher 的遊戲氛圍。The Watcher 只提供一種視角，此時的蛞蝓貓與玩家合而為一──或者這樣說：玩家在這次的DLC中，扮演的是代表著「玩家」的蛞蝓貓【R(P)】，這個名為「the Watcher（玩家）」的蛞蝓貓，自然知道自己在這個世界應該做什麼。
 
-於是在 R 的層次，這隻貓咪抱持著觀望這世界的心態到處遊走；在 P 的層次，玩家邊遊走邊觸發推進劇情的一切條件；而在 G 的層次，則是將整個世界觀拉到「觀察」（watch）的角度：貓在看、玩家在看、這世界也安排著重要的NPC 跟你一起看。
+於是在 R 的層次，這隻貓咪抱持著觀望這世界的心態到處遊走；在 P 的層次，玩家邊遊走邊觸發推進劇情的一切條件；而在 G 的層次，則是將整個世界觀拉到「觀察」（watch）的角度：貓在看、玩家在看、這世界也安排著重要的 NPC 跟你一起看。
 
 但到了最後，蛞蝓貓跟玩家在最後的結局分道揚鑣──或者說，此時，玩家將體驗由（扮演「玩家」的）蛞蝓貓代表的玩家【P(R(P))】，走向一個（也許是）蛞蝓貓本貓想要達成的結局。
 
